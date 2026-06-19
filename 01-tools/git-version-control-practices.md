@@ -6,7 +6,7 @@ tags: [git, version-control, git-branching, command-line]
 aliases: [Git基础操作, Git配置, 版本控制]
 status: completed
 date created: 星期二, 二月 10日 2026, 10:44:33 上午
-date modified: 星期五, 六月 19日 2026, 4:59:32 下午
+date modified: 星期五, 六月 19日 2026, 6:31:49 晚上
 ---
 
 <!-- toc -->
@@ -355,11 +355,17 @@ git submodule update --remote --merge
 
 ## 6. 拓展信息
 
-### 6.1.1. 开源证书信息
+### 6.1. 开源证书信息
 
 ![](http://qiniu.sxyxy.top/20240108112902.png?image=image)
 
-## 6.2. 参考资料
+### 6.2. 仓库认证 — `Repository not found`
+
+**现象**：API 验证 Token 通过（curl 返回 200），但 `git subtree pull` 仍然失败。
+
+**原因**：`actions/checkout@v4` 默认 `persist-credentials: true`，会注入一个 **local** 级别的 credential helper（使用 `GITHUB_TOKEN`）。local 配置优先级高于 global，导致我们设置的 PAT 被覆盖。
+
+## 7. 参考资料
 
 - [官方链接](https://git-scm.com/)
 - [参考文档](https://www.yiibai.com/git/git_branch.html)
