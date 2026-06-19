@@ -1,5 +1,6 @@
 ---
 filename: markdown-linting-tools
+title: Markdown格式规范指南
 aliases: ["Markdown格式规范", "文档格式化工具", "MarkdownLinter", "ObsidianLinter"]
 tags: ["markdown", "linter", "Obsidian", "工具", "文档格式", "自动化", "markdownlint", "markdown-toc", "Number Headings"]
 status: completed
