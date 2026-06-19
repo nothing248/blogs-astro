@@ -5,7 +5,7 @@ tags: ["markdown", "linter", "Obsidian", "工具", "文档格式", "自动化", 
 status: completed
 summary: 本笔记详细介绍了Markdown文档格式化与结构优化的多种工具及实践方法。核心内容涵盖了命令行工具 `markdownlint-cli` 及其定制化配置（如禁用特定规则MD013、MD033），以保持一致的代码风格；同时探讨了 `markdown-toc` 工具如何自动化生成内嵌目录，以及 Obsidian 插件 `Number Headings` 在标题编号方面的应用。此指南旨在提升Markdown笔记的可读性、维护性及RAG检索友好度，尤其适用于Obsidian用户进行高效知识管理。
 date created: 星期五, 六月 19日 2026, 2:08:41 下午
-date modified: 星期五, 六月 19日 2026, 3:53:11 下午
+date modified: 星期五, 六月 19日 2026, 4:44:12 下午
 ---
 
 <!-- toc -->
