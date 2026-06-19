@@ -41,12 +41,16 @@ jobs:
           echo "✅ Token 验证通过"
           echo "::endgroup::"
 
-      - name: Sync subtree from blogs-origin
+      - name: Configure private repo access
         env:
           BLOGS_ORIGIN_TOKEN: ${{ secrets.BLOGS_ORIGIN_TOKEN }}
         run: |
+          git config --global url."https://x-access-token:${BLOGS_ORIGIN_TOKEN}@github.com/".insteadOf "https://github.com/"
+
+      - name: Sync subtree from blogs-origin
+        run: |
           git subtree pull --prefix=src/content/docs \
-            https://x-access-token:${BLOGS_ORIGIN_TOKEN}@github.com/nothing248/blogs-origin.git master --squash \
+            https://github.com/nothing248/blogs-origin.git master --squash \
             -m "chore: sync content from blogs-origin"
 
       - name: Push changes
