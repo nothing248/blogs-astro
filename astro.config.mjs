@@ -1,12 +1,16 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightGitHubAlerts from 'starlight-github-alerts';
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Nick Blogs',
+			plugins: [
+				starlightGitHubAlerts(),
+			],
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/nothing248' },
 			],
@@ -40,3 +44,4 @@ export default defineConfig({
 		}),
 	],
 });
+
