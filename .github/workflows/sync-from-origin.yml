@@ -25,9 +25,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Sync subtree from blogs-origin
+        env:
+          BLOGS_ORIGIN_TOKEN: ${{ secrets.BLOGS_ORIGIN_TOKEN }}
         run: |
           git subtree pull --prefix=src/content/docs \
-            https://github.com/nothing248/blogs-origin.git master --squash \
+            https://x-access-token:${BLOGS_ORIGIN_TOKEN}@github.com/nothing248/blogs-origin.git master --squash \
             -m "chore: sync content from blogs-origin"
 
       - name: Push changes
