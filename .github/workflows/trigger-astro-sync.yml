@@ -1,0 +1,17 @@
+name: Trigger blogs-astro sync
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger blogs-astro sync workflow
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.BLOGS_ASTRO_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/nothing248/blogs-astro/dispatches \
+            -d '{"event_type": "sync-blogs-origin"}'
