@@ -12,27 +12,27 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: 'Questions',
-					collapsed: true,
-					items: [{ autogenerate: { directory: '01-questions' } }],
-				},
-				{
-					label: 'Tools',
+					label: '工具',
 					collapsed: true,
 					items: [{ autogenerate: { directory: '01-tools' } }],
 				},
 				{
-					label: 'Experience',
+					label: '经验',
 					collapsed: true,
 					items: [{ autogenerate: { directory: '02-experience', collapsed: true } }],
 				},
 				{
-					label: 'Knowledge',
+					label: '知识',
 					collapsed: true,
 					items: [{ autogenerate: { directory: '03-knowledge', collapsed: true } }],
 				},
 				{
-					label: 'Other',
+					label: '问题',
+					collapsed: true,
+					items: [{ autogenerate: { directory: '01-questions' } }],
+				},
+				{
+					label: '其他',
 					collapsed: true,
 					items: [{ autogenerate: { directory: '05-other' } }],
 				},
