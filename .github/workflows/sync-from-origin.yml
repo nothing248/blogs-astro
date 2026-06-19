@@ -1,0 +1,34 @@
+name: Sync from blogs-origin
+
+on:
+  # 接收来自 blogs-origin 的 repository_dispatch 事件
+  repository_dispatch:
+    types: [sync-blogs-origin]
+  # 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout blogs-astro
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # subtree 需要完整历史
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync subtree from blogs-origin
+        run: |
+          git subtree pull --prefix=src/content/docs \
+            https://github.com/nothing248/blogs-origin.git master --squash \
+            -m "chore: sync content from blogs-origin"
+
+      - name: Push changes
+        run: git push
