@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nick's Blog</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<!--    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">-->
+    <meta http-equiv="Content-Security-Policy" content="img-src 'self' http://qiniu.sxyxy.top;">
+    <!--  百度统计-->
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?bfca80bbfa7b2cc42a098cf5c26e7183";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NXJBC9JG');</script>
+    <!-- End Google Tag Manager -->
+
+    <!--  客服系统-->
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="79972292-a8e3-4bf6-afe1-11f9dd1dc40f";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <link rel="shortcut icon" href="/attachment/images/icon.svg" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+
+    <style>
+        .app-name-link img{
+            width: 20%;
+            height: 20%;
+        }
+    </style>
+</head>
+<body>
+<div id="app">Please wait...</div>
+
+<script>
+    window.$docsify = {
+        name: 'Nick‘s Blog',
+        logo: '/attachment/images/icon.svg',
+        repo: '',
+        loadSidebar:true, //开启侧边栏
+        // hideSidebar: true,
+        alias: { //防止侧边栏目录从顶部目录落入到内部目录
+            '/.*/_sidebar.md': '/_sidebar.md'
+        },
+        themeColor: "#42b983",
+        autoHeader: true,
+        relativePath: true,
+        subMaxLevel: 3, //侧边栏解析md文件中header最大层级,
+        routerMode: 'history',
+        coverpage: true,
+        maxLevel: 4,
+        // themeColor: '#3F51B5',
+        // loadNavbar: true, // 开启导航
+        search:{ //搜索配置
+            placeholder:"搜索",
+            noData:"没有数据",
+            depth: 10,
+            paths:"auto"
+        },
+        darkMode: {
+            dark: {
+                background: "#1c2022",
+                toggleBtnBg: "#b4b4b4",
+                textColor: "#b4b4b4"
+            },
+            light: {
+                background: "white",
+                toggleBtnBg: "var(--theme-color)",
+                textColor: "var(--theme-color)"
+            }
+        },
+        timeUpdater: {
+            text: "<div align='center' width='200px' style='color:gray;font-size:10px'>-------------- 最后更新时间:&emsp;{docsify-updated} --------------</div>",
+            formatUpdated: "{YYYY}/{MM}/{DD}",
+            whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+        },
+        count:{ //数字统计
+            countable: true,
+            position: 'top',
+            margin: '10px',
+            float: 'right',
+            fontsize:'0.9em',
+            color:'rgb(90,90,90)',
+            language:'chinese',
+            localization: {
+                words: "",
+                minute: ""
+            },
+            isExpected: true
+        }
+    }
+</script>
+
+<!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<!--  支持侧边栏收缩-->
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+<!--  支持划分页面-->
+<script src="//unpkg.com/docsify-slides/dist/docsify-slides.min.js"></script>
+<!--  支持数字统计-->
+<script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+<!--  支持内嵌pdf-->
+<script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
+<script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
+<!--  支持更新时间-->
+<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.js"></script>
+<!--三方插件-->
+<script src="https://momentjs.com/downloads/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+<!-- 公式 -->
+<script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/marked@4"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+<iframe src="https://tools.service.sxyxy.top/" frameborder="0"></iframe>
+</body>
+</html>
