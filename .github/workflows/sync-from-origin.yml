@@ -24,6 +24,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Verify token access to blogs-origin
+        env:
+          BLOGS_ORIGIN_TOKEN: ${{ secrets.BLOGS_ORIGIN_TOKEN }}
+        run: |
+          echo "::group::Checking token access to blogs-origin"
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: Bearer ${BLOGS_ORIGIN_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/nothing248/blogs-origin)
+          echo "HTTP Status: ${HTTP_STATUS}"
+          if [ "${HTTP_STATUS}" != "200" ]; then
+            echo "::error::Token 无法访问 blogs-origin (HTTP ${HTTP_STATUS})。请检查 PAT 是否已授权 blogs-origin 仓库的 Contents: Read 权限。"
+            exit 1
+          fi
+          echo "✅ Token 验证通过"
+          echo "::endgroup::"
+
       - name: Sync subtree from blogs-origin
         env:
           BLOGS_ORIGIN_TOKEN: ${{ secrets.BLOGS_ORIGIN_TOKEN }}
