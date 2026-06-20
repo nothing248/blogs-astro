@@ -11,6 +11,30 @@ export default defineConfig({
 			plugins: [
 				starlightGitHubAlerts(),
 			],
+			head: [
+				{
+					tag: 'script',
+					attrs: {
+						async: true,
+						src: 'https://www.googletagmanager.com/gtag/js?id=G-T2R62ZENL5',
+					},
+				},
+				{
+					tag: 'script',
+					content: `
+						window.dataLayer = window.dataLayer || [];
+						function gtag(){dataLayer.push(arguments);}
+						gtag('js', new Date());
+						gtag('config', 'G-T2R62ZENL5');
+					`,
+				},
+			],
+			locales: {
+				root: {
+					label: "简体中文",
+					lang: "zh-CN",
+				}
+			},
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/nothing248' },
 			],
