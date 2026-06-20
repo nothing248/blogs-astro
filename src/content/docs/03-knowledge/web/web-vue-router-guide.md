@@ -1,7 +1,7 @@
 ---
 title: "VueRouter官方插件"
 filename: web-vue-router-guide
-summary: Vue 官方路由管理器 Vue Router 的核心技术笔记，侧重于 Vue 2.x 项目中常用的 Vue Router v3。内容梳理了路由的基本注册步骤，详细展示了嵌套路由配置、动态路由匹配及全局前置守卫的安全校验实现方式，为构建单页面应用提供规范化路由方案。
+description: Vue 官方路由管理器 Vue Router 的核心技术笔记，侧重于 Vue 2.x 项目中常用的 Vue Router v3。内容梳理了路由的基本注册步骤，详细展示了嵌套路由配置、动态路由匹配及全局前置守卫的安全校验实现方式，为构建单页面应用提供规范化路由方案。
 tags:
   - web
   - vue

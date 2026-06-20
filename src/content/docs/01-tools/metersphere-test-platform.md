@@ -1,7 +1,7 @@
 ---
 title: "MeterSphere"
 filename: metersphere-test-platform
-summary: MeterSphere 是一款一站式的开源持续测试平台，涵盖测试管理、接口测试、UI 测试及性能测试。目前笔记仅包含其定位简介及 GitHub 仓库链接。
+description: MeterSphere 是一款一站式的开源持续测试平台，涵盖测试管理、接口测试、UI 测试及性能测试。目前笔记仅包含其定位简介及 GitHub 仓库链接。
 tags: [MeterSphere, Testing, QA, DevOps]
 aliases: [MeterSphere]
 status: pending

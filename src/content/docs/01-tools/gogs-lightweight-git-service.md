@@ -1,7 +1,7 @@
 ---
 title: "Gogs安装"
 filename: gogs-lightweight-git-service
-summary: Gogs是采用Go语言编写的极轻量级自建Git服务。本文介绍了在裸机（Linux）上部署Gogs的步骤。内容涵盖新建git运行用户、MySQL数据库表导入与配置文件设定，并阐述了利用守护程序使Gogs持续在后台稳定运行的方法，完美解决低资源服务器上的代码私有托管需求。
+description: Gogs是采用Go语言编写的极轻量级自建Git服务。本文介绍了在裸机（Linux）上部署Gogs的步骤。内容涵盖新建git运行用户、MySQL数据库表导入与配置文件设定，并阐述了利用守护程序使Gogs持续在后台稳定运行的方法，完美解决低资源服务器上的代码私有托管需求。
 tags: [gogs, git-service, go-language, self-hosting]
 aliases: [Gogs安装, 轻量级Git, Gogs配置]
 status: completed

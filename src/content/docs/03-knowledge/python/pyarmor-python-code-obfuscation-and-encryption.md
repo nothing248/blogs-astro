@@ -2,7 +2,7 @@
 status: completed
 filename: pyarmor-python-code-obfuscation-and-encryption
 title: "PyArmor"
-summary: 本笔记介绍了 Python 代码保护工具 PyArmor 的工作原理与核心功能。不同于将其编译为机器码，PyArmor 专注于字节码 (`.pyc`) 级别的安全，通过在运行时动态解密加密字节码来防止反编译。详细梳理了其在源码混淆、硬件指纹绑定授权、软件订阅过期管理及防调试等场景下的商业保护价值，为 Python 项目的代码交付安全提供方案选型参考。
+description: 本笔记介绍了 Python 代码保护工具 PyArmor 的工作原理与核心功能。不同于将其编译为机器码，PyArmor 专注于字节码 (`.pyc`) 级别的安全，通过在运行时动态解密加密字节码来防止反编译。详细梳理了其在源码混淆、硬件指纹绑定授权、软件订阅过期管理及防调试等场景下的商业保护价值，为 Python 项目的代码交付安全提供方案选型参考。
 aliases: [PyArmor, Python 代码加密, Python 混淆, 防反编译]
 tags: [Python, 代码安全, 逆向工程, 加密, 软件授权, PyArmor]
 date created: 星期一, 十二月 1日 2025, 9:59:22 上午

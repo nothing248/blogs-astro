@@ -2,7 +2,7 @@
 status: completed
 filename: lua-lightweight-scripting-language-setup
 title: "Lua 安装"
-summary: 本笔记记录了轻量级脚本语言 Lua 的跨平台安装配置指南。涵盖了在 Windows 系统下通过开源安装包的一键部署，以及在 Linux (Ubuntu) 环境下通过 `apt` 包管理器直接安装或通过源码编译（Make）构建最新版本的标准步骤。Lua 因其极低的资源消耗与极快的执行速度，常被广泛应用于游戏引擎嵌入、Redis 原子脚本控制及 Nginx/OpenResty 流量扩展等高性能场景。
+description: 本笔记记录了轻量级脚本语言 Lua 的跨平台安装配置指南。涵盖了在 Windows 系统下通过开源安装包的一键部署，以及在 Linux (Ubuntu) 环境下通过 `apt` 包管理器直接安装或通过源码编译（Make）构建最新版本的标准步骤。Lua 因其极低的资源消耗与极快的执行速度，常被广泛应用于游戏引擎嵌入、Redis 原子脚本控制及 Nginx/OpenResty 流量扩展等高性能场景。
 aliases: [Lua 安装, Lua 脚本语言, 嵌入式脚本]
 tags: [Lua, 脚本语言, 开发环境, Nginx 扩展, Redis 脚本, 后端开发]
 date created: 星期一, 五月 19日 2025, 2:05:20 下午

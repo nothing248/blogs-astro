@@ -1,7 +1,7 @@
 ---
 title: "VirtualBox安装"
 filename: virtualbox-hypervisor-management
-summary: VirtualBox是知名的跨平台开源虚拟化平台。本文总结了其在Windows系统下非默认分区安装时出现的磁盘权限报错问题，提供了通过icacls命令强制重置文件夹安全性继承和访问控制列表（ACL）的指令，并给出通过VBoxManage进行虚拟机磁盘克隆的实战用法。
+description: VirtualBox是知名的跨平台开源虚拟化平台。本文总结了其在Windows系统下非默认分区安装时出现的磁盘权限报错问题，提供了通过icacls命令强制重置文件夹安全性继承和访问控制列表（ACL）的指令，并给出通过VBoxManage进行虚拟机磁盘克隆的实战用法。
 tags: [virtualbox, hypervisor, acl-permissions, vboxmanage]
 aliases: [VirtualBox安装, 磁盘克隆, Windows权限修复]
 status: completed

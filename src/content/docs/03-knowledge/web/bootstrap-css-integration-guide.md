@@ -1,7 +1,7 @@
 ---
 title: "Bootstrap集成"
 filename: bootstrap-css-integration-guide
-summary: Bootstrap 5 前端 CSS 样式库的集成与配置指南。解决在 Vue 3 项目、Vite/Webpack 现代构建工具及传统普通 HTML 项目中集成并定制 Bootstrap 的问题。核心内容涵盖 NPM 安装、Popper.js 依赖配置、Sass 变量覆写、Grid 响应式网格布局以及基础工具类的应用。
+description: Bootstrap 5 前端 CSS 样式库的集成与配置指南。解决在 Vue 3 项目、Vite/Webpack 现代构建工具及传统普通 HTML 项目中集成并定制 Bootstrap 的问题。核心内容涵盖 NPM 安装、Popper.js 依赖配置、Sass 变量覆写、Grid 响应式网格布局以及基础工具类的应用。
 tags:
   - bootstrap
   - css-framework

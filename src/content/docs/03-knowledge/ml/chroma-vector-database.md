@@ -1,7 +1,7 @@
 ---
 title: "Chroma向量数据库"
 filename: chroma-vector-database
-summary: Chroma 是一款开源的轻量级向量数据库，广泛应用于大模型检索增强生成（RAG）体系中。本笔记提供了通过 Docker Compose 部署 Chroma 并启用 Token 安全验证的配置方案，整合了 Python SDK 下进行连接鉴权、集合操作、向量及文档数据入库以及相似度检索的核心代码，为本地开发提供参考。
+description: Chroma 是一款开源的轻量级向量数据库，广泛应用于大模型检索增强生成（RAG）体系中。本笔记提供了通过 Docker Compose 部署 Chroma 并启用 Token 安全验证的配置方案，整合了 Python SDK 下进行连接鉴权、集合操作、向量及文档数据入库以及相似度检索的核心代码，为本地开发提供参考。
 tags:
   - chroma
   - vector-database

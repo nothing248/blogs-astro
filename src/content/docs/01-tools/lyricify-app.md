@@ -1,7 +1,7 @@
 ---
 title: "Lyricify"
 filename: lyricify-app
-summary: Lyricify 是一款为 Spotify 等音乐播放软件提供滚动歌词展示的应用程序。目前笔记仅包含 GitHub 仓库链接。
+description: Lyricify 是一款为 Spotify 等音乐播放软件提供滚动歌词展示的应用程序。目前笔记仅包含 GitHub 仓库链接。
 tags: [Music, Tools, Lyrics]
 aliases: [Lyricify]
 status: pending

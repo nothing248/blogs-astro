@@ -2,7 +2,7 @@
 status: completed
 filename: axios-http-client-post-content-types
 title: "Axios POST 参数"
-summary: 本笔记提炼了开源 JavaScript 网络请求库 Axios 的核心业务痛点。重点针对 POST 请求场景，详细演示了三种不同 `Content-Type` 头部的参数封装策略：默认的 JSON 格式（application/json）、用于文件上传及原生表单的 `FormData` 格式（multipart/form-data），以及结合 `Qs` 库处理传统表单提交（application/x-www-form-urlencoded）的代码实战，为前后端对接提供标准接口模版。
+description: 本笔记提炼了开源 JavaScript 网络请求库 Axios 的核心业务痛点。重点针对 POST 请求场景，详细演示了三种不同 `Content-Type` 头部的参数封装策略：默认的 JSON 格式（application/json）、用于文件上传及原生表单的 `FormData` 格式（multipart/form-data），以及结合 `Qs` 库处理传统表单提交（application/x-www-form-urlencoded）的代码实战，为前后端对接提供标准接口模版。
 aliases: [Axios POST 参数, Content-Type 区别, axios 传参格式]
 tags: [前端开发, JavaScript, Axios, HTTP 协议, 网络请求, Vue.js, API 接口]
 date created: 星期二, 二月 25日 2025, 3:24:16 下午

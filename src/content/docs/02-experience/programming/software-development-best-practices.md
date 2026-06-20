@@ -1,7 +1,7 @@
 ---
 title: "开发经验"
 filename: software-development-best-practices
-summary: 本指南总结核心开发经验与封装最佳实践。重点分析在处理依赖时间窗口或延迟逻辑的任务时，为何以及如何统一封装时间获取函数（如抽象 Time Provider 接口）。阐述这种做法在解耦系统时钟、支持时间偏移测试以及单元测试 Mock 时间方面的核心价值，并提供主流语言下的代码实现示例。
+description: 本指南总结核心开发经验与封装最佳实践。重点分析在处理依赖时间窗口或延迟逻辑的任务时，为何以及如何统一封装时间获取函数（如抽象 Time Provider 接口）。阐述这种做法在解耦系统时钟、支持时间偏移测试以及单元测试 Mock 时间方面的核心价值，并提供主流语言下的代码实现示例。
 tags: [best-practices, software-testing, time-manipulation, testability, design-patterns]
 aliases: [开发经验, 时间窗口封装, 可测试性设计, 时间Mock, 封装规范]
 status: completed

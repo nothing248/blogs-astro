@@ -1,7 +1,7 @@
 ---
 title: "GoogleTrends数据采集"
 filename: google-trends-scraping-guide
-summary: 详细整理了自建 Google Trends (谷歌趋势) 数据抓取的两种技术方案：通过分析 embed widget API 的 NID 鉴权及 Token 签名进行间接模拟抓取，以及在 Python 中利用 pytrends 第三方封装库进行核心指标请求与代理防封锁的最佳实践，以解决自建爬虫频发的 HTTP 429 访问限制。
+description: 详细整理了自建 Google Trends (谷歌趋势) 数据抓取的两种技术方案：通过分析 embed widget API 的 NID 鉴权及 Token 签名进行间接模拟抓取，以及在 Python 中利用 pytrends 第三方封装库进行核心指标请求与代理防封锁的最佳实践，以解决自建爬虫频发的 HTTP 429 访问限制。
 tags:
   - google-trends
   - pytrends

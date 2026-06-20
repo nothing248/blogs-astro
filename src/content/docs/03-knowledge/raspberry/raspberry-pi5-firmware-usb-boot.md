@@ -1,7 +1,7 @@
 ---
 title: "树莓派5固件更新"
 filename: raspberry-pi5-firmware-usb-boot
-summary: 树莓派 5 固件更新与 USB 引导配置指南。涵盖通过 rpi-eeprom 更新 EEPROM 固件，利用 raspi-config 界面或手动修改底层 BOOT_ORDER 代码实现 USB 优先引导。同时指导使用 Raspberry Pi Imager 烧录启动盘，并针对移动硬盘供电不足、USB 3.0 线材干扰等常见硬件故障提供排查建议。
+description: 树莓派 5 固件更新与 USB 引导配置指南。涵盖通过 rpi-eeprom 更新 EEPROM 固件，利用 raspi-config 界面或手动修改底层 BOOT_ORDER 代码实现 USB 优先引导。同时指导使用 Raspberry Pi Imager 烧录启动盘，并针对移动硬盘供电不足、USB 3.0 线材干扰等常见硬件故障提供排查建议。
 tags:
   - raspberry-pi
   - eeprom

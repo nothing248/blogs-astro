@@ -1,7 +1,7 @@
 ---
 title: "MBR与GPT对比"
 filename: mbr-vs-gpt-disk-partitioning
-summary: 磁盘分区标准 MBR 与 GPT 的对比及转换指南。详述了 MBR（Legacy BIOS 引导、2TB 限制及 4 主分区）与 GPT（UEFI 引导、18EB 极限、128 主分区及冗余备份）的特征差异。提供了通过 parted 查看分区格式的命令，以及利用 fdisk 对新磁盘初始化为 GPT、使用 gdisk 实现 MBR 无损转换 GPT 的详细操作步骤。
+description: 磁盘分区标准 MBR 与 GPT 的对比及转换指南。详述了 MBR（Legacy BIOS 引导、2TB 限制及 4 主分区）与 GPT（UEFI 引导、18EB 极限、128 主分区及冗余备份）的特征差异。提供了通过 parted 查看分区格式的命令，以及利用 fdisk 对新磁盘初始化为 GPT、使用 gdisk 实现 MBR 无损转换 GPT 的详细操作步骤。
 tags:
   - disk-partitioning
   - mbr

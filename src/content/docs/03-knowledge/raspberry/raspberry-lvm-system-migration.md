@@ -1,7 +1,7 @@
 ---
 title: "树莓派LVM迁移指南"
 filename: raspberry-lvm-system-migration
-summary: 树莓派系统全盘克隆至新 SSD 并启用 LVM（逻辑卷管理）的迁移指南。内容涵盖对目标盘手动分区、初始化逻辑卷（PV/VG/LV）、利用 rsync 保持权限同步系统数据，以及修改 fstab 与 cmdline.txt 引导配置。并详细说明了通过 chroot 进入挂载环境更新 initramfs 驱动镜像的避坑关键步骤。
+description: 树莓派系统全盘克隆至新 SSD 并启用 LVM（逻辑卷管理）的迁移指南。内容涵盖对目标盘手动分区、初始化逻辑卷（PV/VG/LV）、利用 rsync 保持权限同步系统数据，以及修改 fstab 与 cmdline.txt 引导配置。并详细说明了通过 chroot 进入挂载环境更新 initramfs 驱动镜像的避坑关键步骤。
 tags:
   - raspberry-pi
   - lvm

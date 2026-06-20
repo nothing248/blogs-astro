@@ -1,7 +1,7 @@
 ---
 title: "RSSHub安装"
 filename: rsshub-docker-deployment-guide
-summary: RSSHub 是一款开源、易于使用的 RSS 生成器，能够将几乎所有内容（如社交媒体、音视频平台、新闻等）转化为 RSS 订阅源。本文提供了基于 Docker Compose 的完整部署配置，涵盖了 Redis 缓存集成、Browserless 渲染引擎连接以及访问密钥（ACCESS_KEY）的安全设置。旨在帮助用户构建私有化的信息流订阅中心，彻底解决信息碎片化问题。
+description: RSSHub 是一款开源、易于使用的 RSS 生成器，能够将几乎所有内容（如社交媒体、音视频平台、新闻等）转化为 RSS 订阅源。本文提供了基于 Docker Compose 的完整部署配置，涵盖了 Redis 缓存集成、Browserless 渲染引擎连接以及访问密钥（ACCESS_KEY）的安全设置。旨在帮助用户构建私有化的信息流订阅中心，彻底解决信息碎片化问题。
 tags: [rsshub, rss, information-retrieval, self-hosted, docker, puppeteer]
 aliases: [RSSHub安装, 万物皆可RSS, 订阅源生成器]
 status: completed

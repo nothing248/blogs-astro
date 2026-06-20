@@ -1,7 +1,7 @@
 ---
 title: "机器学习基础全景"
 filename: machine-learning-fundamentals
-summary: 本笔记为机器学习与大模型开发的基础生态全景指南。系统梳理了从需求分析、EDA 到部署优化的标准工程流程，并归纳了经典监督与无监督机器学习模型地图。同时，整理了 NVIDIA 与 AMD GPU 型号后缀辨析与选型参考，列举了主流大模型平台（如 ChatGPT、Copilot）的使用限制与网络配置方案，并附带学习资源与库链接。
+description: 本笔记为机器学习与大模型开发的基础生态全景指南。系统梳理了从需求分析、EDA 到部署优化的标准工程流程，并归纳了经典监督与无监督机器学习模型地图。同时，整理了 NVIDIA 与 AMD GPU 型号后缀辨析与选型参考，列举了主流大模型平台（如 ChatGPT、Copilot）的使用限制与网络配置方案，并附带学习资源与库链接。
 tags:
   - machine-learning
   - gpu-hardware

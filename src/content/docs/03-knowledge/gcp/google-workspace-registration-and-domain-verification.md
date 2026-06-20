@@ -2,7 +2,7 @@
 status: completed
 filename: google-workspace-registration-and-domain-verification
 title: "Google Workspace 注册"
-summary: 本笔记记录了企业级协作平台 Google Workspace 的基础创建流程与避坑指南。详细指出了注册前对自定义域名后缀的要求（如规避 cn 和 top 后缀），以及绑定外币信用卡的必要性。同时，强调了 Workspace 在云原生安全架构中的特殊地位：某些高级 GCP API（如 Google Ads API）的 Server Account 服务端自动鉴权，必须依赖 Workspace 的全网域验证与内部权限委派，为云端系统间账号互信提供实操参考。
+description: 本笔记记录了企业级协作平台 Google Workspace 的基础创建流程与避坑指南。详细指出了注册前对自定义域名后缀的要求（如规避 cn 和 top 后缀），以及绑定外币信用卡的必要性。同时，强调了 Workspace 在云原生安全架构中的特殊地位：某些高级 GCP API（如 Google Ads API）的 Server Account 服务端自动鉴权，必须依赖 Workspace 的全网域验证与内部权限委派，为云端系统间账号互信提供实操参考。
 aliases: [Google Workspace 注册, 谷歌企业邮箱, 域名验证避坑, Workspace API 授权]
 tags: [Google Workspace, 团队协作, 域名管理, GCP, 权限管理, 运维部署]
 date created: 星期二, 二月 25日 2025, 3:24:02 下午

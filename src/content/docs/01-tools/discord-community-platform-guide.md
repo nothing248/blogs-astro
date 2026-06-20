@@ -1,7 +1,7 @@
 ---
 title: "Discord服务器"
 filename: discord-community-platform-guide
-summary: Discord是以服务器和频道为结构体系的半封闭式数字社区协作平台。本文深入分析其作为数字基地、游戏语音与开发团队看板的核心定位，剖析了其权限控制体系（如@everyone与身分组管理）、机器人集成与Webhooks自动化流，是构建高效在线社群的重要参考。
+description: Discord是以服务器和频道为结构体系的半封闭式数字社区协作平台。本文深入分析其作为数字基地、游戏语音与开发团队看板的核心定位，剖析了其权限控制体系（如@everyone与身分组管理）、机器人集成与Webhooks自动化流，是构建高效在线社群的重要参考。
 tags: [discord, community-building, webhooks, chatops]
 aliases: [Discord服务器, 社群管理, 身分组配置]
 status: completed

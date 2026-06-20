@@ -1,7 +1,7 @@
 ---
 title: "Redmine 安装指南"
 filename: redmine-project-management
-summary: Redmine 是一款基于 Ruby on Rails 开发的开源项目管理工具，支持跨平台和多种数据库。本笔记详细介绍了在 Linux 环境下利用 RVM 管理 Ruby 版本，安装 Rails、Rake 及 Bundler 等核心依赖，并完成了 Redmine 5.1.3 的源码安装、数据库迁移及 Secret Token 生成。此外，还提供了结合 Passenger 模块与 Nginx 的生产环境部署配置示例。
+description: Redmine 是一款基于 Ruby on Rails 开发的开源项目管理工具，支持跨平台和多种数据库。本笔记详细介绍了在 Linux 环境下利用 RVM 管理 Ruby 版本，安装 Rails、Rake 及 Bundler 等核心依赖，并完成了 Redmine 5.1.3 的源码安装、数据库迁移及 Secret Token 生成。此外，还提供了结合 Passenger 模块与 Nginx 的生产环境部署配置示例。
 tags: [Redmine, Project-Management, Ruby-on-Rails, Nginx, Passenger]
 aliases: [Redmine 安装指南]
 status: completed

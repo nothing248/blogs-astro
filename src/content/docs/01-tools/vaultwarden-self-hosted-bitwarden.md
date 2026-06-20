@@ -1,7 +1,7 @@
 ---
 title: "Vaultwarden安装"
 filename: vaultwarden-self-hosted-bitwarden
-summary: Vaultwarden是使用Rust重写的轻量级Bitwarden服务器替代方案，大幅降低了系统资源消耗。本文介绍通过Docker Compose搭建Vaultwarden的方法，涵盖安全环境变量设置、WebSocket实时同步、Borgmatic与Cloudflare R2的异地数据安全备份及保留策略配置。
+description: Vaultwarden是使用Rust重写的轻量级Bitwarden服务器替代方案，大幅降低了系统资源消耗。本文介绍通过Docker Compose搭建Vaultwarden的方法，涵盖安全环境变量设置、WebSocket实时同步、Borgmatic与Cloudflare R2的异地数据安全备份及保留策略配置。
 tags: [vaultwarden, bitwarden, self-hosting, data-backup]
 aliases: [Vaultwarden安装, 密码管理, Borgmatic备份]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "GA4数据采集"
 filename: google-analytics-ga4-guide
-summary: Google Analytics 4（GA4）是新一代用户行为数据分析工具。本文聚焦于Web端使用Gtag/GTM以及移动端基于Firebase进行数据采集的最佳实践。分析了会话级来源识别中ga_campaign事件的作用，并解答了DebugView调试模式与BigQuery导出中特定事件未注册导致的not set问题。
+description: Google Analytics 4（GA4）是新一代用户行为数据分析工具。本文聚焦于Web端使用Gtag/GTM以及移动端基于Firebase进行数据采集的最佳实践。分析了会话级来源识别中ga_campaign事件的作用，并解答了DebugView调试模式与BigQuery导出中特定事件未注册导致的not set问题。
 tags: [google-analytics, ga4, data-tracking, firebase]
 aliases: [GA4数据采集, Gtag配置, DebugView调试]
 status: completed

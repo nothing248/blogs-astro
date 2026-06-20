@@ -1,7 +1,7 @@
 ---
 title: "Shopify简介"
 filename: shopify-ecommerce-platform
-summary: Shopify 是全球顶尖的 SaaS 电商平台，专为商家提供一站式的开店解决方案。它通过集成的支付处理、物流追踪和营销工具，极大降低了搭建在线商店的门槛。本文记录了该平台的基础定位，是跨境电商和独立品牌建设的核心基础设施。
+description: Shopify 是全球顶尖的 SaaS 电商平台，专为商家提供一站式的开店解决方案。它通过集成的支付处理、物流追踪和营销工具，极大降低了搭建在线商店的门槛。本文记录了该平台的基础定位，是跨境电商和独立品牌建设的核心基础设施。
 tags: [ecommerce, saas, shopify]
 aliases: [Shopify简介]
 status: pending

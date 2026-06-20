@@ -1,7 +1,7 @@
 ---
 title: "Wine使用"
 filename: wine-macos-windows-compatibility
-summary: Wine作为非模拟器的系统调用兼容层，能够将Windows API实时翻译为macOS的POSIX调用。本文阻理了Wine在Apple Silicon及Intel Mac平台下的兼容性与技术实现，对比了Whisky、CrossOver及Wineskin等方案，并给出Homebrew安装与Winetricks解决中文乱码的方案。
+description: Wine作为非模拟器的系统调用兼容层，能够将Windows API实时翻译为macOS的POSIX调用。本文阻理了Wine在Apple Silicon及Intel Mac平台下的兼容性与技术实现，对比了Whisky、CrossOver及Wineskin等方案，并给出Homebrew安装与Winetricks解决中文乱码的方案。
 tags: [wine, macos, compatibility-layer, winetricks]
 aliases: [Wine使用, Mac运行Win程序, Whisky工具]
 status: completed

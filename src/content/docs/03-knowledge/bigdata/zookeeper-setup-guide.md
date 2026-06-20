@@ -1,7 +1,7 @@
 ---
 title: "ZooKeeper安装与配置指南"
 filename: zookeeper-setup-guide
-summary: ZooKeeper 是一款开源的分布式应用程序协调服务，常用于分布式同步、命名服务、集群维护和分布式锁。本指南详细介绍了 ZooKeeper 在单机与多节点集群环境下的部署步骤与配置项，包括 myid 的设置、客户端连接管理指令，并提供了结合 Java 环境变量的 Systemd 守护进程配置文件以及 ZooInspector 可视化工具的使用方法。
+description: ZooKeeper 是一款开源的分布式应用程序协调服务，常用于分布式同步、命名服务、集群维护和分布式锁。本指南详细介绍了 ZooKeeper 在单机与多节点集群环境下的部署步骤与配置项，包括 myid 的设置、客户端连接管理指令，并提供了结合 Java 环境变量的 Systemd 守护进程配置文件以及 ZooInspector 可视化工具的使用方法。
 tags:
   - zookeeper
   - cluster-setup

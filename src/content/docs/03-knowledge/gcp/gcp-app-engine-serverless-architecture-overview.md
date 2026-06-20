@@ -2,7 +2,7 @@
 status: completed
 filename: gcp-app-engine-serverless-architecture-overview
 title: "App Engine"
-summary: 本笔记简要介绍了 Google Cloud Platform (GCP) 的完全托管式无服务器 (Serverless) 计算平台 App Engine (GAE)。阐述了其核心定位：让开发者专注于代码逻辑而无需管理底层基础设施。重点对比了 GAE 的两种运行环境选型：标准环境（基于沙盒的特定语言支持）与柔性环境（基于 Compute Engine 与 Docker 容器的灵活扩展），为云原生 Web 应用及后端的部署提供选型基础。
+description: 本笔记简要介绍了 Google Cloud Platform (GCP) 的完全托管式无服务器 (Serverless) 计算平台 App Engine (GAE)。阐述了其核心定位：让开发者专注于代码逻辑而无需管理底层基础设施。重点对比了 GAE 的两种运行环境选型：标准环境（基于沙盒的特定语言支持）与柔性环境（基于 Compute Engine 与 Docker 容器的灵活扩展），为云原生 Web 应用及后端的部署提供选型基础。
 aliases: [App Engine, GAE 环境选型, Google Serverless]
 tags: [GCP, App Engine, Serverless, 云计算, 运维部署, 云原生]
 date created: 星期二, 二月 25日 2025, 3:23:58 下午

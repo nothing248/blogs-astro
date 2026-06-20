@@ -1,7 +1,7 @@
 ---
 title: "BigQuery开发手册"
 filename: bigquery-development-guide
-summary: Google BigQuery 数仓开发与优化指南。系统解析了嵌套结构拍平（UNNEST 与 LEFT JOIN 结合防数据漏查）、重复数据 JSON 转换检测、数据集恢复等核心 SQL 用法。详细对比了分区与聚簇的降费提速策略，剖析了半连接（IN/EXISTS/JOIN）和 MERGE 增量更新的性能表现与限制，并总结了 API 变量定义与跨区域操作的局限性。
+description: Google BigQuery 数仓开发与优化指南。系统解析了嵌套结构拍平（UNNEST 与 LEFT JOIN 结合防数据漏查）、重复数据 JSON 转换检测、数据集恢复等核心 SQL 用法。详细对比了分区与聚簇的降费提速策略，剖析了半连接（IN/EXISTS/JOIN）和 MERGE 增量更新的性能表现与限制，并总结了 API 变量定义与跨区域操作的局限性。
 tags:
   - bigquery
   - sql-optimization

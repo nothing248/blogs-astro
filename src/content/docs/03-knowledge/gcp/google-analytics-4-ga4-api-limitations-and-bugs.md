@@ -2,7 +2,7 @@
 status: completed
 filename: google-analytics-4-ga4-api-limitations-and-bugs
 title: "GA4 API 踩坑"
-summary: 本笔记记录了开发基于 Google Analytics 4 (GA4) API 的数据采集应用时的关键限制与已知坑点。重点总结了 API 调用的速率限制机制（Quota Limits），并列举了目前开发者在调用 Admin API 与 Data API 时常遭遇的底层 Bug（如 360 账户访问权限维度报错、Google Signal 开启导致的数据查询阻断，以及 Audience 分段功能中日期周期的参数解析异常），为相关数据通道的研发提供诊断依据。
+description: 本笔记记录了开发基于 Google Analytics 4 (GA4) API 的数据采集应用时的关键限制与已知坑点。重点总结了 API 调用的速率限制机制（Quota Limits），并列举了目前开发者在调用 Admin API 与 Data API 时常遭遇的底层 Bug（如 360 账户访问权限维度报错、Google Signal 开启导致的数据查询阻断，以及 Audience 分段功能中日期周期的参数解析异常），为相关数据通道的研发提供诊断依据。
 aliases: [GA4 API 踩坑, Google Analytics 4, GA4 开发限制]
 tags: [GA4, 数据分析, GCP, API 开发, Bug 排查, 数据采集]
 date created: 星期一, 九月 22日 2025, 5:12:50 下午

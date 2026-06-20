@@ -1,7 +1,7 @@
 ---
 title: "语义化版本控制"
 filename: semantic-versioning-guide
-summary: 语义化版本控制（SemVer）指南，详细阐述主版本号（MAJOR）、次版本号（MINOR）与修订号（PATCH）的递增规则。规定当发生不兼容的 API 变更、向下兼容的功能新增以及向下兼容的错误修复时对应的版本升级策略，并说明预发布版本及构建元数据的扩展标记方法，为软件发布和依赖管理提供标准化流程。
+description: 语义化版本控制（SemVer）指南，详细阐述主版本号（MAJOR）、次版本号（MINOR）与修订号（PATCH）的递增规则。规定当发生不兼容的 API 变更、向下兼容的功能新增以及向下兼容的错误修复时对应的版本升级策略，并说明预发布版本及构建元数据的扩展标记方法，为软件发布和依赖管理提供标准化流程。
 tags: [version-control, semver, best-practices, release-management, software-engineering]
 aliases: [语义化版本控制, SemVer, 版本号规范, 语义化版本]
 status: completed

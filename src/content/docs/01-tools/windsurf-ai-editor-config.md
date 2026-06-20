@@ -1,7 +1,7 @@
 ---
 title: "Windsurf配置"
 filename: windsurf-ai-editor-config
-summary: Windsurf 是一款主打 Agentic 工作流的新一代 AI 代码编辑器，旨在提供深度辅助的编程体验。本文记录了其全局回复规则配置（强制中文答复）、代理识别问题的修复方案以及其不限量的代码自动补全特性。它是提升开发效率、实现“AI 驾驶”编程的核心工具。
+description: Windsurf 是一款主打 Agentic 工作流的新一代 AI 代码编辑器，旨在提供深度辅助的编程体验。本文记录了其全局回复规则配置（强制中文答复）、代理识别问题的修复方案以及其不限量的代码自动补全特性。它是提升开发效率、实现“AI 驾驶”编程的核心工具。
 tags:
   - ai
   - editor

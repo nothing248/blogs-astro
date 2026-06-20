@@ -2,7 +2,7 @@
 status: completed
 filename: python-dbf-file-read-write-and-encoding
 title: "Python 读取 DBF"
-summary: 本笔记记录了在 Python 环境下读写 dBase 数据库文件 (.dbf) 的实战方案。针对历史遗留系统常见的中文字符集问题，总结了一套利用 `dbfread` 库结合 Try-Except 进行 `cp936` (GBK)、`gb18030` 及 `utf-8` 级联降级解析的读取策略。同时，提供了使用 `dbf` 库导出并严格映射字段类型（如 C, N, D）构建新 DBF 表的写入代码模板，强调了输出时强依赖 UTF-8 编码以兼容特殊中文字符的注意事项。
+description: 本笔记记录了在 Python 环境下读写 dBase 数据库文件 (.dbf) 的实战方案。针对历史遗留系统常见的中文字符集问题，总结了一套利用 `dbfread` 库结合 Try-Except 进行 `cp936` (GBK)、`gb18030` 及 `utf-8` 级联降级解析的读取策略。同时，提供了使用 `dbf` 库导出并严格映射字段类型（如 C, N, D）构建新 DBF 表的写入代码模板，强调了输出时强依赖 UTF-8 编码以兼容特殊中文字符的注意事项。
 aliases: [Python 读取 DBF, dbfread, dbf 写入, dbf 编码问题]
 tags: [Python, 数据处理, DBF, 数据清洗, 编码问题, Pandas]
 date created: 星期一, 五月 19日 2025, 2:05:22 下午

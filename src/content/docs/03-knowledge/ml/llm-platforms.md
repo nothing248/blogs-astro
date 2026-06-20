@@ -1,7 +1,7 @@
 ---
 title: "常见LLM平台"
 filename: llm-platforms
-summary: 本笔记汇总了当前主流的大语言模型（LLM）API 服务平台及其官方密钥管理与配置入口。涵盖 OpenAI、Google Gemini、DeepSeek、智谱 AI 等模型厂商，以及主打高速推理的 Groq 和国内多模型托管服务商硅基流动，旨在为开发者进行多模型接入及 API 凭证申请提供便捷的导航参考。
+description: 本笔记汇总了当前主流的大语言模型（LLM）API 服务平台及其官方密钥管理与配置入口。涵盖 OpenAI、Google Gemini、DeepSeek、智谱 AI 等模型厂商，以及主打高速推理的 Groq 和国内多模型托管服务商硅基流动，旨在为开发者进行多模型接入及 API 凭证申请提供便捷的导航参考。
 tags:
   - LLM
   - api-key

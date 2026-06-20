@@ -1,7 +1,7 @@
 ---
 title: "GCP机器学习产品汇总"
 filename: gcp-machine-learning-products
-summary: 本笔记梳理了谷歌云 (GCP) 旗下主流机器学习与数据处理产品。涵盖敏感信息检测 API (DLP)、内建建模工具 BigQuery ML、大模型与工作流平台 Vertex AI（包含 AutoML 表格预测的要求与拆分规则），以及流批一体计算 Dataflow、可视化数据清洗 Dataprep 和异步队列 Pub/Sub，为 GCP 架构设计提供参考。
+description: 本笔记梳理了谷歌云 (GCP) 旗下主流机器学习与数据处理产品。涵盖敏感信息检测 API (DLP)、内建建模工具 BigQuery ML、大模型与工作流平台 Vertex AI（包含 AutoML 表格预测的要求与拆分规则），以及流批一体计算 Dataflow、可视化数据清洗 Dataprep 和异步队列 Pub/Sub，为 GCP 架构设计提供参考。
 tags:
   - google-cloud
   - gcp

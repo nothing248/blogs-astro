@@ -2,7 +2,7 @@
 status: completed
 filename: vee-validate-vue-form-validation-library
 title: "VeeValidate"
-summary: 本笔记记录了 Vue.js 生态中经典的表单验证插件 VeeValidate (基于 V2 版本) 的全局配置方案。详细展示了如何通过 `Vue.use()` 注入验证器，避免默认的 `fields`/`errors` 命名冲突。重点提供了导入官方 `zh_CN` 语言包以实现中文错误提示的覆盖逻辑，以及利用 `Validator.extend()` 扩展自定义正则表达式校验规则（如限制仅允许字母数字下划线）的实战代码，是快速搭建强交互前端表单的参考字典。
+description: 本笔记记录了 Vue.js 生态中经典的表单验证插件 VeeValidate (基于 V2 版本) 的全局配置方案。详细展示了如何通过 `Vue.use()` 注入验证器，避免默认的 `fields`/`errors` 命名冲突。重点提供了导入官方 `zh_CN` 语言包以实现中文错误提示的覆盖逻辑，以及利用 `Validator.extend()` 扩展自定义正则表达式校验规则（如限制仅允许字母数字下划线）的实战代码，是快速搭建强交互前端表单的参考字典。
 aliases: [VeeValidate, Vue 表单验证, 自定义校验规则]
 tags: [前端开发, Vue.js, 表单验证, VeeValidate, JavaScript]
 date created: 星期一, 五月 19日 2025, 2:05:16 下午

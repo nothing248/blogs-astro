@@ -2,7 +2,7 @@
 status: completed
 filename: windows-system-commands-and-cmd-enhancements
 title: "Windows 命令"
-summary: 本笔记整理了 Windows 系统下常用的基础网络与进程排障命令（如 netstat 查端口、taskkill 杀进程）。重点对比了原生 CMD、PowerShell 与安装 Clink (增强 CMD) 后的终端体验差异，强调了 Clink 在提供类似 Linux Bash 的路径补全、永久历史记录搜索 (Ctrl+R) 以及 Emacs/Vi 快捷键绑定方面的显著优势。此外，附带了修改 Windows Hosts 文件的系统路径及 BitLocker 磁盘加密的参考线索。
+description: 本笔记整理了 Windows 系统下常用的基础网络与进程排障命令（如 netstat 查端口、taskkill 杀进程）。重点对比了原生 CMD、PowerShell 与安装 Clink (增强 CMD) 后的终端体验差异，强调了 Clink 在提供类似 Linux Bash 的路径补全、永久历史记录搜索 (Ctrl+R) 以及 Emacs/Vi 快捷键绑定方面的显著优势。此外，附带了修改 Windows Hosts 文件的系统路径及 BitLocker 磁盘加密的参考线索。
 aliases: [Windows 命令, CMD 增强, Clink 终端, Windows 排障]
 tags: [Windows, 命令行, 运维, Clink, CMD, 进程管理]
 date created: 星期五, 十二月 26日 2025, 7:08:04 晚上

@@ -1,7 +1,7 @@
 ---
 title: "GoogleDriveAPI开发"
 filename: google-drive-api-python
-summary: Google Drive API 客户端开发指南。面向 Python SDK 详述了文件及文件夹的创建、复制、删除、移动和搜索操作。重点分析了 fields 过滤机制以及文件导出的两种实现方式：针对 10MB 以下文件使用 export_media 方法，而针对 10MB 以上的大文件，则提供了通过拼接 access_token 的 HTTP URL 绕过大小限制的原生下载方案。
+description: Google Drive API 客户端开发指南。面向 Python SDK 详述了文件及文件夹的创建、复制、删除、移动和搜索操作。重点分析了 fields 过滤机制以及文件导出的两种实现方式：针对 10MB 以下文件使用 export_media 方法，而针对 10MB 以上的大文件，则提供了通过拼接 access_token 的 HTTP URL 绕过大小限制的原生下载方案。
 tags:
   - google-drive-api
   - python-sdk

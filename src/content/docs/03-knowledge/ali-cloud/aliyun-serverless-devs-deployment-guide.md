@@ -2,7 +2,7 @@
 status: completed
 filename: aliyun-serverless-devs-deployment-guide
 title: "Serverless Devs"
-summary: 本笔记详细介绍了阿里云 Serverless Devs 平台的使用流程，涵盖了工具安装、授权管理及项目初始化。重点解析了 `s.yaml` 配置文件在 FC3（函数计算 3.0）环境下的实战应用，包括自定义运行环境 (Custom Runtime)、环境变量配置、Layer 层集成及 HTTP 触发器定义。通过标准化的 IaC (Infrastructure as Code) 模式，为开发者提供了一套从本地源码到云端全栈部署的完整 SOP。
+description: 本笔记详细介绍了阿里云 Serverless Devs 平台的使用流程，涵盖了工具安装、授权管理及项目初始化。重点解析了 `s.yaml` 配置文件在 FC3（函数计算 3.0）环境下的实战应用，包括自定义运行环境 (Custom Runtime)、环境变量配置、Layer 层集成及 HTTP 触发器定义。通过标准化的 IaC (Infrastructure as Code) 模式，为开发者提供了一套从本地源码到云端全栈部署的完整 SOP。
 aliases: [Serverless Devs, 阿里云 FC3 部署, s.yaml 配置手册, 函数计算自动化]
 tags: [Serverless, 阿里云, 函数计算, FC3, Serverless Devs, 自动化部署, IaC, 云原生]
 date created: 星期一, 十二月 1日 2025, 9:59:17 上午

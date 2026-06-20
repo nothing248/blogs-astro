@@ -1,7 +1,7 @@
 ---
 title: "Nginx配置技巧"
 filename: nginx-proxy-configuration-tips
-summary: Nginx 是一款高性能的 HTTP 和反向代理服务器。本文整理了 Nginx 的实用配置技巧，包括如何通过 location 正则匹配解决 Vue 项目中的三方平台（如百度云 API）跨域限制问题，以及如何通过后缀名限制（如拒绝 PDF 访问）增强服务器的安全性。适用于需要精细化控制请求转发与安全过滤的场景。
+description: Nginx 是一款高性能的 HTTP 和反向代理服务器。本文整理了 Nginx 的实用配置技巧，包括如何通过 location 正则匹配解决 Vue 项目中的三方平台（如百度云 API）跨域限制问题，以及如何通过后缀名限制（如拒绝 PDF 访问）增强服务器的安全性。适用于需要精细化控制请求转发与安全过滤的场景。
 tags: [nginx, reverse-proxy, cors, web-security, devops]
 aliases: [Nginx配置技巧, Nginx反向代理]
 status: completed

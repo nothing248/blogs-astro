@@ -1,7 +1,7 @@
 ---
 title: "Postgresql安装"
 filename: postgresql-database-administration
-summary: PostgreSQL是功能强大的开源对象关系型数据库。本文罗列了PostgreSQL的基础操作，包含APT包管理器的裸机安装、基于Docker Compose的轻量部署，并系统解释了所有者权限体系、多模式隔离机制，以及多表继承的定义，为数据库日常管理和架构选型提供指导。
+description: PostgreSQL是功能强大的开源对象关系型数据库。本文罗列了PostgreSQL的基础操作，包含APT包管理器的裸机安装、基于Docker Compose的轻量部署，并系统解释了所有者权限体系、多模式隔离机制，以及多表继承的定义，为数据库日常管理和架构选型提供指导。
 tags: [postgresql, rdbms, database-administration, docker-compose]
 aliases: [Postgresql安装, PG模式隔离, Postgresql配置]
 status: completed

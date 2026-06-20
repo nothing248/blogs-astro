@@ -2,7 +2,7 @@
 status: completed
 filename: advanced-sql-and-bigquery-optimization-principles
 title: "高级 SQL 优化"
-summary: 本笔记沉淀了在大型数据仓库（如 BigQuery）环境中执行高级 SQL 建模与性能优化的核心原则。重点探讨了如何极致压缩 JOIN 次数（通过条件聚合打平为窄表，再转化为宽表处理），以及对于复杂的多维度 GROUP BY 操作如何先提取为标量化统计量。同时，针对复杂数据流处理提出了组件选型的边界原则：在能使用 BigQuery 原生处理的场景下绝不强行引入 Spark，以追求数据管道的简洁与稳定。
+description: 本笔记沉淀了在大型数据仓库（如 BigQuery）环境中执行高级 SQL 建模与性能优化的核心原则。重点探讨了如何极致压缩 JOIN 次数（通过条件聚合打平为窄表，再转化为宽表处理），以及对于复杂的多维度 GROUP BY 操作如何先提取为标量化统计量。同时，针对复杂数据流处理提出了组件选型的边界原则：在能使用 BigQuery 原生处理的场景下绝不强行引入 Spark，以追求数据管道的简洁与稳定。
 aliases: [高级 SQL 优化, BigQuery 优化原则, SQL 降维聚合, JOIN 优化]
 tags: [SQL 优化, BigQuery, 数据分析, 性能调优, 数据模型, Spark 选型, 聚合计算]
 date created: 星期三, 一月 14日 2026, 10:57:03 上午

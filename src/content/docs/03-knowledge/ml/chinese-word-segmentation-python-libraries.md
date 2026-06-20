@@ -2,7 +2,7 @@
 status: completed
 filename: chinese-word-segmentation-python-libraries
 title: "中文分词"
-summary: 本笔记整理了自然语言处理 (NLP) 中最基础的预处理环节——中文分词的 Python 开源工具矩阵。罗列了业界应用最广的结巴分词 (jieba)、北大开源的多领域分词器 (pkuseg)、基于双向 LSTM 模型的高准度分词库 (FoolNLTK) 以及清华大学研发的高效词法分析套件 (THULAC)。为构建搜索召回系统、文本挖掘与情感分析提供前置分词组件的快速选型入口。
+description: 本笔记整理了自然语言处理 (NLP) 中最基础的预处理环节——中文分词的 Python 开源工具矩阵。罗列了业界应用最广的结巴分词 (jieba)、北大开源的多领域分词器 (pkuseg)、基于双向 LSTM 模型的高准度分词库 (FoolNLTK) 以及清华大学研发的高效词法分析套件 (THULAC)。为构建搜索召回系统、文本挖掘与情感分析提供前置分词组件的快速选型入口。
 aliases: [中文分词, Python 分词库, jieba 分词]
 tags: [人工智能, NLP, 自然语言处理, 文本挖掘, Python, jieba]
 date created: 星期二, 二月 25日 2025, 3:23:33 下午

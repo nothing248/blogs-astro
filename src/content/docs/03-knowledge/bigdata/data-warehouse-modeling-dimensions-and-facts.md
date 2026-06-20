@@ -2,7 +2,7 @@
 status: completed
 filename: data-warehouse-modeling-dimensions-and-facts
 title: "数据仓库设计"
-summary: 本笔记总结了数据仓库 (Data Warehouse) 建模的基础理论。深入剖析了维度表 (Dimension Table) 包含描述性属性以支撑数据切片的特性，以及事实表 (Fact Table) 包含海量业务度量数据以支撑聚合计算的职责。进一步对比了业界最通用的两种宽表模型：星型模型 (Star Schema) 在查询效率上的优势与雪花模型 (Snowflake Schema) 在降低数据冗余上的规范化设计，为数仓开发架构师提供模型选型依据。
+description: 本笔记总结了数据仓库 (Data Warehouse) 建模的基础理论。深入剖析了维度表 (Dimension Table) 包含描述性属性以支撑数据切片的特性，以及事实表 (Fact Table) 包含海量业务度量数据以支撑聚合计算的职责。进一步对比了业界最通用的两种宽表模型：星型模型 (Star Schema) 在查询效率上的优势与雪花模型 (Snowflake Schema) 在降低数据冗余上的规范化设计，为数仓开发架构师提供模型选型依据。
 aliases: [数据仓库设计, 维度表与事实表, 星型模型, 雪花模型, 宽表设计]
 tags: [数据仓库, 数据建模, 大数据, 维度表, 事实表, 星型模型, BI, 商业智能]
 date created: 星期日, 十二月 21日 2025, 11:05:28 上午

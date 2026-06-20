@@ -2,7 +2,7 @@
 status: completed
 filename: django-sso-module-flow-and-integration
 title: "Django SSO"
-summary: 本笔记详细解析了基于 Django 框架的开源 SSO（单点登录）模块的工作流程。全面梳理了首次登录时浏览器、应用服务器（App Server）与 SSO 授权服务器之间的令牌获取、重定向交互及时序状态流转。涵盖了跨应用免密登录、管理员取消授权以及用户统一登出的底层执行逻辑，为构建企业级多系统互信网关提供理论基础。
+description: 本笔记详细解析了基于 Django 框架的开源 SSO（单点登录）模块的工作流程。全面梳理了首次登录时浏览器、应用服务器（App Server）与 SSO 授权服务器之间的令牌获取、重定向交互及时序状态流转。涵盖了跨应用免密登录、管理员取消授权以及用户统一登出的底层执行逻辑，为构建企业级多系统互信网关提供理论基础。
 aliases: [Django SSO, 单点登录流程, 统一认证时序]
 tags: [Python, Django, SSO, 单点登录, 授权, 系统架构, 网络安全]
 date created: 星期一, 十二月 1日 2025, 9:59:18 上午

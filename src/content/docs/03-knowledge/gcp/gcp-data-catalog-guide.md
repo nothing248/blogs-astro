@@ -1,7 +1,7 @@
 ---
 title: "GCP Data Catalog"
 filename: gcp-data-catalog-guide
-summary: Google Cloud Data Catalog 元数据管理与数据发现服务指南。解决海量企业级数据资产中元数据孤岛、检索困难与合规性问题。核心技术栈包括自动编制的元数据条目（BigQuery、Pub/Sub 等）、基于标记模板的业务元数据分类，以及结合 IAM、DLP 与 Dataplex 的数据安全治理与迁移方案。
+description: Google Cloud Data Catalog 元数据管理与数据发现服务指南。解决海量企业级数据资产中元数据孤岛、检索困难与合规性问题。核心技术栈包括自动编制的元数据条目（BigQuery、Pub/Sub 等）、基于标记模板的业务元数据分类，以及结合 IAM、DLP 与 Dataplex 的数据安全治理与迁移方案。
 tags:
   - gcp
   - data-catalog

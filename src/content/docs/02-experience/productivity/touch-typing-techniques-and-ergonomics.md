@@ -1,7 +1,7 @@
 ---
 title: "打字经验"
 filename: touch-typing-techniques-and-ergonomics
-summary: 本指南总结盲打技巧与手部工效学姿势，旨在提高打字效率并预防手部疲劳。详细介绍基准键（F 与 J 凸起）的定位机制、十指键盘空间分工逻辑、弓手背与手腕悬空等正确人体工学手型，并提供肌肉记忆培养、准确率优先及打字节奏感训练的日常练习建议。
+description: 本指南总结盲打技巧与手部工效学姿势，旨在提高打字效率并预防手部疲劳。详细介绍基准键（F 与 J 凸起）的定位机制、十指键盘空间分工逻辑、弓手背与手腕悬空等正确人体工学手型，并提供肌肉记忆培养、准确率优先及打字节奏感训练的日常练习建议。
 tags: [productivity, typing-skills, touch-typing, ergonomics, self-improvement]
 aliases: [打字经验, 盲打教程, 键盘指法, 人体工学打字, 打字提速]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "Python数据类"
 filename: python-dataclass-guide
-summary: Python 3.7+ 原生 dataclass 模块使用指南。系统解析了装饰器自动生成的魔法方法列表（如 __init__、__repr__、__hash__ 等）。详细分析了 frozen 不可变控制、order 排序等核心参数的运行原理，展示了 field 过滤与使用 default_factory 规避可变对象共享的设计模式。并通过表格对比了其与 NamedTuple 及 Pydantic 的适用场景。
+description: Python 3.7+ 原生 dataclass 模块使用指南。系统解析了装饰器自动生成的魔法方法列表（如 __init__、__repr__、__hash__ 等）。详细分析了 frozen 不可变控制、order 排序等核心参数的运行原理，展示了 field 过滤与使用 default_factory 规避可变对象共享的设计模式。并通过表格对比了其与 NamedTuple 及 Pydantic 的适用场景。
 tags:
   - python-dataclass
   - magic-methods

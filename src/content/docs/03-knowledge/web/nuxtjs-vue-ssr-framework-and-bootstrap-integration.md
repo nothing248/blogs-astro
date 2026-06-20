@@ -2,7 +2,7 @@
 status: completed
 filename: nuxtjs-vue-ssr-framework-and-bootstrap-integration
 title: "Nuxt.js 教程"
-summary: 本笔记记录了基于 Vue.js 的通用框架（主打服务端渲染 SSR）Nuxt.js 的快速上手指南。区分了 Nuxt 2 与 Nuxt 3 的脚手架初始化命令，并详细梳理了其约定优于配置的核心目录结构（如 layouts, plugins, store 等）。重点提供了一个前端工程化的高阶实战：如何通过引入 `style-resources` 模块，在 Nuxt 项目中全局注入并深度覆盖 Bootstrap-Vue 的默认 SCSS 变量（如 `$primary`），实现深度的 UI 主题定制。
+description: 本笔记记录了基于 Vue.js 的通用框架（主打服务端渲染 SSR）Nuxt.js 的快速上手指南。区分了 Nuxt 2 与 Nuxt 3 的脚手架初始化命令，并详细梳理了其约定优于配置的核心目录结构（如 layouts, plugins, store 等）。重点提供了一个前端工程化的高阶实战：如何通过引入 `style-resources` 模块，在 Nuxt 项目中全局注入并深度覆盖 Bootstrap-Vue 的默认 SCSS 变量（如 `$primary`），实现深度的 UI 主题定制。
 aliases: [Nuxt.js 教程, Vue SSR, Nuxt 目录结构, Bootstrap-Vue 样式覆盖]
 tags: [前端开发, Vue.js, Nuxt.js, SSR, Bootstrap, SCSS, Web 框架]
 date created: 星期一, 十一月 24日 2025, 9:46:58 上午

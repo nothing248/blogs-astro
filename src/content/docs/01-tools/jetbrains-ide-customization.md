@@ -1,7 +1,7 @@
 ---
 title: "JetBrains全家桶"
 filename: jetbrains-ide-customization
-summary: JetBrains全家桶编辑器是主流的开发者集成开发环境（IDE）。本文主要介绍针对PyCharm的自定义设置，包含文件模版注释（配置Python脚本开头编码、作者及文件描述等信息）、在IDE内直接配置和运行Jupyter Notebook、以及常用插件和环境变量设置等提升编码体验的实用技巧。
+description: JetBrains全家桶编辑器是主流的开发者集成开发环境（IDE）。本文主要介绍针对PyCharm的自定义设置，包含文件模版注释（配置Python脚本开头编码、作者及文件描述等信息）、在IDE内直接配置和运行Jupyter Notebook、以及常用插件和环境变量设置等提升编码体验的实用技巧。
 tags: [jetbrains, pycharm, ide-setup, productivity]
 aliases: [JetBrains全家桶, PyCharm模板, IDE配置]
 status: completed

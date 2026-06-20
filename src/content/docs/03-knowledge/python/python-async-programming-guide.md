@@ -1,7 +1,7 @@
 ---
 title: "Python协程与异步IO"
 filename: python-async-programming-guide
-summary: Python 异步编程与高性能 Web 服务器配置指南。系统解析了生成器（yield/send/yield from）、Asyncio 异步库、Aiohttp 框架及 Gevent 等协程库的机制与代码。对比分析了 Gunicorn、uWSGI 与 Uvicorn 的配置参数，并深度论述了“Gunicorn + Uvicorn Worker”的多核高可用模式与直接运行 Uvicorn 在生产部署上的优劣。
+description: Python 异步编程与高性能 Web 服务器配置指南。系统解析了生成器（yield/send/yield from）、Asyncio 异步库、Aiohttp 框架及 Gevent 等协程库的机制与代码。对比分析了 Gunicorn、uWSGI 与 Uvicorn 的配置参数，并深度论述了“Gunicorn + Uvicorn Worker”的多核高可用模式与直接运行 Uvicorn 在生产部署上的优劣。
 tags:
   - python-coroutine
   - async-programming

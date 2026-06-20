@@ -1,7 +1,7 @@
 ---
 title: "ScreenToGif教程"
 filename: screentogif-usage-and-optimization
-summary: ScreenToGif 是一款开源、免费且功能极其强大的 Windows 屏幕录制与 GIF 编辑工具。本文简要介绍了其核心功能，包括屏幕/摄像头/白板录制，并针对 GIF 格式体积过大的痛点提供了实战优化建议（如针对长视频转为 WebP 或 MP4 格式）。是开发者演示、教程制作的得力助手。
+description: ScreenToGif 是一款开源、免费且功能极其强大的 Windows 屏幕录制与 GIF 编辑工具。本文简要介绍了其核心功能，包括屏幕/摄像头/白板录制，并针对 GIF 格式体积过大的痛点提供了实战优化建议（如针对长视频转为 WebP 或 MP4 格式）。是开发者演示、教程制作的得力助手。
 tags: [screentogif, gif-recorder, windows-tools, image-editing, open-source]
 aliases: [ScreenToGif教程, 动态图制作工具]
 status: completed

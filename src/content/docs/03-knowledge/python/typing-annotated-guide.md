@@ -1,7 +1,7 @@
 ---
 title: "typing.Annotated用法"
 filename: typing-annotated-guide
-summary: Python typing.Annotated 类型提示指南。基于 PEP 593 规范，详述了在不干扰 Mypy 等静态检查器的前提下，将运行时特定元数据附加到类型的机制。解析了参数规范与自动展平规则，提供了 Pydantic V2/V3 中可重用字段约束的定义方法，并展示了通过 get_type_hints 与 get_args 在运行时获取元数据的方法及多版本兼容代码。
+description: Python typing.Annotated 类型提示指南。基于 PEP 593 规范，详述了在不干扰 Mypy 等静态检查器的前提下，将运行时特定元数据附加到类型的机制。解析了参数规范与自动展平规则，提供了 Pydantic V2/V3 中可重用字段约束的定义方法，并展示了通过 get_type_hints 与 get_args 在运行时获取元数据的方法及多版本兼容代码。
 tags:
   - python-typing
   - annotated

@@ -2,7 +2,7 @@
 status: completed
 filename: kibana-visualization-tool-installation-and-setup
 title: "Kibana 安装"
-summary: 本笔记记录了 ELK 技术栈中可视化分析组件 Kibana 的安装与环境配置流程。详细提供了 Kibana 8.x Linux 二进制包下载、`kibana.yml` 中连接 Elasticsearch 集群的核心参数（IP、鉴权、中文汉化及 SSL 设置），以及通过 systemd 配置服务后台守护进程与开机自启的运维 SOP。此指南旨在协助运维人员快速搭建与 Elasticsearch 无缝对接的日志与指标可视化分析面板。
+description: 本笔记记录了 ELK 技术栈中可视化分析组件 Kibana 的安装与环境配置流程。详细提供了 Kibana 8.x Linux 二进制包下载、`kibana.yml` 中连接 Elasticsearch 集群的核心参数（IP、鉴权、中文汉化及 SSL 设置），以及通过 systemd 配置服务后台守护进程与开机自启的运维 SOP。此指南旨在协助运维人员快速搭建与 Elasticsearch 无缝对接的日志与指标可视化分析面板。
 aliases: [Kibana 安装, ELK 部署, 可视化组件, kibana.yml]
 tags: [Kibana, 大数据, Elasticsearch, ELK, 数据可视化, Linux, 运维部署, 日志分析]
 date created: 星期三, 十二月 10日 2025, 6:20:41 晚上

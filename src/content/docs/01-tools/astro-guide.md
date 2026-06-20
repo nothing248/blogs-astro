@@ -1,7 +1,7 @@
 ---
 title: "Astro框架及部署实战"
 filename: astro-guide
-summary: Astro 是现代化的静态站点生成（SSG）框架。本文总结了 Astro 框架的基本概念、开发步骤、项目配置以及在 Cloudflare Pages 部署时遇到的坑，特别记录了私有仓库 subtree 同步鉴权失败和 Cloudflare V2 构建系统误判为 Worker 的解决方案。
+description: Astro 是现代化的静态站点生成（SSG）框架。本文总结了 Astro 框架的基本概念、开发步骤、项目配置以及在 Cloudflare Pages 部署时遇到的坑，特别记录了私有仓库 subtree 同步鉴权失败和 Cloudflare V2 构建系统误判为 Worker 的解决方案。
 tags: [astro, web-development, static-site-generator, cloudflare-pages, git-subtree]
 aliases: [Astro教程, Astro部署, Cloudflare部署踩坑]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "Baidu Analytics"
 filename: baidu-analytics-setup
-summary: 百度统计（百度分析云）是一款类似于 Google Analytics 的网站流量分析工具。本笔记介绍了百度统计的账号注册要点、网站创建流程，以及基础数据采集代码和自定义事件跟踪代码的部署方法，帮助开发者快速在站点中集成流量监控功能。
+description: 百度统计（百度分析云）是一款类似于 Google Analytics 的网站流量分析工具。本笔记介绍了百度统计的账号注册要点、网站创建流程，以及基础数据采集代码和自定义事件跟踪代码的部署方法，帮助开发者快速在站点中集成流量监控功能。
 tags: ["百度统计", "网站分析", "流量监控", "SEO", "数据采集"]
 aliases: ["Baidu Analytics", "百度分析云", "网站数据采集"]
 status: completed

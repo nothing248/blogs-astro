@@ -1,7 +1,7 @@
 ---
 title: "深度学习优化器"
 filename: deep-learning-optimizers
-summary: 本笔记梳理了深度学习中常用的核心梯度更新优化器算法。涵盖经典的随机梯度下降（SGD）及其优缺点，引入动量的 Momentum 算法，针对参数学习率自适应调整的 AdaGrad 算法，以及结合两者优势的 Adam 优化器。通过公式原理图解与对比，为模型训练中的优化器选择与调优提供理论依据。
+description: 本笔记梳理了深度学习中常用的核心梯度更新优化器算法。涵盖经典的随机梯度下降（SGD）及其优缺点，引入动量的 Momentum 算法，针对参数学习率自适应调整的 AdaGrad 算法，以及结合两者优势的 Adam 优化器。通过公式原理图解与对比，为模型训练中的优化器选择与调优提供理论依据。
 tags:
   - deep-learning
   - optimizer

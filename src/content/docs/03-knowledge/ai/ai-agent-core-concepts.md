@@ -2,7 +2,7 @@
 status: completed
 filename: ai-agent-core-concepts
 title: "Agent 架构"
-summary: 本笔记系统梳理了 AI Agent 的四大核心支柱：Agent.md（身份与行为规范）、Skills（原子化工具箱）、Workflow（结构化任务流水线）以及 MCP（模型上下文协议与外部集成）。通过对比分析各组件在定位、确定性与灵活性方面的差异，阐述了如何构建高稳定性、低推理依赖的智能体系统。核心结论指出，MCP 侧重于外部软件与数据的物理交互，而 Skills 则侧重于领域知识与最佳实践的封装。
+description: 本笔记系统梳理了 AI Agent 的四大核心支柱：Agent.md（身份与行为规范）、Skills（原子化工具箱）、Workflow（结构化任务流水线）以及 MCP（模型上下文协议与外部集成）。通过对比分析各组件在定位、确定性与灵活性方面的差异，阐述了如何构建高稳定性、低推理依赖的智能体系统。核心结论指出，MCP 侧重于外部软件与数据的物理交互，而 Skills 则侧重于领域知识与最佳实践的封装。
 aliases: [Agent 架构, 技能库, 任务编排, 模型上下文协议, MCP]
 tags: [人工智能, AI Agent, LLM, 软件架构, MCP, 自动化, 工作流, 技能库]
 date created: 星期三, 一月 14日 2026, 10:57:04 上午

@@ -1,7 +1,7 @@
 ---
 title: "Windows 网络驱动器不可见"
 filename: windows-network-drive-admin-access
-summary: "笔记解决了 Windows 中管理员权限下无法访问网络映射驱动器（Z: 盘等）的经典问题。其根源在于 Windows UAC 的令牌分离机制，导致标准令牌下的映射资源在管理员令牌中不可见。文中提供了三种解决方案：通过注册表项 `EnableLinkedConnections` 强制同步令牌间的连接、在管理员终端手动重新映射，以及在脚本中使用 UNC 路径代替盘符。"
+description: "笔记解决了 Windows 中管理员权限下无法访问网络映射驱动器（Z: 盘等）的经典问题。其根源在于 Windows UAC 的令牌分离机制，导致标准令牌下的映射资源在管理员令牌中不可见。文中提供了三种解决方案：通过注册表项 `EnableLinkedConnections` 强制同步令牌间的连接、在管理员终端手动重新映射，以及在脚本中使用 UNC 路径代替盘符。"
 tags: [Windows, Network-Drive, UAC, Admin-Privileges, Registry]
 aliases: [Windows 网络驱动器不可见, 管理员权限访问 Z 盘, EnableLinkedConnections 详解]
 status: completed

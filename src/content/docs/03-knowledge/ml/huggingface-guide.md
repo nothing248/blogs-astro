@@ -1,7 +1,7 @@
 ---
 title: "HuggingFace指南"
 filename: huggingface-guide
-summary: Hugging Face 是一个预训练模型与数据集社区，主要包含 Models、Datasets 和 Spaces 三大核心模块。本笔记记录了使用 huggingface_hub 进行模型仓库克隆、大文件 LFS 跟踪的 CLI 操作步骤，同时整理了基于 Gradio 快速构建交互式 Web 界面的 Python 代码示例，以及在使用 OpenCV 时 Matplotlib 版本冲突的解决方法。
+description: Hugging Face 是一个预训练模型与数据集社区，主要包含 Models、Datasets 和 Spaces 三大核心模块。本笔记记录了使用 huggingface_hub 进行模型仓库克隆、大文件 LFS 跟踪的 CLI 操作步骤，同时整理了基于 Gradio 快速构建交互式 Web 界面的 Python 代码示例，以及在使用 OpenCV 时 Matplotlib 版本冲突的解决方法。
 tags:
   - huggingface
   - gradio

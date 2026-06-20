@@ -4,7 +4,7 @@ filename: alist-multi-cloud-storage
 aliases: ["AList", "云盘挂载", "多盘管理工具"]
 tags: ["AList", "云存储", "文件管理", "Linux运维", "Nginx"]
 status: completed
-summary: AList 是一款强大的多云盘文件列表程序，支持多种存储（如阿里云盘、Google Drive、OneDrive等），通过 WebDAV 协议进行文件管理和分享。本笔记详细介绍了在 Linux 环境下的快速安装部署流程，包括使用官方脚本进行一键安装、`systemctl` 服务管理命令，以及如何配置 Nginx 反向代理以实现 HTTPS 访问和自定义域名，有效解决了跨云盘文件统一管理与安全暴露的需求。
+description: AList 是一款强大的多云盘文件列表程序，支持多种存储（如阿里云盘、Google Drive、OneDrive等），通过 WebDAV 协议进行文件管理和分享。本笔记详细介绍了在 Linux 环境下的快速安装部署流程，包括使用官方脚本进行一键安装、`systemctl` 服务管理命令，以及如何配置 Nginx 反向代理以实现 HTTPS 访问和自定义域名，有效解决了跨云盘文件统一管理与安全暴露的需求。
 date created: 星期二, 一月 13日 2026, 9:31:08 上午
 date modified: 星期五, 六月 19日 2026, 11:57:05 中午
 ---

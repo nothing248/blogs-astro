@@ -1,7 +1,7 @@
 ---
 title: "WhatIf工具简介"
 filename: whatif-explainable-ml-visualization
-summary: What-If Tool 是一款旨在提高机器学习模型可解释性的可视化分析工具。它允许用户在无需编写代码的情况下，通过直观的界面探索模型行为、测试假设并评估模型公平性。本文记录了其作为模型诊断和审计工具的基础定位。
+description: What-If Tool 是一款旨在提高机器学习模型可解释性的可视化分析工具。它允许用户在无需编写代码的情况下，通过直观的界面探索模型行为、测试假设并评估模型公平性。本文记录了其作为模型诊断和审计工具的基础定位。
 tags: [machine-learning, visualization, ai-ethics, tool]
 aliases: [WhatIf工具简介]
 status: pending

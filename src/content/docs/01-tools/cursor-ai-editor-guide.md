@@ -1,7 +1,7 @@
 ---
 title: "Cursor编辑器"
 filename: cursor-ai-editor-guide
-summary: Cursor 是一款基于 AI 的代码编辑器，集成了 GPT-4 的能力，旨在通过 AI 补全、代码生成、解释及重构等功能大幅提升开发效率。本笔记介绍了其安装方式、核心 AI 功能模块、常用快捷键配置以及 API Key 设置等关键操作，为开发者从传统编辑器过渡到 AI 驱动的编程环境提供了实用的入门参考。
+description: Cursor 是一款基于 AI 的代码编辑器，集成了 GPT-4 的能力，旨在通过 AI 补全、代码生成、解释及重构等功能大幅提升开发效率。本笔记介绍了其安装方式、核心 AI 功能模块、常用快捷键配置以及 API Key 设置等关键操作，为开发者从传统编辑器过渡到 AI 驱动的编程环境提供了实用的入门参考。
 tags: ["Cursor", "AI", "Editor", "IDE", "Productivity"]
 aliases: ["Cursor编辑器", "AI代码助手", "GPT-4编辑器"]
 status: completed

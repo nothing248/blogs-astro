@@ -1,7 +1,7 @@
 ---
 title: "PicGo图床配置"
 filename: picgo-image-hosting-setup
-summary: PicGo 是一款开源的图片上传及图床管理工具，广泛应用于 Markdown 写作流中。本文详细介绍了如何配置 Gitee（通过插件）及七牛云作为图床。针对 Gitee 的防盗链限制及七牛云测试域名的有效期问题提供了避坑指南，旨在帮助用户构建一个高效、稳定的自动化图片上传工作流。
+description: PicGo 是一款开源的图片上传及图床管理工具，广泛应用于 Markdown 写作流中。本文详细介绍了如何配置 Gitee（通过插件）及七牛云作为图床。针对 Gitee 的防盗链限制及七牛云测试域名的有效期问题提供了避坑指南，旨在帮助用户构建一个高效、稳定的自动化图片上传工作流。
 tags: [picgo, image-hosting, markdown, writing-tools, cloud-storage]
 aliases: [PicGo图床配置, Gitee图床, 七牛云图床]
 status: completed

@@ -2,7 +2,7 @@
 status: completed
 filename: vuejs-framework-routing-and-scoped-css-principles
 title: "Vue 框架"
-summary: 本笔记记录了 Vue.js 前端框架开发中的部分核心概念与避坑技巧。梳理了早期 Vue CLI 创建 Vue 2 项目的指令。重点解析了 Vue 单文件组件中 `scoped` 样式的底层实现原理（通过动态注入形如 `data-v-xxxx` 的属性选择器实现样式隔离），并指出了针对第三方动态渲染 DOM（无法被注入标识）时样式失效的解决方案。此外，明确了 `$router` 中 `path+query` 与 `name+params` 传参的区别，以及在模板事件中通过 `$event` 手动传递原生事件对象的语法。
+description: 本笔记记录了 Vue.js 前端框架开发中的部分核心概念与避坑技巧。梳理了早期 Vue CLI 创建 Vue 2 项目的指令。重点解析了 Vue 单文件组件中 `scoped` 样式的底层实现原理（通过动态注入形如 `data-v-xxxx` 的属性选择器实现样式隔离），并指出了针对第三方动态渲染 DOM（无法被注入标识）时样式失效的解决方案。此外，明确了 `$router` 中 `path+query` 与 `name+params` 传参的区别，以及在模板事件中通过 `$event` 手动传递原生事件对象的语法。
 aliases: [Vue 框架, Scoped CSS 原理, Vue 路由传参, Vue 事件对象]
 tags: [前端开发, Vue.js, CSS, 前端路由, 组件化]
 date created: 星期一, 五月 19日 2025, 2:05:23 下午

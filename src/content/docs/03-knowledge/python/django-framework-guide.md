@@ -1,7 +1,7 @@
 ---
 title: "Django基础教程"
 filename: django-framework-guide
-summary: Django 框架全栈开发与 REST API 构建指南。详述了应用初始化、URL 注册、模版自定义过滤器和 ORM 增删改查。重点剖析了 Django REST Framework (DRF) 的 Serializer 字段自定义方法及 APIView/mixins 视图构建。同时补充了 drf-spectacular 生成 OpenAPI 文档的装饰器配置、django-admin 自定义指令编写及 populate 重入异常排查。
+description: Django 框架全栈开发与 REST API 构建指南。详述了应用初始化、URL 注册、模版自定义过滤器和 ORM 增删改查。重点剖析了 Django REST Framework (DRF) 的 Serializer 字段自定义方法及 APIView/mixins 视图构建。同时补充了 drf-spectacular 生成 OpenAPI 文档的装饰器配置、django-admin 自定义指令编写及 populate 重入异常排查。
 tags:
   - django
   - django-rest-framework

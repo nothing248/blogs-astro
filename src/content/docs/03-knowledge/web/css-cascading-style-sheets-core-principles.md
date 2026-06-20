@@ -2,7 +2,7 @@
 status: completed
 filename: css-cascading-style-sheets-core-principles
 title: "CSS 基础"
-summary: 本笔记系统归纳了 Web 前端样式表 CSS 的核心底层原理。深度解析了样式的层叠优先级计算规则（如浏览器默认、行内样式、ID 及类选择器权重），并整理了 `inherit` 和 `initial` 等特殊继承值。详细对比了绝对单位 (px) 与相对单位 (em, rem, vh) 的最佳实践边界。同时，梳理了 `border-box` 盒模型的优势，总结了解决外边距折叠、等高列布局（Flex/Table）及垂直居中等经典 CSS 排版痛点的方案，是前端页面重构的必备基础字典。
+description: 本笔记系统归纳了 Web 前端样式表 CSS 的核心底层原理。深度解析了样式的层叠优先级计算规则（如浏览器默认、行内样式、ID 及类选择器权重），并整理了 `inherit` 和 `initial` 等特殊继承值。详细对比了绝对单位 (px) 与相对单位 (em, rem, vh) 的最佳实践边界。同时，梳理了 `border-box` 盒模型的优势，总结了解决外边距折叠、等高列布局（Flex/Table）及垂直居中等经典 CSS 排版痛点的方案，是前端页面重构的必备基础字典。
 aliases: [CSS 基础, 层叠样式表, 盒模型, CSS 选择器权重, rem 与 em]
 tags: [前端开发, CSS, Web 设计, UI/UX, 布局排版, HTML]
 date created: 星期一, 五月 19日 2025, 2:05:23 下午

@@ -1,7 +1,7 @@
 ---
 title: "Noi浏览器"
 filename: noi-intro
-summary: Noi 是一款开源的跨平台多 AI 模型浏览器整合客户端，旨在帮助用户在一个统一的界面中管理和使用 ChatGPT、Claude、Bard 等多种大语言模型。本笔记整理了 Noi 的核心定位、多模型整合特性，并保留了相关的官方参考链接，以便于快速获取客户端资源与配置指南。
+description: Noi 是一款开源的跨平台多 AI 模型浏览器整合客户端，旨在帮助用户在一个统一的界面中管理和使用 ChatGPT、Claude、Bard 等多种大语言模型。本笔记整理了 Noi 的核心定位、多模型整合特性，并保留了相关的官方参考链接，以便于快速获取客户端资源与配置指南。
 tags:
   - noi
   - ai-client

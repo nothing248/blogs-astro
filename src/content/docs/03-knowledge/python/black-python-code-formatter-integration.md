@@ -2,7 +2,7 @@
 status: completed
 filename: black-python-code-formatter-integration
 title: "Black 格式化"
-summary: 本笔记记录了极度严谨的 Python 代码格式化工具 Black 的基础用法。阐述了其作为“不妥协的格式化器 (The Uncompromising Code Formatter)”的理念，能够强制消除团队间不同的代码风格争议。提供了通过 pip 的安装命令以及终端格式化指令。同时，演示了将其通过 External Tools 挂载集成至 PyCharm 等主流 IDE 的路径，为提升团队代码审查效率与工程规范度提供指南。
+description: 本笔记记录了极度严谨的 Python 代码格式化工具 Black 的基础用法。阐述了其作为“不妥协的格式化器 (The Uncompromising Code Formatter)”的理念，能够强制消除团队间不同的代码风格争议。提供了通过 pip 的安装命令以及终端格式化指令。同时，演示了将其通过 External Tools 挂载集成至 PyCharm 等主流 IDE 的路径，为提升团队代码审查效率与工程规范度提供指南。
 aliases: [Black 格式化, Python 代码规范, Black 教程]
 tags: [Python, 工程化, 代码规范, 格式化工具, Black, IDE 集成]
 date created: 星期一, 十二月 1日 2025, 9:59:24 上午

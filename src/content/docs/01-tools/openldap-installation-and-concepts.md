@@ -1,7 +1,7 @@
 ---
 title: "LDAP教程"
 filename: openldap-installation-and-concepts
-summary: OpenLDAP 是一款高性能的开源 LDAP 服务实现。本文详细介绍了 LDAP 的核心概念（如条目、属性、对象类及 DN），对比了 BDB、HDB 与现代 MDB 数据存储后端的优劣。同时提供了基于 Debian 系的包管理安装及 2.6.x 版本的源码编译步骤，并包含了数据库初始化的 LDIF 配置文件示例，适用于构建企业级统一身份认证系统。
+description: OpenLDAP 是一款高性能的开源 LDAP 服务实现。本文详细介绍了 LDAP 的核心概念（如条目、属性、对象类及 DN），对比了 BDB、HDB 与现代 MDB 数据存储后端的优劣。同时提供了基于 Debian 系的包管理安装及 2.6.x 版本的源码编译步骤，并包含了数据库初始化的 LDIF 配置文件示例，适用于构建企业级统一身份认证系统。
 tags: [openldap, ldap, identity-management, sso, linux-admin]
 aliases: [LDAP教程, OpenLDAP安装, 目录服务配置]
 status: completed

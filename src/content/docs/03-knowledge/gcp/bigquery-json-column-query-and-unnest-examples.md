@@ -2,7 +2,7 @@
 status: completed
 filename: bigquery-json-column-query-and-unnest-examples
 title: "BigQuery JSON 查询"
-summary: 本笔记记录了 Google BigQuery 针对原生 JSON 类型列进行高阶查询的实战 SQL 案例。详细演示了如何通过点号路径与 `JSON_VALUE` 函数提取嵌套的 JSON 对象与数组元素（需注意字符串强制类型转换）。重点提供了利用 `JSON_QUERY_ARRAY` 结合 `UNNEST` 和 `LEFT JOIN` 实现复杂 JSON 数组展开（拍平）以提取订单级明细的最佳实践，为半结构化数据清洗提供 SQL 参考。
+description: 本笔记记录了 Google BigQuery 针对原生 JSON 类型列进行高阶查询的实战 SQL 案例。详细演示了如何通过点号路径与 `JSON_VALUE` 函数提取嵌套的 JSON 对象与数组元素（需注意字符串强制类型转换）。重点提供了利用 `JSON_QUERY_ARRAY` 结合 `UNNEST` 和 `LEFT JOIN` 实现复杂 JSON 数组展开（拍平）以提取订单级明细的最佳实践，为半结构化数据清洗提供 SQL 参考。
 aliases: [BigQuery JSON 查询, BQ UNNEST, JSON_VALUE, 数组拍平]
 tags: [BigQuery, GCP, SQL, JSON, 数据处理, 数据清洗, 半结构化数据]
 date created: 星期三, 十二月 10日 2025, 7:31:06 晚上

@@ -2,7 +2,7 @@
 status: completed
 filename: web-accessibility-wcag-color-contrast-and-js-calculation
 title: "颜色对比度"
-summary: 本笔记深入探讨了 Web 无障碍设计中关于颜色对比度的核心标准。依据 WCAG 2.0 规范，解析了基于相对亮度而非色相的对比度计算原理，并详细列出了 A/AA/AAA 三个合规等级的阈值要求（如最佳 7:1，最低 4.5:1）。同时，提供了一套具有极高工程价值的纯 JavaScript 代码实现：包括通过 RGB 色值严密计算亮度的算法公式，以及递归向上遍历 DOM 树以获取元素真实且非透明背景色的底层脚本，为前端自动化 UI 走查提供技术支撑。
+description: 本笔记深入探讨了 Web 无障碍设计中关于颜色对比度的核心标准。依据 WCAG 2.0 规范，解析了基于相对亮度而非色相的对比度计算原理，并详细列出了 A/AA/AAA 三个合规等级的阈值要求（如最佳 7:1，最低 4.5:1）。同时，提供了一套具有极高工程价值的纯 JavaScript 代码实现：包括通过 RGB 色值严密计算亮度的算法公式，以及递归向上遍历 DOM 树以获取元素真实且非透明背景色的底层脚本，为前端自动化 UI 走查提供技术支撑。
 aliases: [颜色对比度, WCAG 颜色标准, 前端无障碍设计, JS 计算对比度]
 tags: [前端开发, JavaScript, UI/UX, 无障碍设计, a11y, WCAG, 算法]
 date created: 星期一, 五月 19日 2025, 2:05:16 下午

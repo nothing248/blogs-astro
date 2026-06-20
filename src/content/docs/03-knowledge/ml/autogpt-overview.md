@@ -1,7 +1,7 @@
 ---
 title: "AutoGPT简介"
 filename: autogpt-overview
-summary: AutoGPT 是一个开源的自动化 GPT 任务执行框架。它能够根据设定的目标，自动拆解任务、执行步骤、利用网络搜索和存储等工具，实现完全自主的 AI Agent 运作。本笔记收集了 AutoGPT 官方文档、AgentGPT 在线体验地址以及相关技术评测文章，旨在为研究自主智能体与自动化工作流提供基础资源参考。
+description: AutoGPT 是一个开源的自动化 GPT 任务执行框架。它能够根据设定的目标，自动拆解任务、执行步骤、利用网络搜索和存储等工具，实现完全自主的 AI Agent 运作。本笔记收集了 AutoGPT 官方文档、AgentGPT 在线体验地址以及相关技术评测文章，旨在为研究自主智能体与自动化工作流提供基础资源参考。
 tags:
   - autogpt
   - ai-agent

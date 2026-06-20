@@ -1,7 +1,7 @@
 ---
 title: "Chrome使用技巧"
 filename: google-chrome-tips-search-commands
-summary: 本笔记汇总了 Google Chrome 浏览器的高级使用技巧。重点介绍了 Google 搜索的高级参数（如 lr, cr, as_qdr）与搜索指令（如 site:, filetype:, numerical range 等）。此外，还提供了针对开发者的实用技巧，如解决 DevTools 无法粘贴的问题以及配置 HSTS 以允许访问特定 HTTP 站点的调试方法。
+description: 本笔记汇总了 Google Chrome 浏览器的高级使用技巧。重点介绍了 Google 搜索的高级参数（如 lr, cr, as_qdr）与搜索指令（如 site:, filetype:, numerical range 等）。此外，还提供了针对开发者的实用技巧，如解决 DevTools 无法粘贴的问题以及配置 HSTS 以允许访问特定 HTTP 站点的调试方法。
 tags: ["Chrome", "Google-Search", "DevTools", "Browser-Tips", "SEO"]
 aliases: ["Chrome使用技巧", "Google搜索指令大全", "Chrome开发调试"]
 status: completed

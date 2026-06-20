@@ -1,7 +1,7 @@
 ---
 title: "PyCharm教程"
 filename: pycharm-ide-usage-and-troubleshooting
-summary: PyCharm 是一款专为 Python 开发者设计的强大集成开发环境（IDE），由 JetBrains 开发。本文简要介绍了 PyCharm 的核心功能，并针对常见的“解释器配置无效”问题提供了一个终极解决方案：通过恢复 IDE 默认设置（Restore Default Settings）来重置异常配置。
+description: PyCharm 是一款专为 Python 开发者设计的强大集成开发环境（IDE），由 JetBrains 开发。本文简要介绍了 PyCharm 的核心功能，并针对常见的“解释器配置无效”问题提供了一个终极解决方案：通过恢复 IDE 默认设置（Restore Default Settings）来重置异常配置。
 tags: [pycharm, python, ide, jetbrains, development-tools]
 aliases: [PyCharm教程, Python开发环境, PyCharm故障排除]
 status: completed

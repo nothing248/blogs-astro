@@ -1,7 +1,7 @@
 ---
 title: "Sora视频模型"
 filename: openai-sora-video-generation-guide
-summary: Sora 是 OpenAI 推出的革命性文本生成视频（Text-to-Video）大模型。本文汇总了 Sora 的官方震撼示例，包括著名的“东京街头时尚女性”及“禅宗花园小矮人”视频及其对应的中英文 Prompt。同时介绍了 2024 年初期的测试资格申请流程与使用步骤，展示了 Sora 在模拟真实世界物理规律及生成超长、连贯视频方面的跨时代能力。
+description: Sora 是 OpenAI 推出的革命性文本生成视频（Text-to-Video）大模型。本文汇总了 Sora 的官方震撼示例，包括著名的“东京街头时尚女性”及“禅宗花园小矮人”视频及其对应的中英文 Prompt。同时介绍了 2024 年初期的测试资格申请流程与使用步骤，展示了 Sora 在模拟真实世界物理规律及生成超长、连贯视频方面的跨时代能力。
 tags: [sora, openai, generative-ai, video-generation, computer-vision, prompt-engineering]
 aliases: [Sora视频模型, OpenAI Sora教程, 文本转视频]
 status: completed

@@ -2,7 +2,7 @@
 status: completed
 filename: apache-pulsar-vs-kafka-architecture-comparison
 title: "Apache Pulsar 架构"
-summary: 本笔记深度剖析了分布式消息引擎 Apache Pulsar 的核心架构设计，并将其与业界标杆 Apache Kafka 进行了多维度的横向对比。重点解读了 Pulsar “计算 (Broker) 与存储 (BookKeeper) 分离”的两层架构如何解决 Kafka 存算一体带来的扩容痛点。此外，详细对比了两者在消息消费模型（Pulsar 的统一 Push/Pull 模型与共享订阅 vs Kafka 的严格 Pull 模型）及分层存储等云原生特性上的差异，为企业级实时数据流平台的选型提供理论支撑。
+description: 本笔记深度剖析了分布式消息引擎 Apache Pulsar 的核心架构设计，并将其与业界标杆 Apache Kafka 进行了多维度的横向对比。重点解读了 Pulsar “计算 (Broker) 与存储 (BookKeeper) 分离”的两层架构如何解决 Kafka 存算一体带来的扩容痛点。此外，详细对比了两者在消息消费模型（Pulsar 的统一 Push/Pull 模型与共享订阅 vs Kafka 的严格 Pull 模型）及分层存储等云原生特性上的差异，为企业级实时数据流平台的选型提供理论支撑。
 aliases: [Apache Pulsar 架构, Pulsar vs Kafka, 存算分离 MQ, BookKeeper]
 tags: [消息队列, Pulsar, Kafka, 分布式架构, 存算分离, 云原生, 大数据, 中间件]
 date created: 星期三, 十二月 10日 2025, 6:20:42 晚上

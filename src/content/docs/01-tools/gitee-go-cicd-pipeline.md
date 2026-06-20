@@ -1,7 +1,7 @@
 ---
 title: "Gitee-Go使用"
 filename: gitee-go-cicd-pipeline
-summary: Gitee Go是Gitee平台内置的CI/CD持续集成与构建工具。本文梳理了Gitee Go图形化流水线配置流程。详细说明了主机组的物理机与ECS导入、安装Gitee Go Runner客户端、设置凭证密钥管理、定义流水线构建与发布步骤的核心操作，助力国内团队实现代码托管与自动化部署。
+description: Gitee Go是Gitee平台内置的CI/CD持续集成与构建工具。本文梳理了Gitee Go图形化流水线配置流程。详细说明了主机组的物理机与ECS导入、安装Gitee Go Runner客户端、设置凭证密钥管理、定义流水线构建与发布步骤的核心操作，助力国内团队实现代码托管与自动化部署。
 tags: [gitee-go, cicd, devops, automation-pipeline]
 aliases: [Gitee-Go使用, 流水线部署, Runner配置]
 status: completed

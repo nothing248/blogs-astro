@@ -2,7 +2,7 @@
 status: completed
 filename: matplotlib-python-data-visualization-quickstart
 title: "Matplotlib 教程"
-summary: 本笔记总结了 Python 生态中最经典的底层数据可视化库 Matplotlib 的基础实操。提供了利用 `pyplot` 模块快速绘制折线图与散点图的代码模板，并涵盖了图表关键元素（如标题、坐标轴标签、图例、网格线）的定制化设置。此外，介绍了基于面向对象风格 (Object-Oriented API) 利用 `subplots` 创建多图表布局的进阶画法，为数据科学与探索性数据分析 (EDA) 提供绘图指南。
+description: 本笔记总结了 Python 生态中最经典的底层数据可视化库 Matplotlib 的基础实操。提供了利用 `pyplot` 模块快速绘制折线图与散点图的代码模板，并涵盖了图表关键元素（如标题、坐标轴标签、图例、网格线）的定制化设置。此外，介绍了基于面向对象风格 (Object-Oriented API) 利用 `subplots` 创建多图表布局的进阶画法，为数据科学与探索性数据分析 (EDA) 提供绘图指南。
 aliases: [Matplotlib 教程, Python 绘图, 数据可视化]
 tags: [Python, 数据分析, 机器学习, 可视化, Matplotlib]
 date created: 星期二, 二月 25日 2025, 3:24:03 下午

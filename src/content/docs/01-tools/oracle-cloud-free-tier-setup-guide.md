@@ -1,7 +1,7 @@
 ---
 title: "甲骨文云白嫖指南"
 filename: oracle-cloud-free-tier-setup-guide
-summary: Oracle Cloud Infrastructure (OCI) 提供极高性价比的“始终免费”套餐。本文汇总了免费实例的申请额度（如 4 核 24G ARM 实例、200G 磁盘），并提供了详细的初始化配置步骤，包括保活脚本部署、防火墙策略开放以及一键开启 BBR 网络加速（fq+bbr）。适用于希望在云端部署长期稳定且低成本服务的开发者。
+description: Oracle Cloud Infrastructure (OCI) 提供极高性价比的“始终免费”套餐。本文汇总了免费实例的申请额度（如 4 核 24G ARM 实例、200G 磁盘），并提供了详细的初始化配置步骤，包括保活脚本部署、防火墙策略开放以及一键开启 BBR 网络加速（fq+bbr）。适用于希望在云端部署长期稳定且低成本服务的开发者。
 tags: [oracle-cloud, oci, cloud-computing, vps, networking, linux-admin]
 aliases: [甲骨文云白嫖指南, Oracle云初始化配置, OCI免费套餐]
 status: completed

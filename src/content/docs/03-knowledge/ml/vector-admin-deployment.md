@@ -1,7 +1,7 @@
 ---
 title: "VectorAdmin安装"
 filename: vector-admin-deployment
-summary: Vector Admin 是由 Mintplex Labs 开发的开源向量数据库可视化管理工具，支持 Chroma 等多种主流向量数据库。本笔记详细整理了通过 Docker Compose 部署 Vector Admin 的配置方案，包括容器网络划分、端口映射以及挂载目录设置，为快速构建向量数据库管理后台提供直接参考。
+description: Vector Admin 是由 Mintplex Labs 开发的开源向量数据库可视化管理工具，支持 Chroma 等多种主流向量数据库。本笔记详细整理了通过 Docker Compose 部署 Vector Admin 的配置方案，包括容器网络划分、端口映射以及挂载目录设置，为快速构建向量数据库管理后台提供直接参考。
 tags:
   - vector-admin
   - chroma

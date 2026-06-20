@@ -1,7 +1,7 @@
 ---
 title: "Python加密库使用指南"
 filename: python-cryptography-guide
-summary: Python 应用中基于 cryptography 库实现数据安全传输与存储的方案。内容涵盖通过 pip 安装依赖，以及使用对称加密算法 Fernet 进行开发的关键步骤，包含安全密钥生成、二进制明文加密、密文解密还原的具体 Python 代码示例。提供官方参考文档以供进阶学习。
+description: Python 应用中基于 cryptography 库实现数据安全传输与存储的方案。内容涵盖通过 pip 安装依赖，以及使用对称加密算法 Fernet 进行开发的关键步骤，包含安全密钥生成、二进制明文加密、密文解密还原的具体 Python 代码示例。提供官方参考文档以供进阶学习。
 tags:
   - python
   - cryptography

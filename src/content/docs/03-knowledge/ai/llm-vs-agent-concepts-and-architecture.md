@@ -2,7 +2,7 @@
 status: completed
 filename: llm-vs-agent-concepts-and-architecture
 title: "Agent 定义"
-summary: 本笔记厘清了大语言模型 (LLM)、LLM 应用与 LLM Agent 三者之间的本质区别。探讨了 LLM 作为“智能内核”的无状态局限，对比了简单链式调用的应用模式与具备“感知-思考-行动”循环的 Agent 架构。提出了 Agent 的核心公式：Agent = LLM + Planning + Memory + Tools，并解析了自主行动、动态规划及工具编排等智能体特征，为构建具备自我驱动能力的 AI 系统提供理论指引。
+description: 本笔记厘清了大语言模型 (LLM)、LLM 应用与 LLM Agent 三者之间的本质区别。探讨了 LLM 作为“智能内核”的无状态局限，对比了简单链式调用的应用模式与具备“感知-思考-行动”循环的 Agent 架构。提出了 Agent 的核心公式：Agent = LLM + Planning + Memory + Tools，并解析了自主行动、动态规划及工具编排等智能体特征，为构建具备自我驱动能力的 AI 系统提供理论指引。
 aliases: [Agent 定义, LLM 与 Agent 区别, 智能体架构, 自主行动循环]
 tags: [人工智能, AI Agent, LLM, 软件架构, 任务规划, 自动化, 知识管理]
 date created: 星期五, 十二月 5日 2025, 3:42:14 下午

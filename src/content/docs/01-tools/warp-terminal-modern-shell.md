@@ -1,7 +1,7 @@
 ---
 title: "Warp终端简介"
 filename: warp-terminal-modern-shell
-summary: Warp 是一款基于 Rust 开发的现代化、高性能终端工具。它引入了类似文本编辑器的输入块、AI 命令自动补全以及团队协作功能，显著提升了 CLI 环境下的生产力。本文记录了其核心定位及官方链接，是追求极速体验开发者的理想选择。
+description: Warp 是一款基于 Rust 开发的现代化、高性能终端工具。它引入了类似文本编辑器的输入块、AI 命令自动补全以及团队协作功能，显著提升了 CLI 环境下的生产力。本文记录了其核心定位及官方链接，是追求极速体验开发者的理想选择。
 tags: [terminal, rust, tool, cli]
 aliases: [Warp终端简介]
 status: completed

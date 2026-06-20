@@ -1,7 +1,7 @@
 ---
 title: "Django异步与SSE"
 filename: django-async-and-sse-practices
-summary: 介绍 Python 后端框架 Django 在异步（视图、中间件、ORM）场景下的技术方案。重点解决 PostgreSQL 数据库 intervalstyle 识别异常与连接池泄露问题，提供了异常捕获自动释放连接的数据库中间件代码。此外，针对大模型长连接响应，详细给出了“多线程队列”和“httpx-sse 异步转发”两种 SSE 流式数据传输的最佳实践。
+description: 介绍 Python 后端框架 Django 在异步（视图、中间件、ORM）场景下的技术方案。重点解决 PostgreSQL 数据库 intervalstyle 识别异常与连接池泄露问题，提供了异常捕获自动释放连接的数据库中间件代码。此外，针对大模型长连接响应，详细给出了“多线程队列”和“httpx-sse 异步转发”两种 SSE 流式数据传输的最佳实践。
 tags:
   - Django
   - 异步编程

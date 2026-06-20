@@ -1,7 +1,7 @@
 ---
 title: "qemu-guide"
 filename: qemu-virtualization-basics
-summary: 本篇笔记为空，需在后续补充 QEMU（Quick Emulator）开源模拟器与虚拟化管理工具的使用。包含底层内核虚拟机（KVM）集成、QEMU 常用命令行虚拟机启动参数、虚拟磁盘文件格式（如 qcow2、raw）的转换与挂载技术。
+description: 本篇笔记为空，需在后续补充 QEMU（Quick Emulator）开源模拟器与虚拟化管理工具的使用。包含底层内核虚拟机（KVM）集成、QEMU 常用命令行虚拟机启动参数、虚拟磁盘文件格式（如 qcow2、raw）的转换与挂载技术。
 tags:
   - qemu
   - kvm

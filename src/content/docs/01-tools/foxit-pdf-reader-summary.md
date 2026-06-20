@@ -1,7 +1,7 @@
 ---
 title: "福昕阅读器"
 filename: foxit-pdf-reader-summary
-summary: 福昕 PDF 阅读器是一款功能强大的文档处理工具，支持 PDF 查看、标注及 OCR 扫描件解析。本文简要记录了其产品定位及 OCR 核心功能。
+description: 福昕 PDF 阅读器是一款功能强大的文档处理工具，支持 PDF 查看、标注及 OCR 扫描件解析。本文简要记录了其产品定位及 OCR 核心功能。
 tags: [pdf, foxit, ocr, productivity]
 aliases: [福昕阅读器]
 status: pending

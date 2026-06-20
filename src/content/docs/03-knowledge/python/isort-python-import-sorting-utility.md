@@ -2,7 +2,7 @@
 status: completed
 filename: isort-python-import-sorting-utility
 title: "isort 格式化"
-summary: 本笔记简要介绍了旨在提升 Python 项目代码整洁度的导包格式化工具 isort。它能够自动解析当前文件头部的全部 `import` 语句，按照标准库、第三方库、本地项目包等层级进行逻辑分组，并执行强制的字母表排序。提供了基础的控制台执行命令，并指出了将其作为外部工具（External Tools）集成进入 PyCharm 以实现一键格式化的实施路线。
+description: 本笔记简要介绍了旨在提升 Python 项目代码整洁度的导包格式化工具 isort。它能够自动解析当前文件头部的全部 `import` 语句，按照标准库、第三方库、本地项目包等层级进行逻辑分组，并执行强制的字母表排序。提供了基础的控制台执行命令，并指出了将其作为外部工具（External Tools）集成进入 PyCharm 以实现一键格式化的实施路线。
 aliases: [isort 格式化, Python import 排序, 代码规范化]
 tags: [Python, 工程化, 代码规范, 格式化工具, IDE 集成, isort]
 date created: 星期二, 二月 25日 2025, 3:24:07 下午

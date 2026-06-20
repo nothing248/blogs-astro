@@ -1,7 +1,7 @@
 ---
 title: "墨刀"
 filename: modao-prototyping
-summary: 墨刀 (Modao) 是一款国产的在线原型设计与协同工具。本笔记记录了其作为原型设计工具的简介及官方访问链接。
+description: 墨刀 (Modao) 是一款国产的在线原型设计与协同工具。本笔记记录了其作为原型设计工具的简介及官方访问链接。
 tags: [Prototyping, Design, UI/UX]
 aliases: [墨刀]
 status: pending

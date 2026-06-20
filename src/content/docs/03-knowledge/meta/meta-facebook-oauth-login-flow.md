@@ -1,7 +1,7 @@
 ---
 title: "Meta OAuth 登录"
 filename: meta-facebook-oauth-login-flow
-summary: Meta (Facebook) 平台的 OAuth 2.0 登录机制与手动授权流程实用指南。详细解决在第三方应用中集成 Facebook 登录、换取与调试长短期 Access Token、以及通过 Marketing API 操作自定义受众（Custom Audiences）的流程。包含核心的 OAuth 2.0 步骤说明、安全规范与 Python SDK 调用示例。
+description: Meta (Facebook) 平台的 OAuth 2.0 登录机制与手动授权流程实用指南。详细解决在第三方应用中集成 Facebook 登录、换取与调试长短期 Access Token、以及通过 Marketing API 操作自定义受众（Custom Audiences）的流程。包含核心的 OAuth 2.0 步骤说明、安全规范与 Python SDK 调用示例。
 tags:
   - oauth2
   - facebook-login

@@ -1,7 +1,7 @@
 ---
 title: "Ollama使用教程"
 filename: ollama-deployment-guide
-summary: Ollama 是一款开源的本地大语言模型部署工具，支持在 macOS、Windows 和 Linux 上快速启动 Llama、Qwen 等模型。本笔记整理了 Ollama 的核心功能特点，补充了常用模型拉取、运行的 CLI 命令行操作及核心环境变量配置，并提供了官方模型搜索库链接，以便于开发者本地调试模型。
+description: Ollama 是一款开源的本地大语言模型部署工具，支持在 macOS、Windows 和 Linux 上快速启动 Llama、Qwen 等模型。本笔记整理了 Ollama 的核心功能特点，补充了常用模型拉取、运行的 CLI 命令行操作及核心环境变量配置，并提供了官方模型搜索库链接，以便于开发者本地调试模型。
 tags:
   - ollama
   - LLM

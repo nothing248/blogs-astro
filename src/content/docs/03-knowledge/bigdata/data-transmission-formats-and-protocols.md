@@ -1,7 +1,7 @@
 ---
 title: "常见数据传输格式与协议对比"
 filename: data-transmission-formats-and-protocols
-summary: 数据传输格式与协议的对比分析指南。涵盖文本数据格式（JSON、XML、CSV）、二进制序列化格式（Protobuf、Avro）、列式分析格式（Arrow、Parquet）以及网络通信协议（REST、gRPC、Arrow Flight）。详细梳理了零拷贝、模式演化、列式存储等关键机制，为微服务架构、高性能数据分析和数据湖构建提供选型参考。
+description: 数据传输格式与协议的对比分析指南。涵盖文本数据格式（JSON、XML、CSV）、二进制序列化格式（Protobuf、Avro）、列式分析格式（Arrow、Parquet）以及网络通信协议（REST、gRPC、Arrow Flight）。详细梳理了零拷贝、模式演化、列式存储等关键机制，为微服务架构、高性能数据分析和数据湖构建提供选型参考。
 tags:
   - data-format
   - serialization

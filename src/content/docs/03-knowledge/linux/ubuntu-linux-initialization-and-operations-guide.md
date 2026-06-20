@@ -2,7 +2,7 @@
 status: completed
 filename: ubuntu-linux-initialization-and-operations-guide
 title: "Ubuntu 初始化"
-summary: 本笔记总结了全新安装 Ubuntu Linux 服务器后的标准初始化与排障运维流程。详细提供了替换国内 APT 镜像源（以阿里云 Jammy 为例）及配置免密 Sudo 用户的脚手架命令。深入探讨了基于 Netplan 的现代网络配置，并涵盖了通过 `sshd_config` 开启 X11 转发实现 Windows/Mac 远程访问 Linux 图形化应用的方法。最后，针对服务器长期运行可能遭遇的 Systemd-journal 日志占用过多磁盘及 20 分钟自动挂起问题，给出了底层的清理与服务禁用解决方案。
+description: 本笔记总结了全新安装 Ubuntu Linux 服务器后的标准初始化与排障运维流程。详细提供了替换国内 APT 镜像源（以阿里云 Jammy 为例）及配置免密 Sudo 用户的脚手架命令。深入探讨了基于 Netplan 的现代网络配置，并涵盖了通过 `sshd_config` 开启 X11 转发实现 Windows/Mac 远程访问 Linux 图形化应用的方法。最后，针对服务器长期运行可能遭遇的 Systemd-journal 日志占用过多磁盘及 20 分钟自动挂起问题，给出了底层的清理与服务禁用解决方案。
 aliases: [Ubuntu 初始化, Linux 换源, Ubuntu 网络配置, X11 转发]
 tags: [Linux, Ubuntu, 运维部署, Netplan, APT, SSH, X11, Systemd]
 date created: 星期一, 十二月 1日 2025, 9:59:24 上午

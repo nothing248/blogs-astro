@@ -2,7 +2,7 @@
 status: completed
 filename: nuitka-python-compiler-and-code-protection
 title: "Nuitka"
-summary: 本笔记介绍了 Python 生态中极致性能与源码保护的解决方案——Nuitka。它通过将完整的 Python 项目（连同其依赖）翻译为 C 语言并编译成原生的机器码二进制文件，从而彻底抛弃了脆弱的 `.pyc` 字节码机制。笔记横向对比了 Nuitka 与 PyInstaller (纯打包器) 及 Cython (核心模块编译器) 在工作原理、最终产物形态及保护级别上的核心差异，是构建商业级闭源 Python 软件的架构选型依据。
+description: 本笔记介绍了 Python 生态中极致性能与源码保护的解决方案——Nuitka。它通过将完整的 Python 项目（连同其依赖）翻译为 C 语言并编译成原生的机器码二进制文件，从而彻底抛弃了脆弱的 `.pyc` 字节码机制。笔记横向对比了 Nuitka 与 PyInstaller (纯打包器) 及 Cython (核心模块编译器) 在工作原理、最终产物形态及保护级别上的核心差异，是构建商业级闭源 Python 软件的架构选型依据。
 aliases: [Nuitka, Python 编译, Python 代码保护, Nuitka vs PyInstaller]
 tags: [Python, 代码发布, 性能优化, 逆向工程, 编译器, 运维部署, Nuitka]
 date created: 星期一, 十二月 1日 2025, 9:59:23 上午

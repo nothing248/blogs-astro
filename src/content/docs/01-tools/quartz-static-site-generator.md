@@ -1,7 +1,7 @@
 ---
 title: "Quartz笔记发布"
 filename: quartz-static-site-generator
-summary: Quartz 是一款专为数字花园（Digital Garden）和个人知识库设计的静态网站生成器，能够无缝集成 Obsidian 笔记。它支持反向链接、交互式图谱及类似 Obsidian 的双向链接语法，是发布个人笔记到 Web 端的最佳方案之一。
+description: Quartz 是一款专为数字花园（Digital Garden）和个人知识库设计的静态网站生成器，能够无缝集成 Obsidian 笔记。它支持反向链接、交互式图谱及类似 Obsidian 的双向链接语法，是发布个人笔记到 Web 端的最佳方案之一。
 tags: [quartz, static-site-generator, obsidian, pkm, digital-garden]
 aliases: [Quartz笔记发布, 静态网站生成]
 status: pending

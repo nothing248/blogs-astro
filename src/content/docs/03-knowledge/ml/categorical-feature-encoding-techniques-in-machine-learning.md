@@ -2,7 +2,7 @@
 status: completed
 filename: categorical-feature-encoding-techniques-in-machine-learning
 title: "特征编码"
-summary: 本笔记梳理了机器学习数据预处理阶段处理离散分类变量 (Categorical Features) 的核心编码策略。详细对比了 Label Encoding（一维目标变量的序号化）、Ordinal Encoding（二维输入特征的有顺排号）以及 One-Hot Encoding（独热编码，将分类膨胀为稀疏高维矩阵，消除数值隐性大小关系）。并提供了利用 Python Scikit-learn (`sklearn.preprocessing`) 进行模型实例构建与数组转化的实战代码，为推荐系统及分类任务的特征处理提供标准指引。
+description: 本笔记梳理了机器学习数据预处理阶段处理离散分类变量 (Categorical Features) 的核心编码策略。详细对比了 Label Encoding（一维目标变量的序号化）、Ordinal Encoding（二维输入特征的有顺排号）以及 One-Hot Encoding（独热编码，将分类膨胀为稀疏高维矩阵，消除数值隐性大小关系）。并提供了利用 Python Scikit-learn (`sklearn.preprocessing`) 进行模型实例构建与数组转化的实战代码，为推荐系统及分类任务的特征处理提供标准指引。
 aliases: [特征编码, 独热编码, One-Hot Encoding, Label Encoding, 离散特征处理]
 tags: [人工智能, 机器学习, 特征工程, Scikit-learn, Python, 数据预处理]
 date created: 星期二, 二月 25日 2025, 3:24:10 下午

@@ -1,7 +1,7 @@
 ---
 title: "大数据基础组件"
 filename: bigdata-base-components
-summary: 大数据基础架构核心组件知识图谱。解决大数据平台建设中的组件选型与架构分层问题。核心技术栈包括埋点与爬虫采集，DataX、Airflow等ETL工具，批处理（Spark）、流处理（Flink）计算引擎，HBase、Hive等多种存储介质，以及湖仓一体与实时数仓的架构演进路线。
+description: 大数据基础架构核心组件知识图谱。解决大数据平台建设中的组件选型与架构分层问题。核心技术栈包括埋点与爬虫采集，DataX、Airflow等ETL工具，批处理（Spark）、流处理（Flink）计算引擎，HBase、Hive等多种存储介质，以及湖仓一体与实时数仓的架构演进路线。
 tags:
   - bigdata
   - etl

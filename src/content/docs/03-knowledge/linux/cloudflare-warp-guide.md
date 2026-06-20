@@ -1,7 +1,7 @@
 ---
 title: "warp-config"
 filename: cloudflare-warp-guide
-summary: 本文档整理了 Cloudflare Warp 虚拟专用网络（VPN）客户端的账户申请、快速脚本配置、WireGuard 配置文件路径（wgcf-account.toml/wgcf-profile.toml）以及 systemd 服务的重启管理命令。提供 OpenAI 服务接入的 CDN 节点检测方法，旨在解决外网访问及网络代理的快速部署问题。
+description: 本文档整理了 Cloudflare Warp 虚拟专用网络（VPN）客户端的账户申请、快速脚本配置、WireGuard 配置文件路径（wgcf-account.toml/wgcf-profile.toml）以及 systemd 服务的重启管理命令。提供 OpenAI 服务接入的 CDN 节点检测方法，旨在解决外网访问及网络代理的快速部署问题。
 tags:
   - cloudflare
   - warp

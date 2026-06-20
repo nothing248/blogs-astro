@@ -1,7 +1,7 @@
 ---
 title: "Selectr下拉选择组件"
 filename: web-selectr-dropdown
-summary: 开源 JavaScript 下拉选择 UI 组件 Selectr 的技术概述。该组件基于原生 HTML select 标签构建，支持单选、多选、搜索过滤等交互功能。需要特别注意的是，该项目目前已处于停更维护状态，在前端技术选型时建议谨慎使用或转向更为活跃的替代品。
+description: 开源 JavaScript 下拉选择 UI 组件 Selectr 的技术概述。该组件基于原生 HTML select 标签构建，支持单选、多选、搜索过滤等交互功能。需要特别注意的是，该项目目前已处于停更维护状态，在前端技术选型时建议谨慎使用或转向更为活跃的替代品。
 tags:
   - web
   - selectr

@@ -2,7 +2,7 @@
 status: completed
 filename: assistant-api-design-pattern
 title: "Assistant API 风格"
-summary: 本笔记深入探讨了以 OpenAI Assistants API 为代表的 Agent 开发范式，其核心是将复杂的智能体运行逻辑抽象为一套以资源（Resources）为中心、面向有状态会话（Stateful）的接口。通过解析 Assistant（配置蓝图）、Thread（持久化会话）、Message（状态存储）与 Run（异步执行流程）四大核心对象，阐述了其在上下文自动化管理、长流程异步控制及统一工具调用接口方面的技术优势。该风格与 LangGraph 等现代 Agent 框架高度适配，是构建复杂、具备记忆能力 AI 应用的关键模式。
+description: 本笔记深入探讨了以 OpenAI Assistants API 为代表的 Agent 开发范式，其核心是将复杂的智能体运行逻辑抽象为一套以资源（Resources）为中心、面向有状态会话（Stateful）的接口。通过解析 Assistant（配置蓝图）、Thread（持久化会话）、Message（状态存储）与 Run（异步执行流程）四大核心对象，阐述了其在上下文自动化管理、长流程异步控制及统一工具调用接口方面的技术优势。该风格与 LangGraph 等现代 Agent 框架高度适配，是构建复杂、具备记忆能力 AI 应用的关键模式。
 aliases: [Assistant API 风格, 资源中心设计, 有状态 API, Agent 开发模式, LangGraph Server]
 tags: [人工智能, AI Agent, API 设计, OpenAI, LangGraph, 软件架构, 状态管理, 异步编程]
 date created: 星期五, 十二月 5日 2025, 3:42:13 下午

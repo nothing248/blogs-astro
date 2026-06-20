@@ -2,7 +2,7 @@
 status: completed
 filename: printer-task-stuck-fix
 title: "打印机卡死"
-summary: 本笔记提供了Windows系统下打印机任务卡死或一直处于“正在删除”状态的有效解决方案。核心行动项包括：首先停止 Print Spooler 系统服务，随后进入系统级 spool/PRINTERS 目录强制清理所有打印缓存文件，最后重启服务与打印机硬件。该方法能够彻底清除僵死的打印队列，恢复设备的正常打印功能。
+description: 本笔记提供了Windows系统下打印机任务卡死或一直处于“正在删除”状态的有效解决方案。核心行动项包括：首先停止 Print Spooler 系统服务，随后进入系统级 spool/PRINTERS 目录强制清理所有打印缓存文件，最后重启服务与打印机硬件。该方法能够彻底清除僵死的打印队列，恢复设备的正常打印功能。
 aliases: [打印机卡死, 打印队列清理, Print Spooler 重启, 打印任务无法取消]
 tags: [Windows, 硬件排障, 打印机, Print Spooler, 系统服务, 故障排除]
 date created: 星期四, 六月 18日 2026, 10:10:15 晚上

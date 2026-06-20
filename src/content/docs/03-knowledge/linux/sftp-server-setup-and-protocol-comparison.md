@@ -1,7 +1,7 @@
 ---
 title: "sftp-setup"
 filename: sftp-server-setup-and-protocol-comparison
-summary: 本文对比了 FTP、SFTP、FTPS、SCP、SMB 和 WebDAV 等文件传输协议，并以 CentOS 系统为例，详述了如何通过配置 OpenSSH 搭建高安全性的 SFTP 隔离服务。包含受限权限用户创建、根目录 Chroot 严苛所有权与权限控制、sshd_config 规则配置、SFTP 客户端使用及因目录权限过大导致的免密失效（secure 日志）排查方法。
+description: 本文对比了 FTP、SFTP、FTPS、SCP、SMB 和 WebDAV 等文件传输协议，并以 CentOS 系统为例，详述了如何通过配置 OpenSSH 搭建高安全性的 SFTP 隔离服务。包含受限权限用户创建、根目录 Chroot 严苛所有权与权限控制、sshd_config 规则配置、SFTP 客户端使用及因目录权限过大导致的免密失效（secure 日志）排查方法。
 tags:
   - sftp
   - openssh

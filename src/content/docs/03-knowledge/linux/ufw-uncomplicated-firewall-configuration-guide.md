@@ -2,7 +2,7 @@
 status: completed
 filename: ufw-uncomplicated-firewall-configuration-guide
 title: "UFW 命令"
-summary: 本笔记记录了 Ubuntu/Debian 系统下极简防火墙工具 UFW (Uncomplicated Firewall) 的核心操作指南。UFW 作为底层 iptables 的高级前端封装，大幅降低了配置网络访问规则的心智负担。笔记列出了安装指令及最常用的规则配置实战，包括基于端口/协议（TCP/UDP）的开放与拦截，以及基于特定 IP 来源的白名单管控，为服务器网络安全加固提供速查参考。
+description: 本笔记记录了 Ubuntu/Debian 系统下极简防火墙工具 UFW (Uncomplicated Firewall) 的核心操作指南。UFW 作为底层 iptables 的高级前端封装，大幅降低了配置网络访问规则的心智负担。笔记列出了安装指令及最常用的规则配置实战，包括基于端口/协议（TCP/UDP）的开放与拦截，以及基于特定 IP 来源的白名单管控，为服务器网络安全加固提供速查参考。
 aliases: [UFW 命令, Ubuntu 防火墙, iptables 前端]
 tags: [Linux, 网络安全, 防火墙, UFW, Ubuntu, 运维配置]
 date created: 星期二, 二月 25日 2025, 3:24:16 下午

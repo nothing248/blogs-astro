@@ -2,7 +2,7 @@
 status: completed
 filename: pandas-data-analysis-library-quick-reference
 title: "Pandas 教程"
-summary: 本笔记是基于 Python 强大的数据分析库 Pandas 的高频实战指令速查字典。涵盖了 Series 和 DataFrame 两种核心数据结构的创建方式。系统整理了按行列分片的数据提取、缺失值清洗（dropna/fillna）、`apply` 广播计算，以及基于 `concat` 和 `merge` 的纵横向拼接表操作。最后，特别标注了利用 `to_csv` 与 `to_parquet` 落盘输出大数据集时的内存管理优势，是数据科学与清洗流必备参考。
+description: 本笔记是基于 Python 强大的数据分析库 Pandas 的高频实战指令速查字典。涵盖了 Series 和 DataFrame 两种核心数据结构的创建方式。系统整理了按行列分片的数据提取、缺失值清洗（dropna/fillna）、`apply` 广播计算，以及基于 `concat` 和 `merge` 的纵横向拼接表操作。最后，特别标注了利用 `to_csv` 与 `to_parquet` 落盘输出大数据集时的内存管理优势，是数据科学与清洗流必备参考。
 aliases: [Pandas 教程, DataFrame 操作, Python 数据分析, Pandas 速查]
 tags: [Python, 数据分析, Pandas, 机器学习, 数据清洗, DataFrame, ETL]
 date created: 星期一, 十二月 1日 2025, 9:59:22 上午

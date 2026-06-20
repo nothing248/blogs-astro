@@ -2,7 +2,7 @@
 status: completed
 filename: linux-bash-shell-execution-and-environment-variables
 title: "Bash 执行方式"
-summary: 本笔记深入剖析了 Linux 环境下 Bash Shell 脚本的执行逻辑与环境初始化机制。对比了使用相对/绝对路径执行与使用 `source`/`.` 调用的本质区别（子 Shell 派生与当前 Shell 执行）。重点阐明了登录 Shell（Login Shell）与非登录 Shell（Non-login Shell）的概念差异，以及它们加载环境变量配置文件（如 `/etc/profile`, `~/.bashrc`）的严格先后顺序，为排查运维脚本“环境变量找不到”的经典问题提供理论依据。
+description: 本笔记深入剖析了 Linux 环境下 Bash Shell 脚本的执行逻辑与环境初始化机制。对比了使用相对/绝对路径执行与使用 `source`/`.` 调用的本质区别（子 Shell 派生与当前 Shell 执行）。重点阐明了登录 Shell（Login Shell）与非登录 Shell（Non-login Shell）的概念差异，以及它们加载环境变量配置文件（如 `/etc/profile`, `~/.bashrc`）的严格先后顺序，为排查运维脚本“环境变量找不到”的经典问题提供理论依据。
 aliases: [Bash 执行方式, Shell 环境变量, 登录 Shell, 非交互 Shell]
 tags: [Linux, Shell, Bash, 运维, 环境变量, 脚本开发]
 date created: 星期二, 二月 25日 2025, 3:24:09 下午

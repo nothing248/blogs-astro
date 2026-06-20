@@ -2,7 +2,7 @@
 status: completed
 filename: common-security-scenarios
 title: "网络安全场景"
-summary: 本笔记概述了常见的网络安全防护场景，旨在为PKM和RAG专家提供一份结构化、高信息密度的技术参考。内容涵盖Web应用防火墙（WAF）对OWASP Top 10威胁的防御，API安全防护（包含OAuth2/JWT认证、RefreshToken轮转机制，以及RBAC/ABAC功能与数据授权模型），以及防刷与反机器人策略（如速率限制、人机识别、限流熔断）。最后，强调了机密信息（如密钥、API凭证）在后端/边缘转发中的安全传输与授权管理。核心目标是构建全面、弹性的安全防御体系。
+description: 本笔记概述了常见的网络安全防护场景，旨在为PKM和RAG专家提供一份结构化、高信息密度的技术参考。内容涵盖Web应用防火墙（WAF）对OWASP Top 10威胁的防御，API安全防护（包含OAuth2/JWT认证、RefreshToken轮转机制，以及RBAC/ABAC功能与数据授权模型），以及防刷与反机器人策略（如速率限制、人机识别、限流熔断）。最后，强调了机密信息（如密钥、API凭证）在后端/边缘转发中的安全传输与授权管理。核心目标是构建全面、弹性的安全防御体系。
 aliases: [网络安全场景, API安全策略, Web应用防护, 反机器人防御, 数据安全, 应用安全]
 tags: [网络安全, API安全, WAF, 认证, 授权, 防刷, 信息安全, 安全架构, OWASP, RBAC, ABAC, JWT]
 date created: 星期五, 六月 12日 2026, 10:17:53 上午

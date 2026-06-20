@@ -1,7 +1,7 @@
 ---
 title: "BigQuery半结构化数据存储对比"
 filename: bq-semi-structured-storage-comparison
-summary: BigQuery 存储半结构化与多变数据（STRING、RECORD/STRUCT、JSON类型）的对比分析指南。从查询效率、存储成本、计算费用及灵活性四个维度评估各方案。提出了核心字段用 RECORD、多变字段用 JSON 的混合模式选型建议，并列举了 JSON 列的嵌套上限与分区限制，以及 BigQuery 对日期和时间戳格式自动推断的规范。
+description: BigQuery 存储半结构化与多变数据（STRING、RECORD/STRUCT、JSON类型）的对比分析指南。从查询效率、存储成本、计算费用及灵活性四个维度评估各方案。提出了核心字段用 RECORD、多变字段用 JSON 的混合模式选型建议，并列举了 JSON 列的嵌套上限与分区限制，以及 BigQuery 对日期和时间戳格式自动推断的规范。
 tags:
   - bigquery
   - semi-structured-data

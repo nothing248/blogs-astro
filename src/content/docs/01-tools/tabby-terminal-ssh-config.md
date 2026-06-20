@@ -1,7 +1,7 @@
 ---
 title: "Tabby终端配置"
 filename: tabby-terminal-ssh-config
-summary: Tabby 是一款现代化、可高度定制的开源终端模拟器，支持 SSH、Telnet 和串行连接。本文详细介绍了如何利用 Tabby 的 SSH RemoteForward 功能进行端口转化，使远程服务器能够通过本地代理访问受限资源。这是一套提升远程开发和运维灵活性的实用技巧。
+description: Tabby 是一款现代化、可高度定制的开源终端模拟器，支持 SSH、Telnet 和串行连接。本文详细介绍了如何利用 Tabby 的 SSH RemoteForward 功能进行端口转化，使远程服务器能够通过本地代理访问受限资源。这是一套提升远程开发和运维灵活性的实用技巧。
 tags: [terminal, ssh, proxy, tabby]
 aliases: [Tabby终端配置]
 status: completed

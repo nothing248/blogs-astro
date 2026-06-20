@@ -1,7 +1,7 @@
 ---
 title: "SwitchHosts简介"
 filename: switchhosts-hosts-management
-summary: SwitchHosts 是一款开源的本地 hosts 文件快捷切换工具。它支持多方案并行管理、远程订阅 hosts 以及一键开关。本文记录了其下载路径，是开发人员在开发、测试及生产环境间灵活切换域名的理想选择。
+description: SwitchHosts 是一款开源的本地 hosts 文件快捷切换工具。它支持多方案并行管理、远程订阅 hosts 以及一键开关。本文记录了其下载路径，是开发人员在开发、测试及生产环境间灵活切换域名的理想选择。
 tags: [tool, hosts, open-source, development]
 aliases: [SwitchHosts简介]
 status: completed

@@ -2,7 +2,7 @@
 status: completed
 filename: backend-infrastructure-and-communications-overview
 title: "后端基础知识"
-summary: 本笔记系统回顾了后端开发的核心通信机制与安全架构。涵盖了实时消息通知的四种模式（轮询、长轮询、WebSocket、SSE）及其优劣对比，详述了基于 JWT 与 API 验签的接口安全设计。重点探讨了经典的 C10K 高并发瓶颈问题，并梳理了从容器化编排 (K8s)、分布式追踪到身份管理 (IAM) 的完整后端技术栈全景图。
+description: 本笔记系统回顾了后端开发的核心通信机制与安全架构。涵盖了实时消息通知的四种模式（轮询、长轮询、WebSocket、SSE）及其优劣对比，详述了基于 JWT 与 API 验签的接口安全设计。重点探讨了经典的 C10K 高并发瓶颈问题，并梳理了从容器化编排 (K8s)、分布式追踪到身份管理 (IAM) 的完整后端技术栈全景图。
 aliases: [后端基础知识, 通信协议对比, 接口安全规范, C10K 问题]
 tags: [后端开发, 高并发, C10K, WebSocket, SSE, 接口安全, 分布式系统, 技术栈, 软件架构]
 date created: 星期一, 十二月 1日 2025, 9:59:23 上午

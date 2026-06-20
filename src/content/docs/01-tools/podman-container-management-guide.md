@@ -1,7 +1,7 @@
 ---
 title: "Podman安装"
 filename: podman-container-management-guide
-summary: Podman是免守护进程且支持无根模式的容器管理工具。作为Docker的安全替代方案，它使用相同命令行参数，支持podman-compose管理多容器。本文涵盖Podman在Ubuntu上的安装、镜像源配置、安全存储参数调节及权限映射的最佳实践。
+description: Podman是免守护进程且支持无根模式的容器管理工具。作为Docker的安全替代方案，它使用相同命令行参数，支持podman-compose管理多容器。本文涵盖Podman在Ubuntu上的安装、镜像源配置、安全存储参数调节及权限映射的最佳实践。
 tags: [podman, containerization, rootless-containers]
 aliases: [Podman安装, 容器管理, Docker替代方案]
 status: completed

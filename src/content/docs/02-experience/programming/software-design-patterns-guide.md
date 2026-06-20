@@ -1,7 +1,7 @@
 ---
 title: "设计模式"
 filename: software-design-patterns-guide
-summary: 本指南系统汇总经典 GoF（四人帮）23 种软件设计模式的分类与应用。涵盖创建型（单例、工厂、建造者）、结构型（适配器、装饰器、代理、桥接）及行为型（观察者、策略、职责链）模式的核心定义与典型工程实例。深入对比了简单工厂与抽象工厂、策略与桥接模式的异同，并为系统重构提供了面向对象的设计方法。
+description: 本指南系统汇总经典 GoF（四人帮）23 种软件设计模式的分类与应用。涵盖创建型（单例、工厂、建造者）、结构型（适配器、装饰器、代理、桥接）及行为型（观察者、策略、职责链）模式的核心定义与典型工程实例。深入对比了简单工厂与抽象工厂、策略与桥接模式的异同，并为系统重构提供了面向对象的设计方法。
 tags: [design-patterns, best-practices, solid, refactoring, software-architecture]
 aliases: [设计模式, 创建型模式, 结构型模式, 行为型模式, GoF 23 种设计模式]
 status: completed

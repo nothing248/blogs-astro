@@ -2,7 +2,7 @@
 status: completed
 filename: python-sentiment-analysis-and-emotion-prediction-tools
 title: "情感分析"
-summary: 本笔记汇总了 Python 生态中常用于文本情感预测与语义倾向分析的开源工具库。涵盖了集爬虫与自然语言处理于一体的综合框架 Pattern，专为社交媒体（如 Twitter 短文本、表情符号）优化并给出极性得分的规则引擎 VADER，以及提供极其简洁 API（可一键获取 polarity 极性和 subjectivity 主观性）的经典 NLP 封装库 TextBlob。为构建社交舆情监控及商品评论倾向性分析提供快速落地组件。
+description: 本笔记汇总了 Python 生态中常用于文本情感预测与语义倾向分析的开源工具库。涵盖了集爬虫与自然语言处理于一体的综合框架 Pattern，专为社交媒体（如 Twitter 短文本、表情符号）优化并给出极性得分的规则引擎 VADER，以及提供极其简洁 API（可一键获取 polarity 极性和 subjectivity 主观性）的经典 NLP 封装库 TextBlob。为构建社交舆情监控及商品评论倾向性分析提供快速落地组件。
 aliases: [情感分析, 情绪预测, Python 情感分析库, VADER, TextBlob]
 tags: [人工智能, NLP, 情感分析, 文本挖掘, Python, 机器学习]
 date created: 星期二, 二月 25日 2025, 3:22:54 下午

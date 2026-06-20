@@ -2,7 +2,7 @@
 status: completed
 filename: linux-sed-stream-editor-quick-reference
 title: "Sed 命令"
-summary: 本笔记总结了 Linux 下强大而轻量的流编辑器 (Stream Editor) sed 的核心语法。详细记录了其“按行读取->缓存区处理->输出”的执行模型。系统整理了按行号或正则筛选的寻址规则，以及实现行追加 (a)、插入 (i)、整体替换 (c)、删除 (d) 和字符级替换 (s) 的核心单字母子命令。搭配实际 Shell 操作案例（配合 nl 增加行号查看），是快速进行文本清洗与自动化配置文件修改的必备字典。
+description: 本笔记总结了 Linux 下强大而轻量的流编辑器 (Stream Editor) sed 的核心语法。详细记录了其“按行读取->缓存区处理->输出”的执行模型。系统整理了按行号或正则筛选的寻址规则，以及实现行追加 (a)、插入 (i)、整体替换 (c)、删除 (d) 和字符级替换 (s) 的核心单字母子命令。搭配实际 Shell 操作案例（配合 nl 增加行号查看），是快速进行文本清洗与自动化配置文件修改的必备字典。
 aliases: [Sed 命令, Linux 流编辑器, 文本清洗, 正则替换]
 tags: [Linux, 命令行, 运维, Sed, 文本处理, Shell]
 date created: 星期二, 二月 25日 2025, 3:24:16 下午

@@ -1,7 +1,7 @@
 ---
 title: "HBase安装教程"
 filename: apache-hbase-guide
-summary: 详解分布式列式数据库 Apache HBase 2.6.0 的单机、伪分布式、分布式集群及客户端的部署步骤。提供核心配置文件（hbase-env.sh、hbase-site.xml、regionservers、backup-masters）的参数设置。同时，展示了使用 hbase shell 进行表创建（create）、插入（put）和获取（get）等数据交互命令，并附带了 systemd 服务配置文件。
+description: 详解分布式列式数据库 Apache HBase 2.6.0 的单机、伪分布式、分布式集群及客户端的部署步骤。提供核心配置文件（hbase-env.sh、hbase-site.xml、regionservers、backup-masters）的参数设置。同时，展示了使用 hbase shell 进行表创建（create）、插入（put）和获取（get）等数据交互命令，并附带了 systemd 服务配置文件。
 tags:
   - HBase
   - NoSQL

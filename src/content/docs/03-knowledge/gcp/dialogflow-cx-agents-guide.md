@@ -1,7 +1,7 @@
 ---
 title: "DialogflowCX使用手册"
 filename: dialogflow-cx-agents-guide
-summary: Google Dialogflow CX 智能对话代理（AI Agent）平台使用指南。解析了完全生成、确定性与部分生成三种模式，对比了 Playbook 与 Flows 的流程编排。详述了 DataStore 知识库的数据源导入格式、文档分块机制及地理区域限制，分析了外部系统集成和多语言环境调试方法，并给出了产品在文档一致性、索引延迟等方面的实测结论。
+description: Google Dialogflow CX 智能对话代理（AI Agent）平台使用指南。解析了完全生成、确定性与部分生成三种模式，对比了 Playbook 与 Flows 的流程编排。详述了 DataStore 知识库的数据源导入格式、文档分块机制及地理区域限制，分析了外部系统集成和多语言环境调试方法，并给出了产品在文档一致性、索引延迟等方面的实测结论。
 tags:
   - dialogflow-cx
   - ai-agent

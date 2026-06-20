@@ -2,7 +2,7 @@
 status: completed
 filename: vue-cli-environment-variables-and-modes
 title: "Vue CLI"
-summary: 本笔记记录了基于 Webpack 的经典前端脚手架 Vue CLI 中关于多环境变量（Environment Variables）与模式（Modes）隔离的核心配置策略。详细对比了四种 `.env` 配置文件的加载优先级与 Git 忽略原则（如 `.env.local` 不入库）。并明确了在项目中如何通过全局注入的对象 `process.env.VUE_APP_XXX` 安全提取这些配置，为构建前端应用的开发、测试及生产隔离环境提供基准参考。
+description: 本笔记记录了基于 Webpack 的经典前端脚手架 Vue CLI 中关于多环境变量（Environment Variables）与模式（Modes）隔离的核心配置策略。详细对比了四种 `.env` 配置文件的加载优先级与 Git 忽略原则（如 `.env.local` 不入库）。并明确了在项目中如何通过全局注入的对象 `process.env.VUE_APP_XXX` 安全提取这些配置，为构建前端应用的开发、测试及生产隔离环境提供基准参考。
 aliases: [Vue CLI, Vue 环境变量, .env 配置]
 tags: [前端开发, Vue.js, Vue CLI, 环境变量, 前端工程化, 部署配置]
 date created: 星期一, 五月 19日 2025, 2:05:20 下午

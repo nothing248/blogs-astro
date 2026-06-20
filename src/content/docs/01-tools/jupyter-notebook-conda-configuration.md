@@ -1,7 +1,7 @@
 ---
 title: "Jupyter安装"
 filename: jupyter-notebook-conda-configuration
-summary: Jupyter Notebook是广泛用于数据分析和算法测试的交互式计算环境。本文介绍在Anaconda环境中通过conda安装Jupyter的步骤，罗列了通过命令行参数临时设置工作目录的命令，并提供生成全局配置文件修改notebook_dir的永久路径配置，以实现启动路径固定。
+description: Jupyter Notebook是广泛用于数据分析和算法测试的交互式计算环境。本文介绍在Anaconda环境中通过conda安装Jupyter的步骤，罗列了通过命令行参数临时设置工作目录的命令，并提供生成全局配置文件修改notebook_dir的永久路径配置，以实现启动路径固定。
 tags: [jupyter-notebook, conda, data-science, configuration]
 aliases: [Jupyter安装, Conda配置, 工作目录设置]
 status: completed

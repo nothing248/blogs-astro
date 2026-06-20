@@ -1,7 +1,7 @@
 ---
 title: "S3挂载本地"
 filename: s3drive-mounting-tool-guide
-summary: S3Drive 是一款旨在将 S3 兼容的对象存储（如 AWS S3, Cloudflare R2, MinIO 等）挂载为本地磁盘驱动器的工具。本文简要介绍了其跨平台支持特性，并针对 macOS 环境下常见的“Device Not Configured”挂载错误提供了强制卸载重置的实战方案。同时指出了免费版与收费版在开机自动挂载功能上的差异。
+description: S3Drive 是一款旨在将 S3 兼容的对象存储（如 AWS S3, Cloudflare R2, MinIO 等）挂载为本地磁盘驱动器的工具。本文简要介绍了其跨平台支持特性，并针对 macOS 环境下常见的“Device Not Configured”挂载错误提供了强制卸载重置的实战方案。同时指出了免费版与收费版在开机自动挂载功能上的差异。
 tags: [s3drive, cloud-storage, s3-protocol, file-system, macos, windows]
 aliases: [S3挂载本地, 对象存储驱动]
 status: completed

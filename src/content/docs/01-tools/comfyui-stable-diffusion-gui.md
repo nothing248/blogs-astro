@@ -1,7 +1,7 @@
 ---
 title: "ComfyUI入门"
 filename: comfyui-stable-diffusion-gui
-summary: ComfyUI 是一款基于节点流的 Stable Diffusion 界面工具，提供了极高的自定义性。本笔记目前处于初始占位阶段，相关安装与使用指南尚待补充。
+description: ComfyUI 是一款基于节点流的 Stable Diffusion 界面工具，提供了极高的自定义性。本笔记目前处于初始占位阶段，相关安装与使用指南尚待补充。
 tags: ["ComfyUI", "Stable-Diffusion", "AI-Art", "Generative-AI"]
 aliases: ["ComfyUI入门", "SD节点界面"]
 status: pending

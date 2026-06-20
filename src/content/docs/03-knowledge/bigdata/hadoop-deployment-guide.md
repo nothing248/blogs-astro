@@ -1,7 +1,7 @@
 ---
 title: "Hadoop伪分布式配置"
 filename: hadoop-deployment-guide
-summary: 详解分布式大数据存储平台 Hadoop 3.3.6 在单机、伪分布式、分布式集群及客户端模式下的安装、配置与测试流程。提供核心配置文件（core-site.xml、hdfs-site.xml、mapred-site.xml、yarn-site.xml）及 workers 的参数定义，给出使用 HDFS dfs 客户端与 MapReduce WordCount 运行测试的步骤，并附带了 systemd 服务单元配置文件。
+description: 详解分布式大数据存储平台 Hadoop 3.3.6 在单机、伪分布式、分布式集群及客户端模式下的安装、配置与测试流程。提供核心配置文件（core-site.xml、hdfs-site.xml、mapred-site.xml、yarn-site.xml）及 workers 的参数定义，给出使用 HDFS dfs 客户端与 MapReduce WordCount 运行测试的步骤，并附带了 systemd 服务单元配置文件。
 tags:
   - Hadoop
   - HDFS

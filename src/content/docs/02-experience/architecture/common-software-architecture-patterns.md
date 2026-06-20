@@ -1,7 +1,7 @@
 ---
 title: "系统架构"
 filename: common-software-architecture-patterns
-summary: 介绍软件开发中五种常见的系统架构模式：单体架构、微服务架构、分布式架构、事件驱动架构与分层架构。详细对比各架构的核心概念、优劣势及适用场景，涵盖从单体快速验证（MVP）到微服务及分布式高并发处理、事件驱动异步解耦，以及经典分层设计的实践路径，为系统设计与技术选型提供指导。
+description: 介绍软件开发中五种常见的系统架构模式：单体架构、微服务架构、分布式架构、事件驱动架构与分层架构。详细对比各架构的核心概念、优劣势及适用场景，涵盖从单体快速验证（MVP）到微服务及分布式高并发处理、事件驱动异步解耦，以及经典分层设计的实践路径，为系统设计与技术选型提供指导。
 tags: [software-architecture, system-design, microservices, monolithic, event-driven]
 aliases: [系统架构, IT常见架构, 单体架构, 微服务架构, 事件驱动架构]
 status: completed

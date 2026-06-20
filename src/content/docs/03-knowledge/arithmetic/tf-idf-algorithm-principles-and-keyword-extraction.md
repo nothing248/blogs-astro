@@ -2,7 +2,7 @@
 status: completed
 filename: tf-idf-algorithm-principles-and-keyword-extraction
 title: "词频-逆文档频率"
-summary: 本笔记详细阐述了 TF-IDF (Term Frequency-Inverse Document Frequency) 的核心原理，其本质是通过词频与逆文档频率的乘积来评估词汇在文档中的信息量。探讨了如何利用 TF 过滤停用词，并利用 IDF 抑制普适性词汇的权重，从而精准识别具备差异化特征的关键词。同时，分析了该算法在快速检索场景下的优势，以及无法体现上下文语义位置的天然局限。
+description: 本笔记详细阐述了 TF-IDF (Term Frequency-Inverse Document Frequency) 的核心原理，其本质是通过词频与逆文档频率的乘积来评估词汇在文档中的信息量。探讨了如何利用 TF 过滤停用词，并利用 IDF 抑制普适性词汇的权重，从而精准识别具备差异化特征的关键词。同时，分析了该算法在快速检索场景下的优势，以及无法体现上下文语义位置的天然局限。
 aliases: [词频-逆文档频率, 文本加权算法, TF-IDF 原理]
 tags: [人工智能, NLP, 信息检索, 文本挖掘, 关键词提取, 算法原理, 机器学习]
 date created: 星期六, 十月 18日 2025, 10:30:08 上午

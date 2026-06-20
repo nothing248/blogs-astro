@@ -1,7 +1,7 @@
 ---
 title: "LLM架构流派"
 filename: large-language-model-architectures
-summary: 解析大语言模型（LLM）主流架构流派及当前演进版图。详解 Decoder-only Transformer 稠密模型、Sparse MoE 稀疏专家模型（以细粒度 MoE 为代表）、Mamba/RWKV 等线性注意力状态空间模型（SSM）及 Mamba 与 Transformer 结合的 Jamba 混合架构。同时介绍 DiT 视觉生成标准以及 o1 隐式思维链 System 2 推理新范式。
+description: 解析大语言模型（LLM）主流架构流派及当前演进版图。详解 Decoder-only Transformer 稠密模型、Sparse MoE 稀疏专家模型（以细粒度 MoE 为代表）、Mamba/RWKV 等线性注意力状态空间模型（SSM）及 Mamba 与 Transformer 结合的 Jamba 混合架构。同时介绍 DiT 视觉生成标准以及 o1 隐式思维链 System 2 推理新范式。
 tags: [大模型架构, 混合专家模型, 线性注意力, Mamba, 隐式思维链]
 aliases: [LLM架构流派, Mamba与Transformer, 细粒度MoE, DiT架构]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "Appium简介"
 filename: appium-mobile-automation
-summary: Appium 是一款开源的移动端自动化测试工具，支持 iOS、Android 及 Windows 桌面应用的自动化。本笔记目前仅包含其基本简介及官方快速入门文档链接，内容尚待完善。
+description: Appium 是一款开源的移动端自动化测试工具，支持 iOS、Android 及 Windows 桌面应用的自动化。本笔记目前仅包含其基本简介及官方快速入门文档链接，内容尚待完善。
 tags: ["Appium", "自动化测试", "移动端开发", "测试工具"]
 aliases: ["Appium简介", "移动自动化测试"]
 status: pending

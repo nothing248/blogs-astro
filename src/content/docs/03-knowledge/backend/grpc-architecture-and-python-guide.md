@@ -1,7 +1,7 @@
 ---
 title: "gRPC工作原理"
 filename: grpc-architecture-and-python-guide
-summary: 介绍高性能远程过程调用框架 gRPC 的核心概念，包括基于 HTTP/2 的底层传输优势和作为 IDL 的 Protocol Buffers (Protobuf) 序列化机制。详细解析了一元、服务器流、客户端流及双向流四种服务调用类型。同时提供了 Python 语言下使用 protoc 生成 Stub、编写服务端与客户端以及实现优雅错误处理的完整实战指南。
+description: 介绍高性能远程过程调用框架 gRPC 的核心概念，包括基于 HTTP/2 的底层传输优势和作为 IDL 的 Protocol Buffers (Protobuf) 序列化机制。详细解析了一元、服务器流、客户端流及双向流四种服务调用类型。同时提供了 Python 语言下使用 protoc 生成 Stub、编写服务端与客户端以及实现优雅错误处理的完整实战指南。
 tags:
   - gRPC
   - HTTP2

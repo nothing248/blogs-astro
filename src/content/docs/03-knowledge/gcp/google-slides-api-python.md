@@ -1,7 +1,7 @@
 ---
 title: "GoogleSlidesAPI开发"
 filename: google-slides-api-python
-summary: Google Slides API 的 Python 开发与集成指南。详述了幻灯片的核心概念与原生 API，重点给用了批量交互的封装代码，涵盖元素复制/删除、占位符替换（解决 OSS 下载模式导致的 404 错误）、添加超链接以及修改文字颜色、边框和背景的实现。最后指出了导出为 PPTX 时图表保留的局限性与规避策略。
+description: Google Slides API 的 Python 开发与集成指南。详述了幻灯片的核心概念与原生 API，重点给用了批量交互的封装代码，涵盖元素复制/删除、占位符替换（解决 OSS 下载模式导致的 404 错误）、添加超链接以及修改文字颜色、边框和背景的实现。最后指出了导出为 PPTX 时图表保留的局限性与规避策略。
 tags:
   - google-slides-api
   - python-sdk

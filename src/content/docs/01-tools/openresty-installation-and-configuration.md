@@ -1,7 +1,7 @@
 ---
 title: "OpenResty安装"
 filename: openresty-installation-and-configuration
-summary: OpenResty 是一款基于 Nginx 与 Lua 的高性能 Web 平台。本文介绍了在 Ubuntu 环境下的标准安装流程及服务管理方法。重点探讨了 Nginx 配置文件中的复杂正则表达式应用（如环视断言），并详细解析了 Location 匹配优先级。同时通过实战示例展示了如何实现“拦截非指定后缀文件访问”的安全策略，适用于构建高性能、可编程的网关服务。
+description: OpenResty 是一款基于 Nginx 与 Lua 的高性能 Web 平台。本文介绍了在 Ubuntu 环境下的标准安装流程及服务管理方法。重点探讨了 Nginx 配置文件中的复杂正则表达式应用（如环视断言），并详细解析了 Location 匹配优先级。同时通过实战示例展示了如何实现“拦截非指定后缀文件访问”的安全策略，适用于构建高性能、可编程的网关服务。
 tags: [openresty, nginx, lua, api-gateway, web-server, regex]
 aliases: [OpenResty安装, Nginx正则配置, 高性能网关]
 status: completed

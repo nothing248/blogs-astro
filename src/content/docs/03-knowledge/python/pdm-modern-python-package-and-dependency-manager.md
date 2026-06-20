@@ -2,7 +2,7 @@
 status: completed
 filename: pdm-modern-python-package-and-dependency-manager
 title: "PDM"
-summary: 本笔记记录了新一代 Python 包和依赖管理器 PDM (Python Development Master) 的核心实操指南。介绍了其基于 PEP 582 提案无需创建虚拟环境 (Virtualenv) 的本地包加载理念。详细列出了从 Python 解释器管理 (`pdm python`)、项目初始化 (`pdm init`) 到依赖增删改 (`pdm add/remove`) 的常用指令。同时，演示了如何在 `pyproject.toml` 中配置自定义脚本映射及设置国内镜像源的方法。
+description: 本笔记记录了新一代 Python 包和依赖管理器 PDM (Python Development Master) 的核心实操指南。介绍了其基于 PEP 582 提案无需创建虚拟环境 (Virtualenv) 的本地包加载理念。详细列出了从 Python 解释器管理 (`pdm python`)、项目初始化 (`pdm init`) 到依赖增删改 (`pdm add/remove`) 的常用指令。同时，演示了如何在 `pyproject.toml` 中配置自定义脚本映射及设置国内镜像源的方法。
 aliases: [PDM, Python 包管理, pyproject.toml 依赖]
 tags: [Python, 工程化, PDM, 依赖管理, 虚拟环境, 包管理器]
 date created: 星期二, 二月 25日 2025, 3:24:14 下午

@@ -2,7 +2,7 @@
 status: completed
 filename: eggjs-backend-framework-quickstart
 title: "Egg.js 入门"
-summary: 本笔记简明记录了基于 Node.js 的企业级后端服务框架 Egg.js 的初始化与启动流程。涵盖了利用 npm 模板脚手架快速生成 `simple` 类型项目的命令行标准操作，为搭建高内聚、低耦合的 Node.js 应用程序提供初始构建步骤。
+description: 本笔记简明记录了基于 Node.js 的企业级后端服务框架 Egg.js 的初始化与启动流程。涵盖了利用 npm 模板脚手架快速生成 `simple` 类型项目的命令行标准操作，为搭建高内聚、低耦合的 Node.js 应用程序提供初始构建步骤。
 aliases: [Egg.js 入门, Node.js 框架初始化]
 tags: [Node.js, Egg.js, 后端框架, 初始化配置, Web 开发]
 date created: 星期二, 二月 25日 2025, 3:24:00 下午

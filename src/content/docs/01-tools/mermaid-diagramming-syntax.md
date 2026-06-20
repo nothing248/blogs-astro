@@ -1,7 +1,7 @@
 ---
 title: "Mermaid流程图"
 filename: mermaid-diagramming-syntax
-summary: Mermaid是一种使用文本语法绘制图表的开源标记语言。本文提供核心语法详解。内容包含图表流向定义（如TB、LR）、常用五种节点形状的标识符配置、线段与箭头连接关系表示，以及横向和纵向多子图结构的嵌套和样式定义，使流程图渲染高度自动化。
+description: Mermaid是一种使用文本语法绘制图表的开源标记语言。本文提供核心语法详解。内容包含图表流向定义（如TB、LR）、常用五种节点形状的标识符配置、线段与箭头连接关系表示，以及横向和纵向多子图结构的嵌套和样式定义，使流程图渲染高度自动化。
 tags: [mermaid, diagrams, markdown-integration, flowcharts]
 aliases: [Mermaid流程图, 文本绘图, Mermaid语法]
 status: completed

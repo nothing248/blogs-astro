@@ -1,7 +1,7 @@
 ---
 title: "DuckDB入门"
 filename: duckdb-embedded-olap-database
-summary: DuckDB 是一款嵌入式、面向 OLAP（在线分析处理）的列式关系型数据库管理系统。本笔记简述了 DuckDB 的定位，并提供了在数据分析决策中如何选择 DuckDB、Pandas 与 Dask 的参考矩阵。通过对比数据规模、偏好语言（SQL vs API）以及部署环境（本地 vs 集群），帮助用户在不同分析场景下选择最合适的数据处理引擎。
+description: DuckDB 是一款嵌入式、面向 OLAP（在线分析处理）的列式关系型数据库管理系统。本笔记简述了 DuckDB 的定位，并提供了在数据分析决策中如何选择 DuckDB、Pandas 与 Dask 的参考矩阵。通过对比数据规模、偏好语言（SQL vs API）以及部署环境（本地 vs 集群），帮助用户在不同分析场景下选择最合适的数据处理引擎。
 tags: ["DuckDB", "OLAP", "Database", "Data-Analysis", "SQL"]
 aliases: ["DuckDB入门", "嵌入式分析型数据库", "DuckDB vs Pandas"]
 status: completed

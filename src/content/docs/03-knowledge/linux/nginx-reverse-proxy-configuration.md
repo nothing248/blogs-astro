@@ -1,7 +1,7 @@
 ---
 title: "nginx-guide"
 filename: nginx-reverse-proxy-configuration
-summary: 本文记录了高性能 Web 服务器 Nginx 的基本配置方法，重点介绍 Location 匹配规则及反向代理（proxy_pass）的基础语法。包含代理至本地服务端口的配置示例，并附带 Location 匹配优先级的流程图解，以便开发者快速查阅与排查反向代理配置。
+description: 本文记录了高性能 Web 服务器 Nginx 的基本配置方法，重点介绍 Location 匹配规则及反向代理（proxy_pass）的基础语法。包含代理至本地服务端口的配置示例，并附带 Location 匹配优先级的流程图解，以便开发者快速查阅与排查反向代理配置。
 tags:
   - nginx
   - web-server

@@ -2,7 +2,7 @@
 status: completed
 filename: python-dotenv-environment-variable-management
 title: "python-dotenv"
-summary: 本笔记介绍了 Python 应用程序中用于加载环境变量配置的 `python-dotenv` 库。详细记录了在项目根目录构建 `.env` 文件（包含变量内部引用）的方法，并展示了通过 `load_dotenv()` API 自动寻址与按路径显式加载的实战代码。同时提到了针对 Django 框架的生态衍生组件，为后端服务的配置解耦和安全性管理提供标准化参考。
+description: 本笔记介绍了 Python 应用程序中用于加载环境变量配置的 `python-dotenv` 库。详细记录了在项目根目录构建 `.env` 文件（包含变量内部引用）的方法，并展示了通过 `load_dotenv()` API 自动寻址与按路径显式加载的实战代码。同时提到了针对 Django 框架的生态衍生组件，为后端服务的配置解耦和安全性管理提供标准化参考。
 aliases: [python-dotenv, 环境变量管理, .env 解析]
 tags: [Python, 工程化, 环境变量, dotenv, 配置管理, 运维安全]
 date created: 星期二, 二月 25日 2025, 3:24:03 下午

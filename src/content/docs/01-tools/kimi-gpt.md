@@ -1,7 +1,7 @@
 ---
 title: "Kimi"
 filename: kimi-gpt
-summary: Kimi 是由月之暗面 (Moonshot AI) 开发的一款国产大模型工具，以支持超长上下文处理著称。本笔记记录了其作为 GPT 工具的简介及浏览器插件支持情况。
+description: Kimi 是由月之暗面 (Moonshot AI) 开发的一款国产大模型工具，以支持超长上下文处理著称。本笔记记录了其作为 GPT 工具的简介及浏览器插件支持情况。
 tags: [AI, GPT, LLM, Browser-Extension]
 aliases: [Kimi]
 status: pending

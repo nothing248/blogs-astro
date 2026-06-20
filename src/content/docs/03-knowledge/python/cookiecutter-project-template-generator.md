@@ -2,7 +2,7 @@
 status: completed
 filename: cookiecutter-project-template-generator
 title: "Cookiecutter"
-summary: 本笔记记录了由 Python 编写的开源项目脚手架工具 Cookiecutter 的基础用法。阐述了其作为通用模板引擎的核心价值：不仅限于 Python，可用于快速生成任何基于约定目录结构的代码项目。提供了其基于 Pip 的安装方式，以及直接利用 GitHub 远程模板 URL（如全栈 FastAPI 项目）一键克隆并初始化本地工程的实战指令，为团队标准化新项目的初始化配置提供了规范工具。
+description: 本笔记记录了由 Python 编写的开源项目脚手架工具 Cookiecutter 的基础用法。阐述了其作为通用模板引擎的核心价值：不仅限于 Python，可用于快速生成任何基于约定目录结构的代码项目。提供了其基于 Pip 的安装方式，以及直接利用 GitHub 远程模板 URL（如全栈 FastAPI 项目）一键克隆并初始化本地工程的实战指令，为团队标准化新项目的初始化配置提供了规范工具。
 aliases: [Cookiecutter, Python 项目模板, 脚手架工具]
 tags: [Python, 工程化, 自动化工具, 脚手架, Cookiecutter]
 date created: 星期二, 二月 25日 2025, 3:23:50 下午

@@ -1,7 +1,7 @@
 ---
 title: "GTM安装"
 filename: google-tag-manager-implementation
-summary: Google Tag Manager（GTM）是免费的网站代码管理系统，用于避免硬编码部署跟踪代码。本文提供GTM安装及触发逻辑详解。介绍如何将核心JS基础代码放置于HTML的head与body节点中，并通过变量和触发器配合将第三方分析标签动态注入网站中。
+description: Google Tag Manager（GTM）是免费的网站代码管理系统，用于避免硬编码部署跟踪代码。本文提供GTM安装及触发逻辑详解。介绍如何将核心JS基础代码放置于HTML的head与body节点中，并通过变量和触发器配合将第三方分析标签动态注入网站中。
 tags: [google-tag-manager, gtm, tag-management, marketing-analytics]
 aliases: [GTM安装, 代码管理, GTM触发器]
 status: completed

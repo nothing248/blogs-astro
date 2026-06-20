@@ -1,7 +1,7 @@
 ---
 title: "Docker安装"
 filename: docker-container-installation-config
-summary: Docker是基于操作系统的应用容器引擎。本文总结了在Windows和Linux（Ubuntu）平台部署Docker的实战要点。针对Windows下WSL2环境，提供了非C盘安装路径的避坑方案、镜像存储迁移步骤、以及阿里云代理和容器自动重启等常规Daemon配置文件优化建议。
+description: Docker是基于操作系统的应用容器引擎。本文总结了在Windows和Linux（Ubuntu）平台部署Docker的实战要点。针对Windows下WSL2环境，提供了非C盘安装路径的避坑方案、镜像存储迁移步骤、以及阿里云代理和容器自动重启等常规Daemon配置文件优化建议。
 tags: [docker, containerization, wsl2, devops]
 aliases: [Docker安装, WSL2部署, Daemon配置]
 status: completed

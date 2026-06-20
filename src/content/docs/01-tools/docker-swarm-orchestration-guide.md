@@ -1,7 +1,7 @@
 ---
 title: "Docker Swarm集群指南"
 filename: docker-swarm-orchestration-guide
-summary: Docker Swarm 是 Docker 原生的容器集群管理工具，通过 Manager 和 Worker 节点实现服务的高可用与自动调度。本笔记解析了 Swarm 的核心概念（节点、服务、任务、堆栈），提供了集群初始化、节点加入、服务扩缩容及滚动更新的操作指南。同时涵盖了使用 Docker Stack 配合 YAML 配置文件进行多服务编排的实战方法，解决了容器化应用在生产环境中的批量管理与负载均衡需求。
+description: Docker Swarm 是 Docker 原生的容器集群管理工具，通过 Manager 和 Worker 节点实现服务的高可用与自动调度。本笔记解析了 Swarm 的核心概念（节点、服务、任务、堆栈），提供了集群初始化、节点加入、服务扩缩容及滚动更新的操作指南。同时涵盖了使用 Docker Stack 配合 YAML 配置文件进行多服务编排的实战方法，解决了容器化应用在生产环境中的批量管理与负载均衡需求。
 tags: ["Docker", "Swarm", "Orchestration", "Clustering", "DevOps"]
 aliases: ["Docker Swarm集群指南", "容器编排工具", "Docker Stack使用"]
 status: completed

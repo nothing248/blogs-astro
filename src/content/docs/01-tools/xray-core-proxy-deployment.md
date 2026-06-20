@@ -1,7 +1,7 @@
 ---
 title: "Xray安装"
 filename: xray-core-proxy-deployment
-summary: Xray Core作为V2Ray安全增强版的网络代理工具，具有极强的流量伪装能力。本文整理了Xray的快速自动化脚本安装方式，提供了一份包含日志输出重定向、多协议入站代理监听、以及使用路由分流实现网络流量按国家或域名路由的基础JSON配置文件模版。
+description: Xray Core作为V2Ray安全增强版的网络代理工具，具有极强的流量伪装能力。本文整理了Xray的快速自动化脚本安装方式，提供了一份包含日志输出重定向、多协议入站代理监听、以及使用路由分流实现网络流量按国家或域名路由的基础JSON配置文件模版。
 tags: [xray-core, network-proxy, v2ray-fork, routing-rules]
 aliases: [Xray安装, Xray配置, V2ray增强版]
 status: completed

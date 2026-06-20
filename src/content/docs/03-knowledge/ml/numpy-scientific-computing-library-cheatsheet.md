@@ -2,7 +2,7 @@
 status: completed
 filename: numpy-scientific-computing-library-cheatsheet
 title: "NumPy 教程"
-summary: 本笔记系统归纳了 Python 数据科学的底层基石 NumPy 库的核心操作指令。涵盖了从构建高维数组 (`zeros`, `linspace`)、探测基础属性 (`shape`, `ndim`)，到复杂的索引切片及形状转换 (`reshape`, `hsplit`) 的代码实战。重点提炼了 NumPy 引以为傲的底层广播机制 (Broadcasting) 算术运算，以及基于通用函数 (ufunc) 与底层 C 优化的线性代数矩阵运算 (`dot`, `linalg.inv`)，是构建机器学习底层数据预处理逻辑的标准参考。
+description: 本笔记系统归纳了 Python 数据科学的底层基石 NumPy 库的核心操作指令。涵盖了从构建高维数组 (`zeros`, `linspace`)、探测基础属性 (`shape`, `ndim`)，到复杂的索引切片及形状转换 (`reshape`, `hsplit`) 的代码实战。重点提炼了 NumPy 引以为傲的底层广播机制 (Broadcasting) 算术运算，以及基于通用函数 (ufunc) 与底层 C 优化的线性代数矩阵运算 (`dot`, `linalg.inv`)，是构建机器学习底层数据预处理逻辑的标准参考。
 aliases: [NumPy 教程, NumPy 速查, Ndarray 操作, Python 线性代数]
 tags: [Python, 机器学习, 数据分析, NumPy, 科学计算, 线性代数]
 date created: 星期二, 二月 25日 2025, 3:24:18 下午

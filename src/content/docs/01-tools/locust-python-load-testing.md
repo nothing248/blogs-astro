@@ -1,7 +1,7 @@
 ---
 title: "Locust压测"
 filename: locust-python-load-testing
-summary: Locust是基于Python的现代化、分布式压力测试工具。本文讲解Locust安装步骤以及通过定义HttpUser任务编写SSE接口压测脚本的流程，展示了如何通过Web UI仪表盘进行压力启动、并发数动态调整、报错查看，以及压测报告与性能指标下载的完整操作。
+description: Locust是基于Python的现代化、分布式压力测试工具。本文讲解Locust安装步骤以及通过定义HttpUser任务编写SSE接口压测脚本的流程，展示了如何通过Web UI仪表盘进行压力启动、并发数动态调整、报错查看，以及压测报告与性能指标下载的完整操作。
 tags: [locust, load-testing, performance, python]
 aliases: [Locust压测, 性能测试, Python压测]
 status: completed

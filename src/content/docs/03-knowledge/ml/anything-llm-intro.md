@@ -1,7 +1,7 @@
 ---
 title: "AnythingLLM简介"
 filename: anything-llm-intro
-summary: AnythingLLM 是一款全栈开源的多用户 AI 知识库与 RAG 平台，支持无缝对接各大云端与本地大语言模型及向量数据库。本笔记总结了 AnythingLLM 的核心系统定位（支持多模型接入与多向量库），阐述了其基于工作区的文档管理与精细的权限划分机制，并提供了官方参考链接，为构建私有化企业级 RAG 提供基础说明。
+description: AnythingLLM 是一款全栈开源的多用户 AI 知识库与 RAG 平台，支持无缝对接各大云端与本地大语言模型及向量数据库。本笔记总结了 AnythingLLM 的核心系统定位（支持多模型接入与多向量库），阐述了其基于工作区的文档管理与精细的权限划分机制，并提供了官方参考链接，为构建私有化企业级 RAG 提供基础说明。
 tags:
   - anythingllm
   - rag

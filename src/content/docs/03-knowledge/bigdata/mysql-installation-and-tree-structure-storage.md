@@ -2,7 +2,7 @@
 status: completed
 filename: mysql-installation-and-tree-structure-storage
 title: "MySQL 树状结构"
-summary: 本笔记涵盖了 MySQL 关系型数据库的 Docker 部署及基础权限管理操作。重点深入探讨了在关系型数据库中存储树状结构（Tree Structure）的架构选型，对比了邻接表与枚举路径的优劣，并详细提供了一种折中且高效的“闭包表（存储完整树路径）”设计方案。通过具体的 SQL 示例，展示了如何基于该模型实现后代查询、祖先追溯、子树移动及节点删除等复杂的层级操作。
+description: 本笔记涵盖了 MySQL 关系型数据库的 Docker 部署及基础权限管理操作。重点深入探讨了在关系型数据库中存储树状结构（Tree Structure）的架构选型，对比了邻接表与枚举路径的优劣，并详细提供了一种折中且高效的“闭包表（存储完整树路径）”设计方案。通过具体的 SQL 示例，展示了如何基于该模型实现后代查询、祖先追溯、子树移动及节点删除等复杂的层级操作。
 aliases: [MySQL 树状结构, 闭包表设计, 关系型数据库树形存储]
 tags: [数据库, MySQL, 数据库设计, 树状结构, 闭包表, 架构设计, SQL]
 date created: 星期四, 十月 9日 2025, 10:34:30 上午

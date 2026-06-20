@@ -1,7 +1,7 @@
 ---
 title: "常见OLAP数据库对比"
 filename: olap-databases-comparison
-summary: 主流 OLAP 数据库对比指南。涵盖 ClickHouse、Druid、Snowflake、BigQuery、Doris、Pinot 等系统。详细梳理了各产品的厂商归属、核心架构特性（MPP、存算分离、Serverless）与演进历史。展现了从传统多维 Cube (MOLAP) 到弹性伸缩的云数仓，再到亚秒级高并发实时 OLAP 系统的技术发展脉络。
+description: 主流 OLAP 数据库对比指南。涵盖 ClickHouse、Druid、Snowflake、BigQuery、Doris、Pinot 等系统。详细梳理了各产品的厂商归属、核心架构特性（MPP、存算分离、Serverless）与演进历史。展现了从传统多维 Cube (MOLAP) 到弹性伸缩的云数仓，再到亚秒级高并发实时 OLAP 系统的技术发展脉络。
 tags:
   - olap
   - database

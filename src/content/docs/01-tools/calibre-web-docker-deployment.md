@@ -1,7 +1,7 @@
 ---
 title: "个人图书馆部署"
 filename: calibre-web-docker-deployment
-summary: Calibre-web 是一款基于 Web 的图书管理服务，旨在提供书籍预览、刮削、格式转换及管理功能。本笔记提供了使用 Docker Compose 部署 Calibre-web 及其自动化增强版（calibre-web-automated）的详细配置，包括环境变量设置、卷挂载（对接 Nextcloud 存储）及网络配置。它作为轻量级图书管理方案，有效补充了 Calibre 桌面端在 Web 端的访问与同步需求。
+description: Calibre-web 是一款基于 Web 的图书管理服务，旨在提供书籍预览、刮削、格式转换及管理功能。本笔记提供了使用 Docker Compose 部署 Calibre-web 及其自动化增强版（calibre-web-automated）的详细配置，包括环境变量设置、卷挂载（对接 Nextcloud 存储）及网络配置。它作为轻量级图书管理方案，有效补充了 Calibre 桌面端在 Web 端的访问与同步需求。
 tags: ["Calibre-Web", "Docker", "Book-Management", "E-book", "Home-Lab"]
 aliases: ["个人图书馆部署", "Calibre Web容器化", "图书自动化刮削"]
 status: completed

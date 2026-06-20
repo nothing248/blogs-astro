@@ -1,7 +1,7 @@
 ---
 title: "模型评估与指标统计"
 filename: model-evaluation-metrics
-summary: 本笔记总结了机器学习模型评估的核心指标与特征归因分析。涵盖回归任务的决定系数（R²）公式、偏差与方差概念辨析，以及分类任务的 P-R 曲线、ROC-AUC 和 F1-Score。此外，整理了用于特征重要性归因分析的 Shapley 值（SHAP）方法，并保留了方法对比原理图解与外部技术博客链接。
+description: 本笔记总结了机器学习模型评估的核心指标与特征归因分析。涵盖回归任务的决定系数（R²）公式、偏差与方差概念辨析，以及分类任务的 P-R 曲线、ROC-AUC 和 F1-Score。此外，整理了用于特征重要性归因分析的 Shapley 值（SHAP）方法，并保留了方法对比原理图解与外部技术博客链接。
 tags:
   - machine-learning
   - model-evaluation

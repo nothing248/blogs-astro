@@ -1,7 +1,7 @@
 ---
 title: "Tailscale简介"
 filename: tailscale-wireguard-mesh-vpn
-summary: Tailscale 是一款基于 WireGuard 协议的零配置虚拟私有网格（Mesh VPN）工具。它能够跨越复杂的网络环境（如 NAT、防火墙），将分散在各地的设备安全地连接在同一个私有局域网内。本文记录了其核心定位及官方资源，是现代远程连接和内网穿透的高效解决方案。
+description: Tailscale 是一款基于 WireGuard 协议的零配置虚拟私有网格（Mesh VPN）工具。它能够跨越复杂的网络环境（如 NAT、防火墙），将分散在各地的设备安全地连接在同一个私有局域网内。本文记录了其核心定位及官方资源，是现代远程连接和内网穿透的高效解决方案。
 tags: [networking, vpn, wireguard, tailscale]
 aliases: [Tailscale简介]
 status: completed

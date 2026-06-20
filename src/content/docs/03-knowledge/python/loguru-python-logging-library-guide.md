@@ -2,7 +2,7 @@
 status: completed
 filename: loguru-python-logging-library-guide
 title: "Loguru 教程"
-summary: 本笔记总结了 Python 生态中备受推崇的开箱即用日志库 Loguru 的核心实战配置。详细演示了如何摆脱标准库 `logging` 的繁琐 Handler 配置，直接通过 `logger.add()` 接口实现日志的文件输出、按时间/大小的自动滚动拆分（Rotation）、自动清理轮转（Retention）及 Zip 归档。还介绍了利用 `@logger.catch` 装饰器无缝捕获并记录异常堆栈的高阶用法。
+description: 本笔记总结了 Python 生态中备受推崇的开箱即用日志库 Loguru 的核心实战配置。详细演示了如何摆脱标准库 `logging` 的繁琐 Handler 配置，直接通过 `logger.add()` 接口实现日志的文件输出、按时间/大小的自动滚动拆分（Rotation）、自动清理轮转（Retention）及 Zip 归档。还介绍了利用 `@logger.catch` 装饰器无缝捕获并记录异常堆栈的高阶用法。
 aliases: [Loguru 教程, Python 日志管理, Python logging 替代]
 tags: [Python, 日志管理, Loguru, 运维排障, 后端开发, 工程化]
 date created: 星期二, 二月 25日 2025, 3:24:04 下午

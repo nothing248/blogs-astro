@@ -1,7 +1,7 @@
 ---
 title: "OpenAI开发指南"
 filename: openai-service-guide
-summary: 本笔记汇总了 OpenAI 核心服务与 API 开发基础。涵盖 ChatGPT 注册流程、Sora 模型说明，以及基于 python 官方 SDK 的 Chat Completion 接口调用示例。同时，整理了利用 Cloudflare WARP 突破 IP 限制的方法以及 ChatGPT 多人共享解决方案（如 PandoraNext），并附有计费与官方文档导航。
+description: 本笔记汇总了 OpenAI 核心服务与 API 开发基础。涵盖 ChatGPT 注册流程、Sora 模型说明，以及基于 python 官方 SDK 的 Chat Completion 接口调用示例。同时，整理了利用 Cloudflare WARP 突破 IP 限制的方法以及 ChatGPT 多人共享解决方案（如 PandoraNext），并附有计费与官方文档导航。
 tags:
   - openai
   - chatgpt

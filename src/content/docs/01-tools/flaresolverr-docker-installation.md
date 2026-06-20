@@ -1,7 +1,7 @@
 ---
 title: "FlareSolverr安装"
 filename: flaresolverr-docker-installation
-summary: FlareSolverr 是一款旨在绕过 Cloudflare 等 CDN 反爬限制的开源代理工具。它通过在 Docker 容器中运行 Headless 浏览器来执行挑战验证，并提供 HTTP API 供外部调用。本文记录了基于 Docker Compose 的安装配置步骤，支持时区设置及验证码求解器集成，是自动化抓取受限网页的核心组件。
+description: FlareSolverr 是一款旨在绕过 Cloudflare 等 CDN 反爬限制的开源代理工具。它通过在 Docker 容器中运行 Headless 浏览器来执行挑战验证，并提供 HTTP API 供外部调用。本文记录了基于 Docker Compose 的安装配置步骤，支持时区设置及验证码求解器集成，是自动化抓取受限网页的核心组件。
 tags: [flaresolverr, cloudflare, proxy, docker, web-scraping]
 aliases: [FlareSolverr安装]
 status: completed

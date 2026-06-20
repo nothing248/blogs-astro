@@ -1,7 +1,7 @@
 ---
 title: "setuptools使用手册"
 filename: setuptools-setup-guide
-summary: Python 打包与分发工具 setuptools 使用指南。系统解析了 setup() 的元数据及外部依赖声明参数，对比了 setup.py 传统历史命令与 pyproject.toml、pip install、python -m build 等现代替代标准。提供了一个集成 Cython 扩展（Extension、cythonize 编译）和 NumPy 头文件引入的完整 setup.py 实例配置，并给出了规避 flat-layout 的目录排除方法。
+description: Python 打包与分发工具 setuptools 使用指南。系统解析了 setup() 的元数据及外部依赖声明参数，对比了 setup.py 传统历史命令与 pyproject.toml、pip install、python -m build 等现代替代标准。提供了一个集成 Cython 扩展（Extension、cythonize 编译）和 NumPy 头文件引入的完整 setup.py 实例配置，并给出了规避 flat-layout 的目录排除方法。
 tags: [setuptools, python-packaging, cython-compilation, numpy-integration, pyproject-toml]
 aliases: [setuptools使用手册, setup.py配置参数, Cython编译配置]
 status: completed

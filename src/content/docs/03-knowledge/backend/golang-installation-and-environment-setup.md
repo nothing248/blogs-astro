@@ -2,7 +2,7 @@
 status: completed
 filename: golang-installation-and-environment-setup
 title: "Go 安装教程"
-summary: 本笔记记录了 Go 语言开发环境的跨平台基础配置指南。涵盖了在 Windows 系统下通过 MSI 安装包的部署流程，以及在 Linux 环境下通过源码压缩包解压、配置 PATH 环境变量的标准 SOP。此外，重点提供了针对国内网络环境设置 `GOPROXY`（如 goproxy.cn）的配置指令，为快速搭建 Go 语言高效开发环境提供参考。
+description: 本笔记记录了 Go 语言开发环境的跨平台基础配置指南。涵盖了在 Windows 系统下通过 MSI 安装包的部署流程，以及在 Linux 环境下通过源码压缩包解压、配置 PATH 环境变量的标准 SOP。此外，重点提供了针对国内网络环境设置 `GOPROXY`（如 goproxy.cn）的配置指令，为快速搭建 Go 语言高效开发环境提供参考。
 aliases: [Go 安装教程, Golang 环境变量配置, GOPROXY 设置]
 tags: [Golang, Go 语言, 环境配置, 后端开发, 运维部署, Linux]
 date created: 星期一, 五月 19日 2025, 2:05:21 下午

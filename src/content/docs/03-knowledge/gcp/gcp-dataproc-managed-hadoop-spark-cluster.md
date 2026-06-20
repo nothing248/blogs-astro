@@ -2,7 +2,7 @@
 status: completed
 filename: gcp-dataproc-managed-hadoop-spark-cluster
 title: "Cloud Dataproc"
-summary: 本笔记记录了 Google Cloud Platform (GCP) 上完全托管的大数据处理服务 Cloud Dataproc。梳理了其作为云端 Hadoop/Spark 运行环境的核心组件结构，并提供了一键拉起集群的 `gcloud` CLI 命令行脚本。重点展示了如何在集群初始化时通过 properties 注入特定的 Conda/Pip 机器学习库依赖（如 PyTorch、Transformers），为构建即用即毁的弹性大数据计算流水线提供操作依据。
+description: 本笔记记录了 Google Cloud Platform (GCP) 上完全托管的大数据处理服务 Cloud Dataproc。梳理了其作为云端 Hadoop/Spark 运行环境的核心组件结构，并提供了一键拉起集群的 `gcloud` CLI 命令行脚本。重点展示了如何在集群初始化时通过 properties 注入特定的 Conda/Pip 机器学习库依赖（如 PyTorch、Transformers），为构建即用即毁的弹性大数据计算流水线提供操作依据。
 aliases: [Cloud Dataproc, 托管 Spark 集群, GCP 大数据计算]
 tags: [GCP, Dataproc, Spark, Hadoop, 大数据, 自动化部署, 云计算]
 date created: 星期一, 五月 19日 2025, 2:05:19 下午

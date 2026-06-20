@@ -2,7 +2,7 @@
 status: completed
 filename: tmux-terminal-multiplexer-cheatsheet
 title: "Tmux 快捷键"
-summary: 本笔记是 Linux 下强大终端复用器 Tmux (Terminal Multiplexer) 的快速上手指南。系统整理了从会话创建、分离接入（Detach/Attach）到窗口（Window）与窗格（Pane）切分的常用指令及组合快捷键 (Ctrl+b)。重点提供了开启终端鼠标滚屏支持的配置指令（包括临时生效与持久化写入 ~/.tmux.conf），是进行远程服务器长耗时任务管理的必备效率手册。
+description: 本笔记是 Linux 下强大终端复用器 Tmux (Terminal Multiplexer) 的快速上手指南。系统整理了从会话创建、分离接入（Detach/Attach）到窗口（Window）与窗格（Pane）切分的常用指令及组合快捷键 (Ctrl+b)。重点提供了开启终端鼠标滚屏支持的配置指令（包括临时生效与持久化写入 ~/.tmux.conf），是进行远程服务器长耗时任务管理的必备效率手册。
 aliases: [Tmux 快捷键, 终端复用器, Tmux 滚屏配置, 后台终端]
 tags: [Linux, Tmux, 终端工具, 运维效率, Shell]
 date created: 星期一, 十一月 24日 2025, 9:46:57 上午

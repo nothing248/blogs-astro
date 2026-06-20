@@ -1,7 +1,7 @@
 ---
 title: "Apprise通知聚合"
 filename: apprise-notification-aggregator
-summary: Apprise 是一款强大的跨平台通知聚合工具，支持通过统一的 API 接口向微信、电报、邮件等数十个平台发送通知。本笔记介绍了使用 Docker Compose 部署 Apprise 无状态服务的方法，提供了 Webhook 测试命令、基于 YAML 的多渠道标签配置实例，以及如何利用 Nginx/OpenResty 配置带身份验证的反向代理，解决了多平台通知推送的集中化管理与安全调用问题。
+description: Apprise 是一款强大的跨平台通知聚合工具，支持通过统一的 API 接口向微信、电报、邮件等数十个平台发送通知。本笔记介绍了使用 Docker Compose 部署 Apprise 无状态服务的方法，提供了 Webhook 测试命令、基于 YAML 的多渠道标签配置实例，以及如何利用 Nginx/OpenResty 配置带身份验证的反向代理，解决了多平台通知推送的集中化管理与安全调用问题。
 tags: ["Apprise", "Notification", "Webhook", "Docker", "DevOps"]
 aliases: ["Apprise通知聚合", "多平台推送工具"]
 status: completed

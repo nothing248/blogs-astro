@@ -1,7 +1,7 @@
 ---
 title: "Disqus评论系统"
 filename: disqus-comment-system-setup
-summary: Disqus 是一款广泛使用的轻量级在线评论插件，适用于各种网站及博客系统。本笔记目前包含其基本简介及官方链接。Disqus 通过嵌入式的对话框，帮助站长轻松集成用户评论、互动及社交分享功能，是增强站点互动性的常用第三方服务。
+description: Disqus 是一款广泛使用的轻量级在线评论插件，适用于各种网站及博客系统。本笔记目前包含其基本简介及官方链接。Disqus 通过嵌入式的对话框，帮助站长轻松集成用户评论、互动及社交分享功能，是增强站点互动性的常用第三方服务。
 tags: ["Disqus", "Comments", "Web-Widget", "Engagement"]
 aliases: ["Disqus评论系统", "第三方评论插件"]
 status: pending

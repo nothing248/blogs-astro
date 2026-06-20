@@ -1,7 +1,7 @@
 ---
 title: "Rust语言入门"
 filename: rust-language-installation-and-overview
-summary: Rust 是一款专注于安全、并发和性能的现代系统级编程语言。本文简要介绍了 Rust 的核心价值，特别是其独特的内存安全保障机制（所有权系统）。同时提供了使用官方工具 rustup 进行环境安装的标准方法，为开发者进入 Rust 生态提供了基础指引。
+description: Rust 是一款专注于安全、并发和性能的现代系统级编程语言。本文简要介绍了 Rust 的核心价值，特别是其独特的内存安全保障机制（所有权系统）。同时提供了使用官方工具 rustup 进行环境安装的标准方法，为开发者进入 Rust 生态提供了基础指引。
 tags: [rust, systems-programming, memory-safety, installation, cargo]
 aliases: [Rust语言入门, Rust安装教程]
 status: pending

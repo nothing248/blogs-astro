@@ -1,7 +1,7 @@
 ---
 title: "Puppeteer教程"
 filename: puppeteer-browser-automation-guide
-summary: Puppeteer 是一款功能强大的 Node.js 库，允许开发者通过高级 API 控制无头（Headless）或有头 Chrome/Chromium 浏览器。本文涵盖了 Puppeteer 的基础安装方法（含 puppeteer-core 区别），并提供了一个自动化截图的代码示例。适用于网页爬虫、前端自动化测试、PDF 生成及动态页面渲染等场景。
+description: Puppeteer 是一款功能强大的 Node.js 库，允许开发者通过高级 API 控制无头（Headless）或有头 Chrome/Chromium 浏览器。本文涵盖了 Puppeteer 的基础安装方法（含 puppeteer-core 区别），并提供了一个自动化截图的代码示例。适用于网页爬虫、前端自动化测试、PDF 生成及动态页面渲染等场景。
 tags: [puppeteer, browser-automation, nodejs, web-scraping, testing]
 aliases: [Puppeteer教程, 无头浏览器控制, Chrome自动化]
 status: completed

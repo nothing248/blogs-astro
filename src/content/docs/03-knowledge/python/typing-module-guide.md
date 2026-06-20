@@ -1,7 +1,7 @@
 ---
 title: "Python类型提示"
 filename: typing-module-guide
-summary: Python typing 模块及类型提示指南。系统归纳了集合泛型（List/Dict 在 Python 3.9+ 的原生替换）、联合可选（Union/Optional 在 Python 3.10+ 的 "|" 替换）、泛型 TypeVar 及 Protocol 鸭子类型。重点展示了使用 @overload 装饰器声明静态签名并实现多类型运行时分发的方案，并补充了 "..." 与 "|" 符号在不同语境下的含义。
+description: Python typing 模块及类型提示指南。系统归纳了集合泛型（List/Dict 在 Python 3.9+ 的原生替换）、联合可选（Union/Optional 在 Python 3.10+ 的 "|" 替换）、泛型 TypeVar 及 Protocol 鸭子类型。重点展示了使用 @overload 装饰器声明静态签名并实现多类型运行时分发的方案，并补充了 "..." 与 "|" 符号在不同语境下的含义。
 tags: [python-typing, type-hints, generic-programming, static-analysis, typing-overload]
 aliases: [Python类型提示, typing模块详解, overload重载签名]
 status: completed

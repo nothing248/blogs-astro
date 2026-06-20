@@ -1,7 +1,7 @@
 ---
 title: "Windows初始化"
 filename: windows-system-setup-guide
-summary: Windows操作系统初始化与运维实践指南。本文归纳了新系统交付时的核心行动项，包含删除原本地账户并安全迁移、加入工作与学校组织账户进行资源同步、安全迁移并替换SSH私钥、配置本地静态hosts以映射主机名，以及使用7zip和WSA等实用软件安装指南。
+description: Windows操作系统初始化与运维实践指南。本文归纳了新系统交付时的核心行动项，包含删除原本地账户并安全迁移、加入工作与学校组织账户进行资源同步、安全迁移并替换SSH私钥、配置本地静态hosts以映射主机名，以及使用7zip和WSA等实用软件安装指南。
 tags: [windows, system-initialization, ssh-keys, hosts-configuration]
 aliases: [Windows初始化, Hosts修改, Win软件管理]
 status: completed

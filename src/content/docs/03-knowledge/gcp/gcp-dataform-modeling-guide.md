@@ -1,7 +1,7 @@
 ---
 title: "Dataform使用手册"
 filename: gcp-dataform-modeling-guide
-summary: GCP Dataform 数据建模与转换指南。详述了核心 SQLX 语法（配置块、ref 依赖管理），阐述了其在数据血缘、增量更新表、质量断言（Assertions）及 JS 逻辑复用上的优势。提供了从 ODS 模拟数据到最终 30d 活跃标签的 SQLX 建模代码，并分析了结合原生与 Cloud Composer/Airflow 调度的任务生命周期。
+description: GCP Dataform 数据建模与转换指南。详述了核心 SQLX 语法（配置块、ref 依赖管理），阐述了其在数据血缘、增量更新表、质量断言（Assertions）及 JS 逻辑复用上的优势。提供了从 ODS 模拟数据到最终 30d 活跃标签的 SQLX 建模代码，并分析了结合原生与 Cloud Composer/Airflow 调度的任务生命周期。
 tags:
   - dataform
   - bigquery

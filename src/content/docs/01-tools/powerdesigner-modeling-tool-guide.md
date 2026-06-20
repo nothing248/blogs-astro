@@ -1,7 +1,7 @@
 ---
 title: "PowerDesigner教程"
 filename: powerdesigner-modeling-tool-guide
-summary: SAP PowerDesigner 是一款领先的业务流程与数据库建模工具。本文简要介绍了其在企业架构设计中的核心作用，包括逻辑数据模型（LDM）与物理数据模型（PDM）的构建。它能帮助架构师和开发者可视化复杂的数据结构，并自动生成数据库脚本，是大型系统设计的标准工具。
+description: SAP PowerDesigner 是一款领先的业务流程与数据库建模工具。本文简要介绍了其在企业架构设计中的核心作用，包括逻辑数据模型（LDM）与物理数据模型（PDM）的构建。它能帮助架构师和开发者可视化复杂的数据结构，并自动生成数据库脚本，是大型系统设计的标准工具。
 tags: [powerdesigner, database-modeling, enterprise-architecture, case-tools, development]
 aliases: [PowerDesigner教程, 数据库建模工具]
 status: completed

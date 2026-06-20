@@ -1,7 +1,7 @@
 ---
 title: "GCPWorkflows概述"
 filename: gcp-workflows-overview
-summary: GCP Workflows 无服务器全代管编排服务指南。阐述了工作流（YAML/JSON 定义）、步骤控制（call/switch）、内置连接器（自动化轮询）及运行时服务账号概念。总结了微服务编排、IT运维自动化与事件响应应用场景，突出了长达一年有状态持久化的优势，并提供了调用 Compute Engine 连接器启动虚拟机的 YAML 示例。
+description: GCP Workflows 无服务器全代管编排服务指南。阐述了工作流（YAML/JSON 定义）、步骤控制（call/switch）、内置连接器（自动化轮询）及运行时服务账号概念。总结了微服务编排、IT运维自动化与事件响应应用场景，突出了长达一年有状态持久化的优势，并提供了调用 Compute Engine 连接器启动虚拟机的 YAML 示例。
 tags:
   - gcp-workflows
   - serverless-orchestration

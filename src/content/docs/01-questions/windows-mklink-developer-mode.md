@@ -1,7 +1,7 @@
 ---
 title: "Windows 开发者模式开启"
 filename: windows-mklink-developer-mode
-summary: 本笔记介绍了在 Windows 中通过启用“开发者模式”来放宽符号链接（mklink）权限限制的方法。开启开发者模式后，用户可以在普通的 CMD 或 PowerShell 窗口中执行 `mklink` 命令，而不再强制要求“以管理员身份运行”，同时也支持运行未签名的本地脚本，极大提升了开发环境的便利性。
+description: 本笔记介绍了在 Windows 中通过启用“开发者模式”来放宽符号链接（mklink）权限限制的方法。开启开发者模式后，用户可以在普通的 CMD 或 PowerShell 窗口中执行 `mklink` 命令，而不再强制要求“以管理员身份运行”，同时也支持运行未签名的本地脚本，极大提升了开发环境的便利性。
 tags: ["Windows", "mklink", "Developer-Mode", "Symbolic-Link"]
 aliases: ["Windows 开发者模式开启", "mklink 免管理员权限", "符号链接权限优化"]
 status: completed

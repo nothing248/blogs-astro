@@ -1,7 +1,7 @@
 ---
 title: "编程原则"
 filename: software-design-principles-and-first-principles
-summary: 本指南梳理软件工程中面向对象的核心设计原则与思维模型。包含 SOLID 中的单一职责、开闭原则、里氏替换、依赖倒置等设计规范，明确了高低层模块的抽象依赖与契约约束；并深入探讨了源于物理学的第一性原理，指导开发者通过质疑假设、分解本质及重新构建三步法来解决复杂的软件架构与工程问题。
+description: 本指南梳理软件工程中面向对象的核心设计原则与思维模型。包含 SOLID 中的单一职责、开闭原则、里氏替换、依赖倒置等设计规范，明确了高低层模块的抽象依赖与契约约束；并深入探讨了源于物理学的第一性原理，指导开发者通过质疑假设、分解本质及重新构建三步法来解决复杂的软件架构与工程问题。
 tags: [software-design, design-principles, solid, first-principles, mental-models]
 aliases: [编程原则, 面向对象设计原则, SOLID原则, 第一性原理, 软件开发原则]
 status: completed

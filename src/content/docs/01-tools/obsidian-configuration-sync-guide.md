@@ -1,7 +1,7 @@
 ---
 title: "Obsidian配置同步"
 filename: obsidian-configuration-sync-guide
-summary: Obsidian 是一款基于本地 Markdown 文件的强大知识管理工具，支持丰富的插件生态。本文针对多仓库配置同步的痛点，提出了基于共享 `.obsidian` 配置目录的解决方案。通过软链接（Symbolic Link）结合云存储工具，可以实现跨设备、多仓库的插件与主题设置同步，极大地提升了 PKM 工作流的一致性与效率。
+description: Obsidian 是一款基于本地 Markdown 文件的强大知识管理工具，支持丰富的插件生态。本文针对多仓库配置同步的痛点，提出了基于共享 `.obsidian` 配置目录的解决方案。通过软链接（Symbolic Link）结合云存储工具，可以实现跨设备、多仓库的插件与主题设置同步，极大地提升了 PKM 工作流的一致性与效率。
 tags: [obsidian, pkm, knowledge-management, sync, productivity]
 aliases: [Obsidian配置同步, 多仓库配置共享]
 status: completed

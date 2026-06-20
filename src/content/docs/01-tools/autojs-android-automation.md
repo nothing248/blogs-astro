@@ -1,7 +1,7 @@
 ---
 title: "AutoJS简介"
 filename: autojs-android-automation
-summary: Auto.js 是一款无需 Root 权限即可在 Android 平台上实现自动化操作的应用，支持通过 JavaScript 脚本模拟点击、滑动及界面交互。本笔记目前仅包含其基本简介，详细功能与实战技巧尚待完善。
+description: Auto.js 是一款无需 Root 权限即可在 Android 平台上实现自动化操作的应用，支持通过 JavaScript 脚本模拟点击、滑动及界面交互。本笔记目前仅包含其基本简介，详细功能与实战技巧尚待完善。
 tags: ["Auto.js", "Android", "自动化测试", "脚本语言"]
 aliases: ["AutoJS简介", "安卓自动化脚本"]
 status: pending

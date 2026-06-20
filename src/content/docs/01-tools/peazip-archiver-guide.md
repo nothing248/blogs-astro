@@ -1,7 +1,7 @@
 ---
 title: "PeaZip解压缩"
 filename: peazip-archiver-guide
-summary: PeaZip 是一款开源、免费且功能强大的文件压缩与解压缩工具，基于 7-Zip, p7zip, FreeArc 等成熟技术构建。本文简要介绍了其在 Windows 环境下的核心优势，包括对超过 200 种归档格式的支持、强大的批量处理能力以及高度安全的加密特性，是替代 WinRAR 或 7-Zip 的高质量开源选择。
+description: PeaZip 是一款开源、免费且功能强大的文件压缩与解压缩工具，基于 7-Zip, p7zip, FreeArc 等成熟技术构建。本文简要介绍了其在 Windows 环境下的核心优势，包括对超过 200 种归档格式的支持、强大的批量处理能力以及高度安全的加密特性，是替代 WinRAR 或 7-Zip 的高质量开源选择。
 tags: [peazip, file-archiver, windows-tools, open-source, security]
 aliases: [PeaZip解压缩, 开源压缩软件]
 status: completed

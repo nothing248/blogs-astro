@@ -1,7 +1,7 @@
 ---
 title: "Rancher容器平台"
 filename: rancher-kubernetes-management-platform
-summary: Rancher 是一款开源的企业级 Kubernetes 管理平台。它能够简化多集群 Kubernetes 的部署与日常运维，支持在任何基础设施（私有云、公有云或边缘计算）上统一管理 K8s 集群。本文介绍了 Rancher 的核心功能及其在企业容器化转型中的重要地位。
+description: Rancher 是一款开源的企业级 Kubernetes 管理平台。它能够简化多集群 Kubernetes 的部署与日常运维，支持在任何基础设施（私有云、公有云或边缘计算）上统一管理 K8s 集群。本文介绍了 Rancher 的核心功能及其在企业容器化转型中的重要地位。
 tags: [rancher, kubernetes, devops, container-management, cloud-native]
 aliases: [Rancher容器平台, K8s多集群管理]
 status: pending

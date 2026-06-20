@@ -2,7 +2,7 @@
 status: completed
 filename: webpack-module-bundler-configuration-and-loaders
 title: "Webpack 基础"
-summary: 本笔记梳理了现代前端工程化的基石——Webpack 模块打包工具的核心概念。系统解析了它的三种打包构建模式 (development/production/none)，以及 `webpack.config.js` 中关于入口 (entry) 与出口 (output) 路径的动态配置方案。重点讲解了打破 Webpack 仅支持 JS/JSON 限制的核心机制——预处理器 Loader（如 `css-loader` 与 `style-loader` 的链式调用），为理解前端项目构建流水线提供理论基础。
+description: 本笔记梳理了现代前端工程化的基石——Webpack 模块打包工具的核心概念。系统解析了它的三种打包构建模式 (development/production/none)，以及 `webpack.config.js` 中关于入口 (entry) 与出口 (output) 路径的动态配置方案。重点讲解了打破 Webpack 仅支持 JS/JSON 限制的核心机制——预处理器 Loader（如 `css-loader` 与 `style-loader` 的链式调用），为理解前端项目构建流水线提供理论基础。
 aliases: [Webpack 基础, Webpack 配置, loader 解析]
 tags: [前端工程化, Webpack, JavaScript, 模块打包, 构建工具]
 date created: 星期一, 五月 19日 2025, 2:05:20 下午

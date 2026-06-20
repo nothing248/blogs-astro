@@ -1,7 +1,7 @@
 ---
 title: "linux-basics"
 filename: linux-package-management-and-system-basics
-summary: 本文梳理了 Linux（以 Debian/Ubuntu 系列为主）系统管理的核心基础知识。详细阐述了 APT、dpkg 及源码编译安装（如 OpenSSL）的配置与操作规范；系统性整理了 Linux 环境初始化配置文件（如 profile 与 bashrc）的加载顺序、动静态链接库（.so/.a）机制及 ldconfig 共享管理；并记录了高频用户权限管理命令与老旧 Debian 发行版（Stretch 归档源 404）的源修复方案。
+description: 本文梳理了 Linux（以 Debian/Ubuntu 系列为主）系统管理的核心基础知识。详细阐述了 APT、dpkg 及源码编译安装（如 OpenSSL）的配置与操作规范；系统性整理了 Linux 环境初始化配置文件（如 profile 与 bashrc）的加载顺序、动静态链接库（.so/.a）机制及 ldconfig 共享管理；并记录了高频用户权限管理命令与老旧 Debian 发行版（Stretch 归档源 404）的源修复方案。
 tags:
   - linux
   - debian
