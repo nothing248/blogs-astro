@@ -1,7 +1,7 @@
 ---
 title: "Auth0 身份验证"
 filename: auth0-idaas-guide
-summary: Auth0 是一款领先的身份即服务 (IDaaS) 云平台，为开发者提供灵活的用户认证与授权解决方案。本笔记解析了 Auth0 的核心概念，包括 Application（应用客户端）、API（受保护资源）、Database（身份源）、Role（RBAC 模型）及 Actions（自定义编排）。同时，提供了基于 Vue.js 的前端集成实例与基于 Python Flask 的后端 Token 校验代码，涵盖了从身份验证到 API 访问控制的完整闭环，适用于快速构建安全的认证体系。
+description: Auth0 是一款领先的身份即服务 (IDaaS) 云平台，为开发者提供灵活的用户认证与授权解决方案。本笔记解析了 Auth0 的核心概念，包括 Application（应用客户端）、API（受保护资源）、Database（身份源）、Role（RBAC 模型）及 Actions（自定义编排）。同时，提供了基于 Vue.js 的前端集成实例与基于 Python Flask 的后端 Token 校验代码，涵盖了从身份验证到 API 访问控制的完整闭环，适用于快速构建安全的认证体系。
 tags: ["Auth0", "IDaaS", "OAuth2.0", "OIDC", "Security"]
 aliases: ["Auth0 身份验证", "IDaaS 解决方案", "OAuth2.0 云服务"]
 status: completed

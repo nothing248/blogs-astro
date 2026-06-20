@@ -1,7 +1,7 @@
 ---
 title: "Linter"
 filename: obsidian-linter
-summary: Obsidian Linter 是一个用于自动格式化和美化 Obsidian 笔记的插件。它支持配置多种规则，如自动添加元数据、调整空行、统一中英文间距等。目前笔记仅包含官方文档链接。
+description: Obsidian Linter 是一个用于自动格式化和美化 Obsidian 笔记的插件。它支持配置多种规则，如自动添加元数据、调整空行、统一中英文间距等。目前笔记仅包含官方文档链接。
 tags: [Obsidian, Linter, Plugin]
 aliases: [Linter]
 status: pending

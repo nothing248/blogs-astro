@@ -2,7 +2,7 @@
 status: completed
 filename: gcp-eventarc-serverless-event-routing
 title: "Eventarc"
-summary: 本笔记介绍了 Google Cloud Eventarc 这一无服务器 (Serverless) 事件路由与集成平台。详细解析了其底层基于 CloudEvents 标准协议及 Cloud Pub/Sub 实现高可靠异步传输的工作原理。梳理了 Eventarc 将 GCP 原生服务事件及外部审计日志统一路由至目标计算资源（如 Cloud Run, Cloud Functions v2, Workflows 及 GKE）的触发器 (Trigger) 机制，是构建事件驱动架构 (EDA) 的核心组件。
+description: 本笔记介绍了 Google Cloud Eventarc 这一无服务器 (Serverless) 事件路由与集成平台。详细解析了其底层基于 CloudEvents 标准协议及 Cloud Pub/Sub 实现高可靠异步传输的工作原理。梳理了 Eventarc 将 GCP 原生服务事件及外部审计日志统一路由至目标计算资源（如 Cloud Run, Cloud Functions v2, Workflows 及 GKE）的触发器 (Trigger) 机制，是构建事件驱动架构 (EDA) 的核心组件。
 aliases: [Eventarc, GCP 事件总线, CloudEvents, 事件驱动架构]
 tags: [GCP, Eventarc, Serverless, 云原生, 事件驱动, 架构设计, Pub/Sub, Cloud Run]
 date created: 星期三, 十二月 10日 2025, 6:20:42 晚上

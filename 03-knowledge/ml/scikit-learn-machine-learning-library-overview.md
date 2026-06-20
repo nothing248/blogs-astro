@@ -2,7 +2,7 @@
 status: completed
 filename: scikit-learn-machine-learning-library-overview
 title: "sklearn"
-summary: 本笔记记录了 Python 生态中最权威的传统机器学习库 Scikit-learn 的核心定位与体系架构。将其庞杂的功能高度概括为六大基石模块：分类、回归、聚类、降维、模型选择与数据预处理。该库以其极其统一且优雅的 API 设计（fit, transform, predict）成为了数据科学家进行基础基线模型构建、特征工程及交叉验证的事实标准工具。
+description: 本笔记记录了 Python 生态中最权威的传统机器学习库 Scikit-learn 的核心定位与体系架构。将其庞杂的功能高度概括为六大基石模块：分类、回归、聚类、降维、模型选择与数据预处理。该库以其极其统一且优雅的 API 设计（fit, transform, predict）成为了数据科学家进行基础基线模型构建、特征工程及交叉验证的事实标准工具。
 aliases: [sklearn, 机器学习库, Scikit-learn]
 tags: [人工智能, 机器学习, Python, Scikit-learn, 数据挖掘, 算法框架]
 date created: 星期二, 二月 25日 2025, 3:24:13 下午

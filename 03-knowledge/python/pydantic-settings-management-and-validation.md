@@ -2,7 +2,7 @@
 status: completed
 filename: pydantic-settings-management-and-validation
 title: "Pydantic 设置"
-summary: 本笔记提炼了 Python 数据校验库 Pydantic 的高级特性，重点剖析了 `BaseSettings` 模块在应用程序全局配置管理中的卓越表现。详细说明了其从环境变量、`.env` 文件到实例化入参的自动加载机制与优先级覆盖规则。此外，提供了在 Pydantic v2 环境下利用 `SettingsConfigDict` 关联别名以及通过 `model_post_init` 钩子函数实现派生变量（如动态拼接 URL）的实战代码模板，为构建健壮的微服务架构提供基础。
+description: 本笔记提炼了 Python 数据校验库 Pydantic 的高级特性，重点剖析了 `BaseSettings` 模块在应用程序全局配置管理中的卓越表现。详细说明了其从环境变量、`.env` 文件到实例化入参的自动加载机制与优先级覆盖规则。此外，提供了在 Pydantic v2 环境下利用 `SettingsConfigDict` 关联别名以及通过 `model_post_init` 钩子函数实现派生变量（如动态拼接 URL）的实战代码模板，为构建健壮的微服务架构提供基础。
 aliases: [Pydantic 设置, BaseSettings, Python 配置管理, .env 解析]
 tags: [Python, Pydantic, 配置管理, 数据校验, 后端开发, 环境变量]
 date created: 星期一, 十二月 1日 2025, 9:59:20 上午

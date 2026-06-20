@@ -1,7 +1,7 @@
 ---
 title: "WolframAlpha简介"
 filename: wolfram-alpha-computational-engine
-summary: WolframAlpha 是一款由 Wolfram Research 开发的计算知识引擎。与传统的搜索引擎不同，它通过内置的算法、知识库和计算能力直接回答涉及数学、物理、化学、地理等领域的复杂问题。本文记录了其作为科学计算辅助工具的基础定位。
+description: WolframAlpha 是一款由 Wolfram Research 开发的计算知识引擎。与传统的搜索引擎不同，它通过内置的算法、知识库和计算能力直接回答涉及数学、物理、化学、地理等领域的复杂问题。本文记录了其作为科学计算辅助工具的基础定位。
 tags: [math, science, search-engine, computational-knowledge]
 aliases: [WolframAlpha简介]
 status: pending

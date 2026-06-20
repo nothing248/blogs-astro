@@ -1,7 +1,7 @@
 ---
 title: "LDAP概念"
 filename: openldap-basics-and-concepts
-summary: OpenLDAP 是一款开源的轻量级目录访问协议（LDAP）实现。本文阐述了 LDAP 协议与 Microsoft Active Directory (AD) 之间的本质区别，明确了 LDAP 作为底层协议与 AD 作为成熟目录服务产品的关系。同时列举了包括 OpenLDAP、Apache Directory Server 在内的多种开源替代方案，为企业级统一身份认证（SSO）及目录管理提供了理论基础。
+description: OpenLDAP 是一款开源的轻量级目录访问协议（LDAP）实现。本文阐述了 LDAP 协议与 Microsoft Active Directory (AD) 之间的本质区别，明确了 LDAP 作为底层协议与 AD 作为成熟目录服务产品的关系。同时列举了包括 OpenLDAP、Apache Directory Server 在内的多种开源替代方案，为企业级统一身份认证（SSO）及目录管理提供了理论基础。
 tags:
   - openldap
   - ldap

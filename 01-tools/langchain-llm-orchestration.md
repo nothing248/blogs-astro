@@ -1,7 +1,7 @@
 ---
 title: "LangChain入门"
 filename: langchain-llm-orchestration
-summary: LangChain是面向大语言模型（LLM）的编排框架与应用开发工具包。本文阐述了其作为“胶水”层的定位，深入浅出地讲解了Chat models、Prompt、Vector store等基础模块，解析了以LangChain Expression Language (LCEL) 构建声明式链的运行机制与优势。
+description: LangChain是面向大语言模型（LLM）的编排框架与应用开发工具包。本文阐述了其作为“胶水”层的定位，深入浅出地讲解了Chat models、Prompt、Vector store等基础模块，解析了以LangChain Expression Language (LCEL) 构建声明式链的运行机制与优势。
 tags: [langchain, llm-framework, lcel, ai-agents]
 aliases: [LangChain入门, LCEL表达式, 大模型开发]
 status: completed

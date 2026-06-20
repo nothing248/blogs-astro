@@ -1,7 +1,7 @@
 ---
 title: "Oxylabs代理"
 filename: oxylabs-proxy-service-setup
-summary: Oxylabs作为企业级代理和数据采集方案提供商，支持庞大的住宅与数据中心代理。主要用于网页爬虫与地理位置模拟。通过cURL可配置国家代码及账号凭证以进行出口IP测试，返回地理位置、ASN运营商等结构化JSON数据，是企业级高防网络采集的成熟方案。
+description: Oxylabs作为企业级代理和数据采集方案提供商，支持庞大的住宅与数据中心代理。主要用于网页爬虫与地理位置模拟。通过cURL可配置国家代码及账号凭证以进行出口IP测试，返回地理位置、ASN运营商等结构化JSON数据，是企业级高防网络采集的成熟方案。
 tags: [oxylabs, proxy-servers, web-scraping]
 aliases: [Oxylabs代理, 住宅代理, 数据中心代理]
 status: completed

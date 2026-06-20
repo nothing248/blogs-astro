@@ -1,7 +1,7 @@
 ---
 title: "Firebase推送"
 filename: firebase-mobile-app-suite
-summary: Firebase是Google提供的移动端应用开发服务集合。本文系统梳理了其Analytics数据采集与事件上报机制、跨端H5数据桥接原生Android的JS接口设计，以及CloudMessage（FCM）推送的底层架构与后台运行机制。适用于需要在App中集成跨平台埋点和消息推送的技术团队。
+description: Firebase是Google提供的移动端应用开发服务集合。本文系统梳理了其Analytics数据采集与事件上报机制、跨端H5数据桥接原生Android的JS接口设计，以及CloudMessage（FCM）推送的底层架构与后台运行机制。适用于需要在App中集成跨平台埋点和消息推送的技术团队。
 tags: [firebase, analytics, cloud-messaging, h5-bridge]
 aliases: [Firebase推送, GA4分析, FCM集成]
 status: completed

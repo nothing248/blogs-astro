@@ -1,7 +1,7 @@
 ---
 title: "Jenkins安装与配置"
 filename: jenkins-ci-cd-installation-config
-summary: Jenkins 是一款广泛使用的开源自动化服务器。本文介绍了在 Ubuntu 环境下的两种安装方式（裸机与 Docker 预留），详述了环境变量（JAVA_HOME/PORT）配置、中文语言包安装及服务管理。重点总结了邮件通知的高频报错（端口/验证/SSL）及节点配置中 RSA-PEM 格式证书的要求，并明确了 Jenkins 对 JDK 11 的版本支持限制。
+description: Jenkins 是一款广泛使用的开源自动化服务器。本文介绍了在 Ubuntu 环境下的两种安装方式（裸机与 Docker 预留），详述了环境变量（JAVA_HOME/PORT）配置、中文语言包安装及服务管理。重点总结了邮件通知的高频报错（端口/验证/SSL）及节点配置中 RSA-PEM 格式证书的要求，并明确了 Jenkins 对 JDK 11 的版本支持限制。
 tags: [jenkins, ci-cd, automation, dev-ops, server-admin]
 aliases: [Jenkins安装与配置]
 status: completed

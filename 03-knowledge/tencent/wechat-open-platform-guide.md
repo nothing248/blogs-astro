@@ -1,7 +1,7 @@
 ---
 title: "微信开放平台概述"
 filename: wechat-open-platform-guide
-summary: 微信开放平台的技术概述。内容涵盖平台定义、核心能力（包括 App/Web 微信登录、微信分享、微信支付以及小程序与 App 的双向互通），并梳理了开发者账号注册、主体认证资质以及 AppID/AppSecret 等安全凭证的获取与安全开发规范。
+description: 微信开放平台的技术概述。内容涵盖平台定义、核心能力（包括 App/Web 微信登录、微信分享、微信支付以及小程序与 App 的双向互通），并梳理了开发者账号注册、主体认证资质以及 AppID/AppSecret 等安全凭证的获取与安全开发规范。
 tags:
   - tengxun
   - wechat

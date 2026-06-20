@@ -2,7 +2,7 @@
 status: completed
 filename: nodejs-package-managers-comparison-npm-vs-yarn
 title: "npm 与 Yarn 对比"
-summary: 本笔记简要对比了 Node.js 生态中两大核心包管理器 npm 与 Yarn 的特性差异。从安装模式、锁文件机制（package-lock.json vs yarn.lock）、依赖提升及工作区（Workspace）支持等维度进行了横向评测，并附带了日常开发中最常用的安装、更新与卸载命令速查表。
+description: 本笔记简要对比了 Node.js 生态中两大核心包管理器 npm 与 Yarn 的特性差异。从安装模式、锁文件机制（package-lock.json vs yarn.lock）、依赖提升及工作区（Workspace）支持等维度进行了横向评测，并附带了日常开发中最常用的安装、更新与卸载命令速查表。
 aliases: [npm 与 Yarn 对比, Node 包管理, npm 常用命令]
 tags: [Node.js, npm, Yarn, 前端工程化, 包管理器]
 date created: 星期一, 十二月 1日 2025, 9:59:26 上午

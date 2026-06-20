@@ -1,7 +1,7 @@
 ---
 title: "Rsync安装与使用"
 filename: rsync-setup-and-usage
-summary: Linux 下 Rsync 与 Sersync 实时文件同步解决方案。详述了 Rsync 本地与远程（SSH、Daemon模式）传输指令与参数。提供了 A 主机（运行 Sersync 监控文件变更）向 B 主机（运行 Rsyncd 守护进程）实时推送文件的配置方案，包括 Rsyncd 配置、密码文件安全管理、Sersync XML 配置、自动守护进程检测脚本及 Crontab 定时调度。
+description: Linux 下 Rsync 与 Sersync 实时文件同步解决方案。详述了 Rsync 本地与远程（SSH、Daemon模式）传输指令与参数。提供了 A 主机（运行 Sersync 监控文件变更）向 B 主机（运行 Rsyncd 守护进程）实时推送文件的配置方案，包括 Rsyncd 配置、密码文件安全管理、Sersync XML 配置、自动守护进程检测脚本及 Crontab 定时调度。
 tags:
   - rsync
   - sersync

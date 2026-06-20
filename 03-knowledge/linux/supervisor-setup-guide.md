@@ -1,7 +1,7 @@
 ---
 title: "Supervisor进程管理"
 filename: supervisor-setup-guide
-summary: Supervisor 进程守护管理工具的安装与配置指南。Supervisor 是基于 Python 研发的进程管理程序。本指南涵盖 CentOS 与 pip 安装手段，详细解析了 supervisord.conf 配置参数（含 Unix/HTTP socket、日志轮转、web管理与子配置文件包含），重点阐释了 [program:xx] 进程守护模块的启动参数定义，并汇总了 supervisorctl 的常用运维管理指令。
+description: Supervisor 进程守护管理工具的安装与配置指南。Supervisor 是基于 Python 研发的进程管理程序。本指南涵盖 CentOS 与 pip 安装手段，详细解析了 supervisord.conf 配置参数（含 Unix/HTTP socket、日志轮转、web管理与子配置文件包含），重点阐释了 [program:xx] 进程守护模块的启动参数定义，并汇总了 supervisorctl 的常用运维管理指令。
 tags:
   - supervisor
   - process-manager

@@ -1,7 +1,7 @@
 ---
 title: "Prompt模版"
 filename: prompt-engineering-frameworks
-summary: 介绍提示词工程（Prompt Engineering）的核心方法，重点详解万能提示词框架、RTF（Role-Task-Format）框架和 CRISPE（Capacity-Receipt-Instructions-Scope-Post-processing-Examples）框架。对比两者的适用场景，展示了如何通过限定角色、背景、边界范围及后处理控制等维度，提高大语言模型在多场景任务下的输出质量与逻辑稳定性。
+description: 介绍提示词工程（Prompt Engineering）的核心方法，重点详解万能提示词框架、RTF（Role-Task-Format）框架和 CRISPE（Capacity-Receipt-Instructions-Scope-Post-processing-Examples）框架。对比两者的适用场景，展示了如何通过限定角色、背景、边界范围及后处理控制等维度，提高大语言模型在多场景任务下的输出质量与逻辑稳定性。
 tags:
   - 提示词工程
   - RTF框架

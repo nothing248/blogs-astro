@@ -1,7 +1,7 @@
 ---
 title: "SingBox配置"
 filename: sing-box-universal-proxy-client
-summary: sing-box是新一代高性能通用代理软件与核心网络工具。本文涵盖sing-box在Ubuntu环境下的安装，提供一份包含日志等级控制、出站规则路由、安全DNS分流等基础配置信息的JSON配置模版，帮助用户理解和实现自定义智能路由及复杂的网络流量转发。
+description: sing-box是新一代高性能通用代理软件与核心网络工具。本文涵盖sing-box在Ubuntu环境下的安装，提供一份包含日志等级控制、出站规则路由、安全DNS分流等基础配置信息的JSON配置模版，帮助用户理解和实现自定义智能路由及复杂的网络流量转发。
 tags: [sing-box, universal-proxy, dns-routing, network-infrastructure]
 aliases: [SingBox配置, 新型代理软件, 出站路由分流]
 status: completed

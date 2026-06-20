@@ -1,7 +1,7 @@
 ---
 title: "Docsify文档"
 filename: docsify-lightweight-document-system
-summary: Docsify是一款无需构建、直接在浏览器端解析Markdown的轻量级文档系统。本文详解通过NPM全局安装docsify-cli、项目初始化、_sidebar.md多级侧边栏路由以及嵌套目录README匹配逻辑，并分享了搜索插件、多主题样式及代码高亮插件的配置实践。
+description: Docsify是一款无需构建、直接在浏览器端解析Markdown的轻量级文档系统。本文详解通过NPM全局安装docsify-cli、项目初始化、_sidebar.md多级侧边栏路由以及嵌套目录README匹配逻辑，并分享了搜索插件、多主题样式及代码高亮插件的配置实践。
 tags: [docsify, markdown, static-site, documentation]
 aliases: [Docsify文档, 侧边栏配置, 静态站点生成]
 status: completed

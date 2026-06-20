@@ -1,7 +1,7 @@
 ---
 title: "Google优化工具"
 filename: google-optimize-ab-testing-tool
-summary: Google Optimize 是一款由 Google 推出的 Web 端 A/B 测试与个性化工具，允许开发者在无需修改核心代码的情况下优化网站转化率。本文简要介绍了其核心功能。需要注意的是，Google Optimize 已于 2023 年 9 月正式停用，建议用户转向 Google Analytics 4 (GA4) 推荐的第三方替代方案。
+description: Google Optimize 是一款由 Google 推出的 Web 端 A/B 测试与个性化工具，允许开发者在无需修改核心代码的情况下优化网站转化率。本文简要介绍了其核心功能。需要注意的是，Google Optimize 已于 2023 年 9 月正式停用，建议用户转向 Google Analytics 4 (GA4) 推荐的第三方替代方案。
 tags:
   - google-optimize
   - ab-testing

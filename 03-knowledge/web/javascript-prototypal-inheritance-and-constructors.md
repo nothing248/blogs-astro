@@ -2,7 +2,7 @@
 status: completed
 filename: javascript-prototypal-inheritance-and-constructors
 title: "JS 原型链"
-summary: 本笔记深入剖析了 JavaScript (ES6 `class` 语法糖出现之前) 的原生面向对象机制。详细解释了基于构造函数 (Constructor) 实例化对象背后的 `new` 关键字执行四部曲。重点拆解了 JavaScript 最核心的继承基石——原型链 (Prototype Chain)。理清了实例对象的隐式原型 `__proto__`、构造函数的显式原型 `prototype` 以及指示器 `constructor` 三者之间的三角指向关系，是攻克 JS 高级编程与面试的核心理论知识。
+description: 本笔记深入剖析了 JavaScript (ES6 `class` 语法糖出现之前) 的原生面向对象机制。详细解释了基于构造函数 (Constructor) 实例化对象背后的 `new` 关键字执行四部曲。重点拆解了 JavaScript 最核心的继承基石——原型链 (Prototype Chain)。理清了实例对象的隐式原型 `__proto__`、构造函数的显式原型 `prototype` 以及指示器 `constructor` 三者之间的三角指向关系，是攻克 JS 高级编程与面试的核心理论知识。
 aliases: [JS 原型链, 原型对象, 构造函数, __proto__ 与 prototype]
 tags: [JavaScript, 前端开发, 面向对象, 原型链, 编程基础]
 date created: 星期二, 二月 25日 2025, 3:24:22 下午

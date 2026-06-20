@@ -1,7 +1,7 @@
 ---
 title: "SFTPGo配置指南"
 filename: sftpgo-file-transfer-setup
-summary: SFTPGo 是一款高性能、事件驱动的全能文件传输服务器。它支持 SFTP、FTP/S、HTTP/S 及 WebDAV 协议，并兼容本地文件系统、S3 及 Azure 等多种存储后端。本文详细介绍了在 Ubuntu 和 CentOS 上的安装流程、基于 SQLite 的核心配置，以及多用户管理与目录权限的初始化步骤。
+description: SFTPGo 是一款高性能、事件驱动的全能文件传输服务器。它支持 SFTP、FTP/S、HTTP/S 及 WebDAV 协议，并兼容本地文件系统、S3 及 Azure 等多种存储后端。本文详细介绍了在 Ubuntu 和 CentOS 上的安装流程、基于 SQLite 的核心配置，以及多用户管理与目录权限的初始化步骤。
 tags: [sftp, file-transfer, server-admin, storage]
 aliases: [SFTPGo配置指南]
 status: completed

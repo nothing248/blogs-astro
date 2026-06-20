@@ -1,7 +1,7 @@
 ---
 title: "python-pptx使用手册"
 filename: python-pptx-usage-guide
-summary: Python python-pptx 库操纵 PowerPoint 文档指南。系统解析了 Presentation、Slide、Shape 和 Run 的层级对象模型。针对文本框（清除填充、字号样式）、图片（Cm/Emu单位定位插入、批量删除防错乱）、表格单元格以及柱状/条形图表数据替换与颜色填充，提供了完整的 Python 封装类方法及避坑经验。
+description: Python python-pptx 库操纵 PowerPoint 文档指南。系统解析了 Presentation、Slide、Shape 和 Run 的层级对象模型。针对文本框（清除填充、字号样式）、图片（Cm/Emu单位定位插入、批量删除防错乱）、表格单元格以及柱状/条形图表数据替换与颜色填充，提供了完整的 Python 封装类方法及避坑经验。
 tags:
   - python-pptx
   - ppt-generation

@@ -1,7 +1,7 @@
 ---
 title: "OpenShift简介"
 filename: openshift-vs-kubernetes-comparison
-summary: OpenShift 是由 Red Hat 开发的企业级 Kubernetes 发行版。本文对比了 OpenShift 与原生 Kubernetes (K8s) 的核心差异，重点介绍了 OpenShift 在多租户支持、集成身份认证、监控日志以及 CI/CD 工具链方面的优势。旨在帮助企业在基础编排与完整应用平台之间做出决策，并提供了开源社区版本 OKD 的参考。
+description: OpenShift 是由 Red Hat 开发的企业级 Kubernetes 发行版。本文对比了 OpenShift 与原生 Kubernetes (K8s) 的核心差异，重点介绍了 OpenShift 在多租户支持、集成身份认证、监控日志以及 CI/CD 工具链方面的优势。旨在帮助企业在基础编排与完整应用平台之间做出决策，并提供了开源社区版本 OKD 的参考。
 tags: [openshift, kubernetes, cloud-native, container-orchestration, redhat]
 aliases: [OpenShift简介, K8s与OpenShift区别, 企业级容器平台]
 status: completed

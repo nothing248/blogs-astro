@@ -1,7 +1,7 @@
 ---
 title: "MQ选型对比"
 filename: message-queues-guide
-summary: 梳理 Kafka、RabbitMQ、RocketMQ 及 Redis 等主流消息队列的核心优势与适用场景。深入对比三者的设计观念、消息模型、吞吐延迟、顺序和事务消息支持等维度。解析了“主动拉取（Pull）”与“被动接受（Push）”两种消费模式的流控机制、延迟表现及资源占用，并提供了系统级选型指南。
+description: 梳理 Kafka、RabbitMQ、RocketMQ 及 Redis 等主流消息队列的核心优势与适用场景。深入对比三者的设计观念、消息模型、吞吐延迟、顺序和事务消息支持等维度。解析了“主动拉取（Pull）”与“被动接受（Push）”两种消费模式的流控机制、延迟表现及资源占用，并提供了系统级选型指南。
 tags:
   - 消息队列
   - 消费模型

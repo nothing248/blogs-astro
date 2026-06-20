@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw代理"
 filename: openclaw-agent-guide
-summary: OpenClaw 是一款私有的 AI Agent 代理工具，旨在提供安全、可控的智能体管理环境。本文介绍了 OpenClaw 的核心管理命令，包括网关的启动与停止、状态查询及初次配置引导（onboard）。同时指出了关键配置文件的位置及如何获取 Control UI 所需的认证 Token。
+description: OpenClaw 是一款私有的 AI Agent 代理工具，旨在提供安全、可控的智能体管理环境。本文介绍了 OpenClaw 的核心管理命令，包括网关的启动与停止、状态查询及初次配置引导（onboard）。同时指出了关键配置文件的位置及如何获取 Control UI 所需的认证 Token。
 tags: [openclaw, ai-agent, proxy, self-hosted, automation]
 aliases: [OpenClaw代理, AI代理配置]
 status: completed

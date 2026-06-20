@@ -2,7 +2,7 @@
 status: completed
 filename: pyenv-python-version-management-tool
 title: "Pyenv 安装"
-summary: 本笔记总结了用于隔离与管理多版本 Python 解释器的开源工具 pyenv。详细记录了其在 Linux 和 Windows 环境下的 Git 源码克隆安装及环境变量注入方法。重点梳理了 `pyenv install`、`versions` 等高频命令，并提供了应对缺少 C 编译器 (Development Tools) 及 OpenSSL/zlib 等底层依赖导致的安装编译报错的完整前置解决方案，是本地开发环境基建的必备字典。
+description: 本笔记总结了用于隔离与管理多版本 Python 解释器的开源工具 pyenv。详细记录了其在 Linux 和 Windows 环境下的 Git 源码克隆安装及环境变量注入方法。重点梳理了 `pyenv install`、`versions` 等高频命令，并提供了应对缺少 C 编译器 (Development Tools) 及 OpenSSL/zlib 等底层依赖导致的安装编译报错的完整前置解决方案，是本地开发环境基建的必备字典。
 aliases: [Pyenv 安装, Python 版本管理, pyenv 报错修复]
 tags: [Python, 环境配置, pyenv, 运维部署, 依赖管理, 编译排障]
 date created: 星期一, 九月 22日 2025, 5:12:49 下午

@@ -2,7 +2,7 @@
 status: completed
 filename: linux-privilege-escalation-su-vs-sudo
 title: "Linux 提权"
-summary: 本笔记系统剖析了 Linux 环境下两大提权管理工具 `su` 与 `sudo` 的底层工作机制差异。详细对比了 `su root` 与 `su - root` 在是否重新初始化登录 Shell 环境变量时的表现；深度挖掘了 `sudo` 的进阶参数（`-s` 维持当前环境 vs `-i` 启动隔离新环境），为解决自动化部署中因环境变量缺失导致的执行错误（如 "command not found"）提供了底层排障依据。
+description: 本笔记系统剖析了 Linux 环境下两大提权管理工具 `su` 与 `sudo` 的底层工作机制差异。详细对比了 `su root` 与 `su - root` 在是否重新初始化登录 Shell 环境变量时的表现；深度挖掘了 `sudo` 的进阶参数（`-s` 维持当前环境 vs `-i` 启动隔离新环境），为解决自动化部署中因环境变量缺失导致的执行错误（如 "command not found"）提供了底层排障依据。
 aliases: [Linux 提权, su 与 sudo 区别, sudo -i]
 tags: [Linux, 系统运维, 安全权限, sudo, Shell, 环境变量]
 date created: 星期二, 二月 25日 2025, 3:23:55 下午

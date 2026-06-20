@@ -1,7 +1,7 @@
 ---
 title: "PDFObject预览库"
 filename: web-pdfobject-embed
-summary: Web 端嵌入 PDF 预览的开源 JavaScript 库 PDFObject 实用指南。内容包括通过静态 HTML 容器承载 PDF，以及使用 PDFObject.embed() 动态生成并挂载 embed 标签的关键代码。此外，针对不支持 PDF 内嵌的移动端浏览器，提供了降级处理与 PDF.js 整合的建议方案。
+description: Web 端嵌入 PDF 预览的开源 JavaScript 库 PDFObject 实用指南。内容包括通过静态 HTML 容器承载 PDF，以及使用 PDFObject.embed() 动态生成并挂载 embed 标签的关键代码。此外，针对不支持 PDF 内嵌的移动端浏览器，提供了降级处理与 PDF.js 整合的建议方案。
 tags:
   - web
   - pdf

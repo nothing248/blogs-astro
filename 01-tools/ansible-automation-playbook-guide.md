@@ -1,7 +1,7 @@
 ---
 title: "Ansible安装配置"
 filename: ansible-automation-playbook-guide
-summary: Ansible 是一款基于 Python 的无代理（Agentless）自动化运维与配置管理工具。本笔记全面汇总了 Ansible 主从节点的安装授权、Inventory 主机清单（别名与整组变量）及配置文件读取机制，详述了 Adhoc 临时命令与 Playbooks 的实战语法。涵盖了软件安装、用户与目录管理、系统服务配置、文件多方式修改、磁盘分区挂载、调试与条件循环等核心任务，并提供了图形化管理面板 Ansible Semaphore 的 Systemd 定时配置方案。
+description: Ansible 是一款基于 Python 的无代理（Agentless）自动化运维与配置管理工具。本笔记全面汇总了 Ansible 主从节点的安装授权、Inventory 主机清单（别名与整组变量）及配置文件读取机制，详述了 Adhoc 临时命令与 Playbooks 的实战语法。涵盖了软件安装、用户与目录管理、系统服务配置、文件多方式修改、磁盘分区挂载、调试与条件循环等核心任务，并提供了图形化管理面板 Ansible Semaphore 的 Systemd 定时配置方案。
 tags: ["Ansible", "Playbook", "Automation-Ops", "Linux-Sysadmin", "Semaphore"]
 aliases: ["Ansible安装配置", "Ansible剧本实战", "Semaphore部署"]
 status: completed

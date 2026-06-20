@@ -1,7 +1,7 @@
 ---
 title: "常用网址汇总"
 filename: awesome-web-tools-collection
-summary: 本笔记整理了一系列提升开发与办公效率的在线工具及软件。涵盖了 Emoji 查询、GitHub 历史查看与星标趋势分析、数据库排行（DB-Engines）、网络测速、Logo 制作、Markdown 转公众号格式（Doocs）、SEO 审计、CSS 内联转换（Juice）及邮件编辑测试等。此外还包含 Typora、PicGo 等常用效率软件，以及 JetBrains 激活、Redis 客户端等实用工具的下载与参考地址。
+description: 本笔记整理了一系列提升开发与办公效率的在线工具及软件。涵盖了 Emoji 查询、GitHub 历史查看与星标趋势分析、数据库排行（DB-Engines）、网络测速、Logo 制作、Markdown 转公众号格式（Doocs）、SEO 审计、CSS 内联转换（Juice）及邮件编辑测试等。此外还包含 Typora、PicGo 等常用效率软件，以及 JetBrains 激活、Redis 客户端等实用工具的下载与参考地址。
 tags: ["Tools", "Productivity", "Web-Apps", "GitHub", "SEO"]
 aliases: ["常用网址汇总", "效率工具集", "前端开发工具"]
 status: completed

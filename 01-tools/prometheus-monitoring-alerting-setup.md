@@ -1,7 +1,7 @@
 ---
 title: "Prometheus部署"
 filename: prometheus-monitoring-alerting-setup
-summary: Prometheus是主流的开源时间序列监控告警系统。本文对其四大核心组件（Prometheus Server、客户端库、Pushgateway、Exporters）的作用进行了拆解。给出了基于Docker Compose配置时序库及编写服务发现、静态抓取目标和监控指标暴露的实践指南。
+description: Prometheus是主流的开源时间序列监控告警系统。本文对其四大核心组件（Prometheus Server、客户端库、Pushgateway、Exporters）的作用进行了拆解。给出了基于Docker Compose配置时序库及编写服务发现、静态抓取目标和监控指标暴露的实践指南。
 tags: [prometheus, monitoring, time-series-database, devops]
 aliases: [Prometheus部署, 时序监控, 指标抓取配置]
 status: completed

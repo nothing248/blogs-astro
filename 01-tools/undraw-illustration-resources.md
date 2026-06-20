@@ -1,7 +1,7 @@
 ---
 title: "unDraw插画库"
 filename: undraw-illustration-resources
-summary: unDraw 是一个提供高品质、开源且完全免费的扁平化风格插图素材库。它的一大特色是支持实时自定义品牌色，使插图能完美融入网页或 PPT 的视觉设计。本文提供了其官方链接，是提升 UI 设计感和演示文稿质量的实用资源。
+description: unDraw 是一个提供高品质、开源且完全免费的扁平化风格插图素材库。它的一大特色是支持实时自定义品牌色，使插图能完美融入网页或 PPT 的视觉设计。本文提供了其官方链接，是提升 UI 设计感和演示文稿质量的实用资源。
 tags: [design, illustration, resources, open-source]
 aliases: [unDraw插画库]
 status: completed

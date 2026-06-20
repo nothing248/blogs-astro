@@ -1,7 +1,7 @@
 ---
 title: "禅道安装教程"
 filename: zentao-pms-installation-guide
-summary: 禅道（ZenTao）是一款专为敏捷开发团队设计的全生命周期项目管理软件。本文详细记录了在 Ubuntu 环境下基于 PHP 7.4 + Nginx + MySQL 的裸机安装步骤。内容涵盖了 FastCGI 接口配置、SSL 证书集成以及包含产品、项目、测试等核心模块的组织架构初始化建议，是企业内部构建研发协同系统的参考指南。
+description: 禅道（ZenTao）是一款专为敏捷开发团队设计的全生命周期项目管理软件。本文详细记录了在 Ubuntu 环境下基于 PHP 7.4 + Nginx + MySQL 的裸机安装步骤。内容涵盖了 FastCGI 接口配置、SSL 证书集成以及包含产品、项目、测试等核心模块的组织架构初始化建议，是企业内部构建研发协同系统的参考指南。
 tags: [project-management, agile, zentao, php, server-admin]
 aliases: [禅道安装教程]
 status: completed

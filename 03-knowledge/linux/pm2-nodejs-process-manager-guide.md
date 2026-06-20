@@ -2,7 +2,7 @@
 status: completed
 filename: pm2-nodejs-process-manager-guide
 title: "PM2"
-summary: 本笔记总结了 Node.js 生产环境标准的进程管理工具 PM2 的核心用法。涵盖了从基础的启动、监控（logs/list）、状态持久化（save/resurrect）到配置系统级开机自启（startup）的常用指令。重点提供了使用 `ecosystem.config.js` 配置文件进行应用声明式管控的模板代码，为实现 Node 服务的高可用守护与多实例集群部署 (Cluster Mode) 提供运维速查字典。
+description: 本笔记总结了 Node.js 生产环境标准的进程管理工具 PM2 的核心用法。涵盖了从基础的启动、监控（logs/list）、状态持久化（save/resurrect）到配置系统级开机自启（startup）的常用指令。重点提供了使用 `ecosystem.config.js` 配置文件进行应用声明式管控的模板代码，为实现 Node 服务的高可用守护与多实例集群部署 (Cluster Mode) 提供运维速查字典。
 aliases: [PM2, Node 进程管理, ecosystem 配置]
 tags: [Node.js, 运维部署, PM2, 进程管理, 守护进程, 前端工程化]
 date created: 星期一, 五月 19日 2025, 2:05:22 下午

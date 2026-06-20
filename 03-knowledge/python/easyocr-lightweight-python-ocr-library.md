@@ -2,7 +2,7 @@
 status: completed
 filename: easyocr-lightweight-python-ocr-library
 title: "EasyOCR 教程"
-summary: 本笔记记录了开源轻量级图像光学字符识别库 EasyOCR 的基础调用方法。该库不仅支持包含简体中文在内的数十种多语言识别，且 API 封装极为精简。提供了一次性将预训练深度学习模型载入内存，并对指定图像执行文本抽取（readtext）的 Python 实战代码，适合用于搭建敏捷的文档扫描与图像文字解析通道。
+description: 本笔记记录了开源轻量级图像光学字符识别库 EasyOCR 的基础调用方法。该库不仅支持包含简体中文在内的数十种多语言识别，且 API 封装极为精简。提供了一次性将预训练深度学习模型载入内存，并对指定图像执行文本抽取（readtext）的 Python 实战代码，适合用于搭建敏捷的文档扫描与图像文字解析通道。
 aliases: [EasyOCR 教程, Python OCR, 图像识别, 文本提取]
 tags: [Python, 计算机视觉, OCR, 图像处理, 人工智能]
 date created: 星期二, 二月 25日 2025, 3:23:56 下午

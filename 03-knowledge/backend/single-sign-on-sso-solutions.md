@@ -1,7 +1,7 @@
 ---
 title: "SSO单点登录"
 filename: single-sign-on-sso-solutions
-summary: 系统化梳理单点登录（SSO）的七种主流技术方案，包括基于 Session、Token、OAuth2.0、SAML、CAS、JWT 和 Redis 共享的实现机制、技术架构及工作流程。分析了各方案在同域/跨域、有状态/无状态及安全性方面的优缺点，并总结了通用安全措施和针对不同系统规模与业务场景下的 SSO 选型建议。
+description: 系统化梳理单点登录（SSO）的七种主流技术方案，包括基于 Session、Token、OAuth2.0、SAML、CAS、JWT 和 Redis 共享的实现机制、技术架构及工作流程。分析了各方案在同域/跨域、有状态/无状态及安全性方面的优缺点，并总结了通用安全措施和针对不同系统规模与业务场景下的 SSO 选型建议。
 tags:
   - 单点登录
   - 身份认证

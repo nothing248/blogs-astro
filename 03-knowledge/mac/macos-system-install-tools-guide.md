@@ -1,7 +1,7 @@
 ---
 title: "macOS系统管理"
 filename: macos-system-install-tools-guide
-summary: macOS 系统升级与指定开发工具安装的实用配置指南。解决用户仅需升级指定 macOS 版本而非最新版的问题，以及如何离线/命令行安装 Xcode Command Line Tools 与 Homebrew。核心步骤包括利用 Apple 官方技术支持检索下载特定 OS、通过终端指令部署基础开发工具链，以及配置国内加速镜像源。
+description: macOS 系统升级与指定开发工具安装的实用配置指南。解决用户仅需升级指定 macOS 版本而非最新版的问题，以及如何离线/命令行安装 Xcode Command Line Tools 与 Homebrew。核心步骤包括利用 Apple 官方技术支持检索下载特定 OS、通过终端指令部署基础开发工具链，以及配置国内加速镜像源。
 tags:
   - macos
   - system-install

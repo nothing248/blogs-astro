@@ -1,7 +1,7 @@
 ---
 title: "Gulp教程"
 filename: gulp-automation-build-tool
-summary: Gulp 自动化构建工具的配置与核心概念指南。主要解决前端开发中重复性劳动（如 Sass/Less 编译、JS 与 CSS 压缩混淆、图片优化及自动刷新）的自动化工作流构建。阐述了私有/公有任务机制、串行/并行组合方式以及基于 Node.js 数据流（Stream）的文件管道处理，并提供了主流插件的配置示例。
+description: Gulp 自动化构建工具的配置与核心概念指南。主要解决前端开发中重复性劳动（如 Sass/Less 编译、JS 与 CSS 压缩混淆、图片优化及自动刷新）的自动化工作流构建。阐述了私有/公有任务机制、串行/并行组合方式以及基于 Node.js 数据流（Stream）的文件管道处理，并提供了主流插件的配置示例。
 tags:
   - gulp
   - build-tools

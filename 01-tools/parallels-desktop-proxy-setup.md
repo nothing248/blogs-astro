@@ -1,7 +1,7 @@
 ---
 title: "Parallels代理配置"
 filename: parallels-desktop-proxy-setup
-summary: Parallels Desktop 是一款专为 Mac 用户设计的虚拟机软件，支持流畅运行 Windows、Linux 等操作系统。本文聚焦于一个核心实战技巧：如何让虚拟机中的 Windows 系统通过宿主机 Mac 的代理软件联网。涵盖了网络模式切换（桥接 WIFI）以及局域网代理的具体配置步骤，适用于需要在虚拟机中进行科学上网或访问内网资源的场景。
+description: Parallels Desktop 是一款专为 Mac 用户设计的虚拟机软件，支持流畅运行 Windows、Linux 等操作系统。本文聚焦于一个核心实战技巧：如何让虚拟机中的 Windows 系统通过宿主机 Mac 的代理软件联网。涵盖了网络模式切换（桥接 WIFI）以及局域网代理的具体配置步骤，适用于需要在虚拟机中进行科学上网或访问内网资源的场景。
 tags: [parallels-desktop, virtualization, macos, networking, windows]
 aliases: [Parallels代理配置, Mac虚拟机联网]
 status: completed

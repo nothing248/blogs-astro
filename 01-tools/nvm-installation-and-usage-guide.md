@@ -1,7 +1,7 @@
 ---
 title: "Node版本管理"
 filename: nvm-installation-and-usage-guide
-summary: NVM (Node Version Manager) 是管理 Node.js 版本的必备工具。本文涵盖了 Windows、macOS 及 Linux 环境下的安装方法，特别是针对 Linux 环境下的全局安装策略进行了详细说明。同时整理了 NVM 的常用命令（如版本切换、LTS 安装）以及解决 npm 缺失问题的实战方案，并介绍了如何在 WebStorm 中关联 NVM 管理的 Node 环境。
+description: NVM (Node Version Manager) 是管理 Node.js 版本的必备工具。本文涵盖了 Windows、macOS 及 Linux 环境下的安装方法，特别是针对 Linux 环境下的全局安装策略进行了详细说明。同时整理了 NVM 的常用命令（如版本切换、LTS 安装）以及解决 npm 缺失问题的实战方案，并介绍了如何在 WebStorm 中关联 NVM 管理的 Node 环境。
 tags: [nvm, nodejs, javascript, development-tools, linux-admin]
 aliases: [Node版本管理, NVM安装教程]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "Mihomo安装"
 filename: mihomo-clash-meta-configuration
-summary: Mihomo（前身Clash Meta）是内核级开源代理客户端。本文整理了Mihomo在Linux环境下的安装源与配套Web管理界面（如metacubexd、yacd）的对接方式，并提供了包含策略组锚点定义、节点过滤器映射、自定义规则集等核心字段的详细配置文件范本。
+description: Mihomo（前身Clash Meta）是内核级开源代理客户端。本文整理了Mihomo在Linux环境下的安装源与配套Web管理界面（如metacubexd、yacd）的对接方式，并提供了包含策略组锚点定义、节点过滤器映射、自定义规则集等核心字段的详细配置文件范本。
 tags:
   - mihomo
   - clash-meta

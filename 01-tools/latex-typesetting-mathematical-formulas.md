@@ -1,7 +1,7 @@
 ---
 title: "LaTeX公式"
 filename: latex-typesetting-mathematical-formulas
-summary: LaTeX是一种高质量的专业排版系统，在学术论文与数学公式排版中被广泛应用。本文归纳了LaTeX的基础渲染语法（包含行内公式与块公式）、常见希腊字母及子集运算符标识符、复杂矩阵与方程式排版声明，为撰写科学文档提供高查阅价值的语法速查字典。
+description: LaTeX是一种高质量的专业排版系统，在学术论文与数学公式排版中被广泛应用。本文归纳了LaTeX的基础渲染语法（包含行内公式与块公式）、常见希腊字母及子集运算符标识符、复杂矩阵与方程式排版声明，为撰写科学文档提供高查阅价值的语法速查字典。
 tags: [latex, typesetting, mathematical-notation, academic-writing]
 aliases: [LaTeX公式, LaTeX语法, 数学公式排版]
 status: completed

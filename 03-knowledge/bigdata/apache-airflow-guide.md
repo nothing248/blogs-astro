@@ -1,7 +1,7 @@
 ---
 title: "Apache Airflow教程"
 filename: apache-airflow-guide
-summary: 介绍 Apache Airflow 工作流调度平台在本地环境下的安装与配置，提供使用 uv 编译安装、配置 PostgreSQL 数据库持久化及初始化管理员角色的完整步骤。同时，系统整理了 Airflow 最常见的算子（Core、DB/Warehouse、Transfer、Sensors 和云原生 K8s/Docker 算子）的使用场景与技术优势。
+description: 介绍 Apache Airflow 工作流调度平台在本地环境下的安装与配置，提供使用 uv 编译安装、配置 PostgreSQL 数据库持久化及初始化管理员角色的完整步骤。同时，系统整理了 Airflow 最常见的算子（Core、DB/Warehouse、Transfer、Sensors 和云原生 K8s/Docker 算子）的使用场景与技术优势。
 tags:
   - Airflow
   - 工作流调度

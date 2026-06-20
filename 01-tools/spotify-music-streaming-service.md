@@ -1,7 +1,7 @@
 ---
 title: "Spotify简介"
 filename: spotify-music-streaming-service
-summary: Spotify 是全球领先的流媒体音乐平台，利用 P2P 协议实现高效的音频分发。本文简要说明了其使用时对代理及地域选择的要求，并提供了官方链接。它是获取高品质正版音频、播客及个性化乐评的综合性娱乐平台。
+description: Spotify 是全球领先的流媒体音乐平台，利用 P2P 协议实现高效的音频分发。本文简要说明了其使用时对代理及地域选择的要求，并提供了官方链接。它是获取高品质正版音频、播客及个性化乐评的综合性娱乐平台。
 tags:
   - music
   - streaming

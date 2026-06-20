@@ -1,7 +1,7 @@
 ---
 title: "Rclone配置"
 filename: rclone-cloud-storage-swiss-knife
-summary: Rclone是支持同步与挂载超70种云存储的命令行工具。本文介绍了在主机上通过Homebrew安装与配置rclone的方法，包括使用rclone config引导配置以及以rclone mount将网盘挂载到本地目录的实战参数，解决了多云环境下的统一备份和文件跨平台同步难题。
+description: Rclone是支持同步与挂载超70种云存储的命令行工具。本文介绍了在主机上通过Homebrew安装与配置rclone的方法，包括使用rclone config引导配置以及以rclone mount将网盘挂载到本地目录的实战参数，解决了多云环境下的统一备份和文件跨平台同步难题。
 tags: [rclone, cloud-storage, backup-automation, mount-disk]
 aliases: [Rclone配置, 挂载网盘, 数据云同步]
 status: completed

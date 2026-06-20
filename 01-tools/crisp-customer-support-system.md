@@ -1,7 +1,7 @@
 ---
 title: "Crisp客服系统"
 filename: crisp-customer-support-system
-summary: Crisp 是一款免费的在线客服系统，支持多渠道沟通。本笔记目前仅包含基本简介，详细的集成与配置方法有待完善。
+description: Crisp 是一款免费的在线客服系统，支持多渠道沟通。本笔记目前仅包含基本简介，详细的集成与配置方法有待完善。
 tags: ["Crisp", "Customer-Support", "SaaS", "Live-Chat"]
 aliases: ["Crisp客服系统", "在线对话工具"]
 status: pending

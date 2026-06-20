@@ -1,7 +1,7 @@
 ---
 title: "qBittorrent安装"
 filename: qbittorrent-docker-deployment-guide
-summary: qBittorrent 是一款开源且轻量级的 BitTorrent 客户端。本文介绍了使用 Docker Compose 部署 qBittorrent 的详细步骤，包括 Web UI 端口配置、初次登录密码获取及密码遗忘后的重置方法。同时探讨了公网 IP 对下载速度的影响以及 PT（私有）站点的基本概念，是家庭影音中心必备的下载工具指南。
+description: qBittorrent 是一款开源且轻量级的 BitTorrent 客户端。本文介绍了使用 Docker Compose 部署 qBittorrent 的详细步骤，包括 Web UI 端口配置、初次登录密码获取及密码遗忘后的重置方法。同时探讨了公网 IP 对下载速度的影响以及 PT（私有）站点的基本概念，是家庭影音中心必备的下载工具指南。
 tags: [qbittorrent, bittorrent, docker, download-manager, self-hosted]
 aliases: [qBittorrent安装, BT下载工具, 磁力链接下载]
 status: completed

@@ -2,7 +2,7 @@
 status: completed
 filename: systemd-service-management-and-journal-logs
 title: "Systemd 配置"
-summary: 本笔记深度解析了 Linux 现代初始化与服务管理器 Systemd 的核心配置。针对 `.service` 配置文件，提供了 Caddy 及 Supervisor 的实战 Unit 模板；详细剖析了 `Type` 属性中 `simple` 与 `forking` 的启动流派差异，以及 `KillMode` (control-group vs mixed vs process) 决定进程树销毁粒度的核心逻辑。此外，总结了清理 `journalctl` 冗余系统日志以释放内存的速查指令，是进阶服务器运维的必读参考。
+description: 本笔记深度解析了 Linux 现代初始化与服务管理器 Systemd 的核心配置。针对 `.service` 配置文件，提供了 Caddy 及 Supervisor 的实战 Unit 模板；详细剖析了 `Type` 属性中 `simple` 与 `forking` 的启动流派差异，以及 `KillMode` (control-group vs mixed vs process) 决定进程树销毁粒度的核心逻辑。此外，总结了清理 `journalctl` 冗余系统日志以释放内存的速查指令，是进阶服务器运维的必读参考。
 aliases: [Systemd 配置, systemctl 守护进程, KillMode, forking 模式]
 tags: [Linux, 运维部署, Systemd, 进程管理, 守护进程, 日志管理]
 date created: 星期一, 十二月 1日 2025, 9:59:22 上午

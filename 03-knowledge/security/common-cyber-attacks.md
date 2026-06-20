@@ -2,7 +2,7 @@
 status: completed
 filename: common-cyber-attacks
 title: "网络攻击类型"
-summary: 本笔记详细阐述了Web应用中常见的网络攻击类型及其防御策略，旨在为PKM和RAG专家提供一份结构化、高信息密度的安全知识参考。涵盖了跨站脚本（XSS）的原理、影响及基于CSP和输入输出编码的防御；跨站请求伪造（CSRF）的攻击机制及CSRF Token、SameSite Cookie的防护；重放攻击的特点及时间戳、Nonce、API签名机制的应对；以及分布式拒绝服务（DDoS）的流量清洗、速率限制和人机识别等缓解方案。核心目标是构建全面、纵深防御的安全体系。
+description: 本笔记详细阐述了Web应用中常见的网络攻击类型及其防御策略，旨在为PKM和RAG专家提供一份结构化、高信息密度的安全知识参考。涵盖了跨站脚本（XSS）的原理、影响及基于CSP和输入输出编码的防御；跨站请求伪造（CSRF）的攻击机制及CSRF Token、SameSite Cookie的防护；重放攻击的特点及时间戳、Nonce、API签名机制的应对；以及分布式拒绝服务（DDoS）的流量清洗、速率限制和人机识别等缓解方案。核心目标是构建全面、纵深防御的安全体系。
 aliases: [网络攻击类型, Web安全漏洞, 安全防御策略, 渗透测试, 应用安全]
 tags: [网络安全, Web安全, XSS, CSRF, 重放攻击, DDoS, 安全防护, 漏洞, 攻击, OWASP, 认证, 授权, 数据安全, 前端安全, 后端安全]
 date created: 星期五, 六月 12日 2026, 10:16:58 上午

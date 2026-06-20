@@ -1,7 +1,7 @@
 ---
 title: "Google 认证迁移指南"
 filename: google-auth-migration-gsi-gapi
-summary: 本文解决了 Google OAuth 2.0 授权库（gapi.auth）废弃导致的认证失败问题。由于 Google 强制新应用使用最新的 Google Identity Services (GSI) 库，旧有的 gapi 库已无法直接处理授权。文中提供了详细的迁移方案，包括集成新的 gsi 库、初始化 Token 客户端、通过 `requestAccessToken` 获取令牌，并配合 gapi SDK 调用 Google Analytics API（UA Report）的具体实现代码，实现身份验证与数据访问的解耦。
+description: 本文解决了 Google OAuth 2.0 授权库（gapi.auth）废弃导致的认证失败问题。由于 Google 强制新应用使用最新的 Google Identity Services (GSI) 库，旧有的 gapi 库已无法直接处理授权。文中提供了详细的迁移方案，包括集成新的 gsi 库、初始化 Token 客户端、通过 `requestAccessToken` 获取令牌，并配合 gapi SDK 调用 Google Analytics API（UA Report）的具体实现代码，实现身份验证与数据访问的解耦。
 tags: ["Google-Auth", "OAuth2.0", "GSI", "GAPI", "Google-Analytics"]
 aliases: ["Google 认证迁移指南", "gapi.auth 废弃解决方案", "Google Identity Services 迁移"]
 status: completed

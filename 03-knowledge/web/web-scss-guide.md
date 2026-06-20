@@ -1,7 +1,7 @@
 ---
 title: "SCSS语法教程"
 filename: web-scss-guide
-summary: CSS 预处理器 SCSS 语法特性与应用指南。内容梳理了 SCSS 核心功能：全局与局部变量（含 !default 默认值）、选择器与属性嵌套规则、混合宏（@mixin/@include）与 @extend 继承、占位符（%）编译优化机制、插值表达式 #{} 动态拼接，以及数值与颜色运算。并对比说明了 SCSS 与 Sass 语法差异。
+description: CSS 预处理器 SCSS 语法特性与应用指南。内容梳理了 SCSS 核心功能：全局与局部变量（含 !default 默认值）、选择器与属性嵌套规则、混合宏（@mixin/@include）与 @extend 继承、占位符（%）编译优化机制、插值表达式 #{} 动态拼接，以及数值与颜色运算。并对比说明了 SCSS 与 Sass 语法差异。
 tags:
   - web
   - scss

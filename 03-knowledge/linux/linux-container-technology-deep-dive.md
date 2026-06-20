@@ -1,7 +1,7 @@
 ---
 title: "container-deep-dive"
 filename: linux-container-technology-deep-dive
-summary: 本文深入剖析 Linux 容器技术的核心机制与生态架构。涵盖容器、镜像、命名空间（Namespaces 进程隔离）与控制组（Cgroups 资源限制）等核心概念与底层原理，并系统梳理了高级容器运行时（Containerd, CRI-O, Docker Engine）与底层 OCI 运行时（runc, crun, Kata Containers, gVisor）的层级关系与架构演进，为云原生及 Kubernetes 环境下的容器选型与运维提供技术支撑。
+description: 本文深入剖析 Linux 容器技术的核心机制与生态架构。涵盖容器、镜像、命名空间（Namespaces 进程隔离）与控制组（Cgroups 资源限制）等核心概念与底层原理，并系统梳理了高级容器运行时（Containerd, CRI-O, Docker Engine）与底层 OCI 运行时（runc, crun, Kata Containers, gVisor）的层级关系与架构演进，为云原生及 Kubernetes 环境下的容器选型与运维提供技术支撑。
 tags:
   - container
   - docker

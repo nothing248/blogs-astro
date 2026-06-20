@@ -1,7 +1,7 @@
 ---
 title: "openwrt-guide"
 filename: openwrt-distributions-guide
-summary: 本文梳理了主流 OpenWrt 软路由系统的分发版本与编译资源，包括插件丰富的 Lean LEDE 分支、内核前沿 of OpenWrt 官方原版，以及主打稳定性的 Lienol 定制版。提供定制化固件编译的相关参考教程，为家庭或企业级软路由搭建提供选型指导。
+description: 本文梳理了主流 OpenWrt 软路由系统的分发版本与编译资源，包括插件丰富的 Lean LEDE 分支、内核前沿 of OpenWrt 官方原版，以及主打稳定性的 Lienol 定制版。提供定制化固件编译的相关参考教程，为家庭或企业级软路由搭建提供选型指导。
 tags:
   - openwrt
   - router

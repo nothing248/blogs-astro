@@ -1,7 +1,7 @@
 ---
 title: "Office安装教程"
 filename: office-installation-and-management-guide
-summary: Microsoft Office 是一款行业领先的办公软件套件。本文汇总了 Office 的高效安装与激活方案，重点介绍了 Office Tool Plus 在解决版本冲突及自定义组件安装（如 Visio）方面的优势。同时探讨了 KMS 激活工具及 Microsoft 365 E5 开发者计划（含 5TB OneDrive 空间）的应用，并针对 Visio 订阅版本不兼容问题提供了实战解决方案。
+description: Microsoft Office 是一款行业领先的办公软件套件。本文汇总了 Office 的高效安装与激活方案，重点介绍了 Office Tool Plus 在解决版本冲突及自定义组件安装（如 Visio）方面的优势。同时探讨了 KMS 激活工具及 Microsoft 365 E5 开发者计划（含 5TB OneDrive 空间）的应用，并针对 Visio 订阅版本不兼容问题提供了实战解决方案。
 tags: [office, microsoft-365, productivity-tools, installation, windows]
 aliases: [Office安装教程, Office Tool Plus使用, Visio安装]
 status: completed

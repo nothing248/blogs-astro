@@ -1,7 +1,7 @@
 ---
 title: "Deno部署指南"
 filename: deno-deploy-serverless-platform
-summary: Deno Deploy 是专为 Deno 运行时的全球分布式 Serverless 部署平台。支持快速验证的 Playground 沙盒与绑定 Git 仓库的 Project 生产应用。面向第一方开发提供 Standard 部署，面向 SaaS 平台提供 Subhosting 托管模式以运行非信任代码。内容涵盖使用 deployctl 命令行及 HTTP API 进行自动化部署，并利用 V8 Isolate 技术实现高效安全隔离。
+description: Deno Deploy 是专为 Deno 运行时的全球分布式 Serverless 部署平台。支持快速验证的 Playground 沙盒与绑定 Git 仓库的 Project 生产应用。面向第一方开发提供 Standard 部署，面向 SaaS 平台提供 Subhosting 托管模式以运行非信任代码。内容涵盖使用 deployctl 命令行及 HTTP API 进行自动化部署，并利用 V8 Isolate 技术实现高效安全隔离。
 tags: ["Deno", "Serverless", "Deno-Deploy", "Cloud-Platform", "Backend"]
 aliases: ["Deno部署指南", "deployctl使用", "Subhosting详解"]
 status: completed

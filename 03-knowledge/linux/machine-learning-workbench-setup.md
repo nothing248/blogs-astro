@@ -1,7 +1,7 @@
 ---
 title: "ml-workbench"
 filename: machine-learning-workbench-setup
-summary: 本篇笔记记录了基于 DELL 物理机的机器学习工作站（Workbench）环境搭建方案。目前内容较少，待后续补充系统安装、GPU 驱动（NVIDIA CUDA/cuDNN）、Docker 容器化及深度学习框架配置步骤。
+description: 本篇笔记记录了基于 DELL 物理机的机器学习工作站（Workbench）环境搭建方案。目前内容较少，待后续补充系统安装、GPU 驱动（NVIDIA CUDA/cuDNN）、Docker 容器化及深度学习框架配置步骤。
 tags:
   - machine-learning
   - workbench

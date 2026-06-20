@@ -1,7 +1,7 @@
 ---
 title: "redis-guide"
 filename: redis-installation-and-eviction-policies
-summary: 本文记录了高并发键值缓存数据库 Redis 在 Linux 系统的 apt 安装与 systemd 服务管理。系统性整理了包括 noeviction、volatile-* 和 allkeys-* 等 8 种核心内存淘汰机制，并分别给出了通过配置文件与 Docker Compose 部署时设置最大内存限制（maxmemory）及内存回收策略（maxmemory-policy）的配置实例。
+description: 本文记录了高并发键值缓存数据库 Redis 在 Linux 系统的 apt 安装与 systemd 服务管理。系统性整理了包括 noeviction、volatile-* 和 allkeys-* 等 8 种核心内存淘汰机制，并分别给出了通过配置文件与 Docker Compose 部署时设置最大内存限制（maxmemory）及内存回收策略（maxmemory-policy）的配置实例。
 tags:
   - redis
   - cache

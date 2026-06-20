@@ -2,7 +2,7 @@
 status: completed
 filename: acmesh-automated-ssl-certificate-management
 title: "Acme.sh 证书"
-summary: 本笔记详述了基于 Shell 脚本的轻量级 ACME 协议客户端 Acme.sh 的高级部署与操作流程。全面梳理了在 Linux 系统上的安装配置方法（涵盖指定 Default CA），重点整理了利用云厂商 DNS API（如华为云、Cloudflare）自动添加 TXT 记录以完成域名所有权验证并签发泛域名证书的实战指令。此外，提供了通过 `install-cert` 钩子自动重启系统代理服务（如 systemctl restart nginx）以及强制续期证书的运维标准动作，是保障 Web 服务 HTTPS 链路高可用与免维护的核心脚本。
+description: 本笔记详述了基于 Shell 脚本的轻量级 ACME 协议客户端 Acme.sh 的高级部署与操作流程。全面梳理了在 Linux 系统上的安装配置方法（涵盖指定 Default CA），重点整理了利用云厂商 DNS API（如华为云、Cloudflare）自动添加 TXT 记录以完成域名所有权验证并签发泛域名证书的实战指令。此外，提供了通过 `install-cert` 钩子自动重启系统代理服务（如 systemctl restart nginx）以及强制续期证书的运维标准动作，是保障 Web 服务 HTTPS 链路高可用与免维护的核心脚本。
 aliases: [Acme.sh 证书, Let's Encrypt 签发, 自动续期 SSL, DNS 验证证书]
 tags: [Linux, 网络安全, SSL, HTTPS, Acme.sh, Let's Encrypt, Nginx, 自动化运维]
 date created: 星期一, 一月 12日 2026, 10:03:44 上午

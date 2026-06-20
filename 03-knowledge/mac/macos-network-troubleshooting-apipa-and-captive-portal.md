@@ -2,7 +2,7 @@
 status: completed
 filename: macos-network-troubleshooting-apipa-and-captive-portal
 title: "Mac 网络故障"
-summary: 本笔记记录了在 macOS 环境下遇到的两种经典网络故障及其解决方案。第一部分针对连接公共 WiFi（如星巴克/机场）时弹不出认证网页的问题，提供了通过删除冗余 DNS、关闭代理及在 Safari 中放行弹出窗口的组合拳解决方案，并附带了 captive.apple.com 测试地址。第二部分深度剖析了获取到 169.254.x.x (链路本地地址 / APIPA) 的根本原因（DHCP 寻址失败），并列举了排查物理连接、重启路由器及防火墙拦截的诊断步骤。
+description: 本笔记记录了在 macOS 环境下遇到的两种经典网络故障及其解决方案。第一部分针对连接公共 WiFi（如星巴克/机场）时弹不出认证网页的问题，提供了通过删除冗余 DNS、关闭代理及在 Safari 中放行弹出窗口的组合拳解决方案，并附带了 captive.apple.com 测试地址。第二部分深度剖析了获取到 169.254.x.x (链路本地地址 / APIPA) 的根本原因（DHCP 寻址失败），并列举了排查物理连接、重启路由器及防火墙拦截的诊断步骤。
 aliases: [Mac 网络故障, 169.254 IP, 公共 WiFi 认证不弹, macOS 连不上网]
 tags: [macOS, 网络排障, DHCP, APIPA, WiFi, 系统运维]
 date created: 星期一, 十二月 22日 2025, 12:28:23 凌晨

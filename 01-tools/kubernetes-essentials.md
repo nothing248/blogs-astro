@@ -1,7 +1,7 @@
 ---
 title: "K8s"
 filename: kubernetes-essentials
-summary: Kubernetes (K8s) 是一个开源的容器编排平台，旨在解决大规模容器部署中的高可用性、负载均衡、自动伸缩和服务发现等问题。本笔记涵盖了 K8s 的核心概念（控制面板、节点、对象）以及与 Docker Swarm 的对比分析。
+description: Kubernetes (K8s) 是一个开源的容器编排平台，旨在解决大规模容器部署中的高可用性、负载均衡、自动伸缩和服务发现等问题。本笔记涵盖了 K8s 的核心概念（控制面板、节点、对象）以及与 Docker Swarm 的对比分析。
 tags: [Kubernetes, K8s, DevOps, Container-Orchestration]
 aliases: [K8s]
 status: completed

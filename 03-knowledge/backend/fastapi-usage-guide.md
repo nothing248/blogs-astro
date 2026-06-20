@@ -1,7 +1,7 @@
 ---
 title: "FastAPI教程"
 filename: fastapi-usage-guide
-summary: 介绍基于 OpenAPI 规范的高性能 Python API 框架 FastAPI。详细涵盖路径与查询参数的声明、请求体与 Pydantic 数据校验、自定义验证器、中间件、静态文件挂载、后台任务管理、多层级依赖注入以及 API 接口元数据管理。同时提供了基于 jose 库的 JWT 授权管理完整代码与自定义错误异常处理机制。
+description: 介绍基于 OpenAPI 规范的高性能 Python API 框架 FastAPI。详细涵盖路径与查询参数的声明、请求体与 Pydantic 数据校验、自定义验证器、中间件、静态文件挂载、后台任务管理、多层级依赖注入以及 API 接口元数据管理。同时提供了基于 jose 库的 JWT 授权管理完整代码与自定义错误异常处理机制。
 tags:
   - FastAPI
   - 依赖注入

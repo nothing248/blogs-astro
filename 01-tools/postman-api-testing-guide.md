@@ -1,7 +1,7 @@
 ---
 title: "Postman教程"
 filename: postman-api-testing-guide
-summary: Postman 是一款广泛使用的 API 开发与测试工具。本文介绍了 Postman 的核心组织架构（Collection, Folder, Request）以及如何利用 JavaScript 编写自动化测试脚本。重点演示了通过 Collection Runner 进行批量及并发测试的流程，适用于提高 API 交付质量与集成测试效率。
+description: Postman 是一款广泛使用的 API 开发与测试工具。本文介绍了 Postman 的核心组织架构（Collection, Folder, Request）以及如何利用 JavaScript 编写自动化测试脚本。重点演示了通过 Collection Runner 进行批量及并发测试的流程，适用于提高 API 交付质量与集成测试效率。
 tags: [postman, api-testing, qa, automated-testing, development-tools]
 aliases: [Postman教程, 接口自动化测试, API管理工具]
 status: completed

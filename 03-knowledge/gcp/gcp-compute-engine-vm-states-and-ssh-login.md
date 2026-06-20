@@ -2,7 +2,7 @@
 status: completed
 filename: gcp-compute-engine-vm-states-and-ssh-login
 title: "Compute Engine"
-summary: 本笔记记录了 Google Cloud 基础计算服务 Compute Engine (GCE) 的基础运维概念。重点梳理了虚拟机实例在“停止”、“暂停/挂起”与“重置”状态下的生命周期差异（涉及临时 IP 丢失、内存清空及计费逻辑的对比）。此外，点明了在使用 OS Login 特性时与传统 SSH Key 互斥的配置避坑，以及虚机家目录权限错误导致无法远程登录的排障经验。
+description: 本笔记记录了 Google Cloud 基础计算服务 Compute Engine (GCE) 的基础运维概念。重点梳理了虚拟机实例在“停止”、“暂停/挂起”与“重置”状态下的生命周期差异（涉及临时 IP 丢失、内存清空及计费逻辑的对比）。此外，点明了在使用 OS Login 特性时与传统 SSH Key 互斥的配置避坑，以及虚机家目录权限错误导致无法远程登录的排障经验。
 aliases: [Compute Engine, GCE 状态, GCP 虚拟机, 谷歌云服务器]
 tags: [GCP, Compute Engine, IaaS, 云计算, 运维部署, 虚拟机, SSH]
 date created: 星期一, 九月 22日 2025, 5:12:47 下午

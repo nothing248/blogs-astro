@@ -1,7 +1,7 @@
 ---
 title: "Apache APISIX"
 filename: apisix-cloud-native-gateway
-summary: Apache APISIX 是一款高性能、云原生的开源 API 网关，基于 Nginx 和 etcd 实现。本笔记详细记录了 APISIX 的裸机安装步骤、核心配置文件（config.yaml）详解、服务管理命令以及通过 Admin API 进行路由验证的方法。同时涵盖了 Elasticsearch Logger 插件的配置、手动安装外部插件的流程，以及 APISIX Dashboard 的编译与部署方案，解决了 API 流量管理、监控及插件扩展的核心需求。
+description: Apache APISIX 是一款高性能、云原生的开源 API 网关，基于 Nginx 和 etcd 实现。本笔记详细记录了 APISIX 的裸机安装步骤、核心配置文件（config.yaml）详解、服务管理命令以及通过 Admin API 进行路由验证的方法。同时涵盖了 Elasticsearch Logger 插件的配置、手动安装外部插件的流程，以及 APISIX Dashboard 的编译与部署方案，解决了 API 流量管理、监控及插件扩展的核心需求。
 tags: ["APISIX", "API-Gateway", "Cloud-Native", "Nginx", "Etcd"]
 aliases: ["Apache APISIX", "APISIX网关", "云原生网关"]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "PyTorch安装指南"
 filename: pytorch-getting-started
-summary: PyTorch 是由 Meta 开源的主流深度学习开发框架，以动态计算图和优秀的硬件加速支持著称。本笔记梳理了 PyTorch 的核心依赖包安装指令，并补充了在 Python 环境下验证 CUDA GPU 加速是否可用的关键检测代码，为深度学习开发环境的搭建与可用性检测提供快速参考。
+description: PyTorch 是由 Meta 开源的主流深度学习开发框架，以动态计算图和优秀的硬件加速支持著称。本笔记梳理了 PyTorch 的核心依赖包安装指令，并补充了在 Python 环境下验证 CUDA GPU 加速是否可用的关键检测代码，为深度学习开发环境的搭建与可用性检测提供快速参考。
 tags:
   - pytorch
   - python

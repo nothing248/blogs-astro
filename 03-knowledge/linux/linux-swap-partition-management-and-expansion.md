@@ -2,7 +2,7 @@
 status: completed
 filename: linux-swap-partition-management-and-expansion
 title: "Linux Swap"
-summary: 本笔记记录了在 Linux 服务器物理内存不足时，通过手动创建 Swap 交换文件来缓解 OOM (Out Of Memory) 风险的完整操作流程。详细提供了利用 `dd` 命令分配磁盘空间、`mkswap` 格式化及 `swapon` 挂载执行的具体 Shell 指令。此外，附带了使用 `swapon -s` 验证当前交换区状态的快捷命令，是排查与解决由于高并发导致的进程被内核强杀问题的应急参考手册。
+description: 本笔记记录了在 Linux 服务器物理内存不足时，通过手动创建 Swap 交换文件来缓解 OOM (Out Of Memory) 风险的完整操作流程。详细提供了利用 `dd` 命令分配磁盘空间、`mkswap` 格式化及 `swapon` 挂载执行的具体 Shell 指令。此外，附带了使用 `swapon -s` 验证当前交换区状态的快捷命令，是排查与解决由于高并发导致的进程被内核强杀问题的应急参考手册。
 aliases: [Linux Swap, 交换分区, 虚拟内存, OOM 解决]
 tags: [Linux, 运维, 性能优化, Swap, 内存管理, Shell]
 date created: 星期一, 一月 12日 2026, 10:03:48 上午

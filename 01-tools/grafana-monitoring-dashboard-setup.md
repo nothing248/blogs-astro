@@ -1,7 +1,7 @@
 ---
 title: "Grafana可视化面板"
 filename: grafana-monitoring-dashboard-setup
-summary: Grafana 是一款强大的开源度量分析与可视化套件，支持 Prometheus、MySQL 等多种数据源。本文详述了 Grafana Enterprise 版本的安装与 Systemd 服务配置，重点介绍了匿名访问与嵌套（Embedding）等核心安全配置。通过对比 Prometheus 与 Grafana 的职能差异（存储 vs 展示），阐明了其在监控体系中的核心地位，并提供了面板导入与模板下载的实战指引。
+description: Grafana 是一款强大的开源度量分析与可视化套件，支持 Prometheus、MySQL 等多种数据源。本文详述了 Grafana Enterprise 版本的安装与 Systemd 服务配置，重点介绍了匿名访问与嵌套（Embedding）等核心安全配置。通过对比 Prometheus 与 Grafana 的职能差异（存储 vs 展示），阐明了其在监控体系中的核心地位，并提供了面板导入与模板下载的实战指引。
 tags: [grafana, monitoring, dashboard, visualization]
 aliases: [Grafana可视化面板]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "VSCode快捷键"
 filename: vscode-shortcuts-efficiency-guide
-summary: Visual Studio Code高效快捷键配置参考指南。本文在Windows/Linux与macOS平台下进行了高频功能对照，包含跳转到定义、跳转到文件、局部与全局全文搜索跳转等核心导航操作，以及代码多行编辑、列选择等文本操作快捷键，极大提高开发者的编码和重构效率。
+description: Visual Studio Code高效快捷键配置参考指南。本文在Windows/Linux与macOS平台下进行了高频功能对照，包含跳转到定义、跳转到文件、局部与全局全文搜索跳转等核心导航操作，以及代码多行编辑、列选择等文本操作快捷键，极大提高开发者的编码和重构效率。
 tags: [vscode, keyboard-shortcuts, code-editor, productivity]
 aliases: [VSCode快捷键, VSCode高频操作, 代码编辑器技巧]
 status: completed

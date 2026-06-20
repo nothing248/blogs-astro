@@ -1,7 +1,7 @@
 ---
 title: "LLM推理参数"
 filename: llm-inference-parameters-guide
-summary: 详解大语言模型（LLM）推理参数的作用机制与配置策略。覆盖控制随机性与创造力的 Temperature、Top_p（核采样）及 Top_k，管理输出长度与停止的 Max Tokens 与 Stop Sequences，抑制文本重复的 Frequency/Presence Penalty，以及 Seed、System Prompt 和 Logit Bias 等高级控制参数，并提供不同业务场景下的参数配置速查表。
+description: 详解大语言模型（LLM）推理参数的作用机制与配置策略。覆盖控制随机性与创造力的 Temperature、Top_p（核采样）及 Top_k，管理输出长度与停止的 Max Tokens 与 Stop Sequences，抑制文本重复的 Frequency/Presence Penalty，以及 Seed、System Prompt 和 Logit Bias 等高级控制参数，并提供不同业务场景下的参数配置速查表。
 tags:
   - 模型参数
   - 温度控制

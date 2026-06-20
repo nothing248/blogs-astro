@@ -2,7 +2,7 @@
 status: completed
 filename: frontend-browser-file-download-hacks-and-iframe-solution
 title: "前端批量下载"
-summary: 本笔记记录了 Web 前端在处理文件批量下载时的一个经典避坑方案。针对传统使用 `<a>` 标签动态构造 `download` 属性循环触发下载时，由于跨域安全策略导致后续请求直接被浏览器拦截挂起（Canceled）的问题，提供了一种更具兼容性的替代方案：利用 JavaScript 动态创建隐藏的 `<iframe>` 并注入目标资源 URL，通过隐式加载触发浏览器的物理下载机制。
+description: 本笔记记录了 Web 前端在处理文件批量下载时的一个经典避坑方案。针对传统使用 `<a>` 标签动态构造 `download` 属性循环触发下载时，由于跨域安全策略导致后续请求直接被浏览器拦截挂起（Canceled）的问题，提供了一种更具兼容性的替代方案：利用 JavaScript 动态创建隐藏的 `<iframe>` 并注入目标资源 URL，通过隐式加载触发浏览器的物理下载机制。
 aliases: [前端批量下载, a 标签跨域下载失败, iframe 下载文件]
 tags: [前端开发, JavaScript, 浏览器行为, 下载机制, Web API, 跨域问题]
 date created: 星期一, 五月 19日 2025, 2:05:23 下午

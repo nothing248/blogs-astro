@@ -1,7 +1,7 @@
 ---
 title: "Splash渲染服务"
 filename: splash-js-rendering-service
-summary: Splash 是一款轻量级的 JavaScript 渲染服务，常用于爬虫开发中处理动态加载的网页内容。它基于 Docker 部署，通过 HTTP API 提供渲染后的 HTML、截图等信息。本文记录了其 Docker 安装流程及基础面板使用，是绕过前端渲染障碍、获取动态数据的有效方案。
+description: Splash 是一款轻量级的 JavaScript 渲染服务，常用于爬虫开发中处理动态加载的网页内容。它基于 Docker 部署，通过 HTTP API 提供渲染后的 HTML、截图等信息。本文记录了其 Docker 安装流程及基础面板使用，是绕过前端渲染障碍、获取动态数据的有效方案。
 tags: [crawler, javascript, docker, splash]
 aliases: [Splash渲染服务]
 status: completed

@@ -2,7 +2,7 @@
 status: completed
 filename: momentjs-date-and-time-manipulation-cheatsheet
 title: "Moment.js 教程"
-summary: 本笔记汇总了 JavaScript 领域最为经典的日期时间处理库 Moment.js 的高频操作 API。系统记录了从字符串的智能解析初始化，到利用 getter 提取时间元数据的实战代码；详述了借助 `subtract`/`add`/`diff` 方法进行时间偏移计算的链式操作；并整理了基于 ISO 8601 令牌的时间字符串格式化与时区（UTC）转化机制，是前端表单校验与后端日志处理中应对时间推算的必备速查字典。
+description: 本笔记汇总了 JavaScript 领域最为经典的日期时间处理库 Moment.js 的高频操作 API。系统记录了从字符串的智能解析初始化，到利用 getter 提取时间元数据的实战代码；详述了借助 `subtract`/`add`/`diff` 方法进行时间偏移计算的链式操作；并整理了基于 ISO 8601 令牌的时间字符串格式化与时区（UTC）转化机制，是前端表单校验与后端日志处理中应对时间推算的必备速查字典。
 aliases: [Moment.js 教程, 前端时间处理, Moment API]
 tags: [前端开发, JavaScript, Node.js, 时间处理, Moment.js, 效率工具]
 date created: 星期二, 二月 25日 2025, 3:24:14 下午

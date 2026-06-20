@@ -1,7 +1,7 @@
 ---
 title: "Nextcloud部署"
 filename: nextcloud-docker-deployment
-summary: Nextcloud 是一款功能强大的开源私有云存储平台。本文详细介绍了使用 Docker Compose 部署 Nextcloud 的完整流程，包括集成 PostgreSQL 数据库、Redis 缓存以及环境变量配置。同时提供了常用管理命令（如重置密码、配置信任域名）和 CRON 定时任务设置，解决了非客户端手动上传文件无法自动识别的常见问题。
+description: Nextcloud 是一款功能强大的开源私有云存储平台。本文详细介绍了使用 Docker Compose 部署 Nextcloud 的完整流程，包括集成 PostgreSQL 数据库、Redis 缓存以及环境变量配置。同时提供了常用管理命令（如重置密码、配置信任域名）和 CRON 定时任务设置，解决了非客户端手动上传文件无法自动识别的常见问题。
 tags: [nextcloud, self-hosted, docker, cloud-storage, devops]
 aliases: [Nextcloud部署, 私有云盘安装]
 status: completed

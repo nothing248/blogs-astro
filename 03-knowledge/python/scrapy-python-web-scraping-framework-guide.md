@@ -2,7 +2,7 @@
 status: completed
 filename: scrapy-python-web-scraping-framework-guide
 title: "Scrapy 教程"
-summary: 本笔记记录了 Python 生态中最经典的分布式异步网络爬虫框架 Scrapy 的基础用法。分为轻量级单脚本调用模式与重量级标准项目脚手架模式。详细梳理了利用 `start_requests` 生成初始抓取序列、在 `parse` 回调中使用 CSS/XPath 选择器提取目标节点数据，以及利用 `response.follow` 触发翻页动作的核心流程。同时提供了通过 Scrapy Shell 进行实时页面节点调试的实战指引。
+description: 本笔记记录了 Python 生态中最经典的分布式异步网络爬虫框架 Scrapy 的基础用法。分为轻量级单脚本调用模式与重量级标准项目脚手架模式。详细梳理了利用 `start_requests` 生成初始抓取序列、在 `parse` 回调中使用 CSS/XPath 选择器提取目标节点数据，以及利用 `response.follow` 触发翻页动作的核心流程。同时提供了通过 Scrapy Shell 进行实时页面节点调试的实战指引。
 aliases: [Scrapy 教程, Python 爬虫框架, Scrapy 爬虫]
 tags: [Python, 爬虫, 数据采集, Scrapy, 自动化, 爬虫架构]
 date created: 星期二, 二月 25日 2025, 3:24:04 下午

@@ -1,7 +1,7 @@
 ---
 title: "MD语法"
 filename: markdown-syntax-complete-guide
-summary: Markdown是一种轻量级标记语言。本文汇总了Markdown的标准排版语法，包含标题、粗斜体、删除线、多级引用、表格、超链接和图片链接编写，并给出了嵌套代码块以防止格式坍塌的写法，适合用作Obsidian等知识库构建时的格式排版设计规范。
+description: Markdown是一种轻量级标记语言。本文汇总了Markdown的标准排版语法，包含标题、粗斜体、删除线、多级引用、表格、超链接和图片链接编写，并给出了嵌套代码块以防止格式坍塌的写法，适合用作Obsidian等知识库构建时的格式排版设计规范。
 tags: [markdown, writing, formatting, obsidian]
 aliases: [MD语法, Markdown格式, 排版规范]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "Mixture of Experts"
 filename: moe-mixture-of-experts-architecture
-summary: 解析混合专家模型（MoE）的核心设计。对比传统稠密模型，详解门控网络（Router）、专家网络（Experts）以及稀疏激活（Sparse Activation）三大核心组件，并深入剖析 MoE 在推理效率与多任务处理上的优势。同时指出其高显存占用、训练不均衡及微调困难等局限性，并列举了 GPT-4、Mixtral 和 DeepSeek 等典型代表。
+description: 解析混合专家模型（MoE）的核心设计。对比传统稠密模型，详解门控网络（Router）、专家网络（Experts）以及稀疏激活（Sparse Activation）三大核心组件，并深入剖析 MoE 在推理效率与多任务处理上的优势。同时指出其高显存占用、训练不均衡及微调困难等局限性，并列举了 GPT-4、Mixtral 和 DeepSeek 等典型代表。
 tags:
   - 混合专家模型
   - MoE架构

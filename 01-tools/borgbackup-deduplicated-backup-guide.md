@@ -1,7 +1,7 @@
 ---
 title: "Borg备份指南"
 filename: borgbackup-deduplicated-backup-guide
-summary: BorgBackup 是一款高效的开源去重加密备份软件。本笔记系统梳理了其核心特性（块级去重、高效压缩及客户端 AES-256 加密）、常用操作指令（初始化仓库、创建与恢复备份、FUSE 挂载），并重点详解了自动化配置前端 borgmatic 的 YAML 声明式配置、保留策略与数据库备份，提供了开箱即用的 Linux 定时自动备份工作流。
+description: BorgBackup 是一款高效的开源去重加密备份软件。本笔记系统梳理了其核心特性（块级去重、高效压缩及客户端 AES-256 加密）、常用操作指令（初始化仓库、创建与恢复备份、FUSE 挂载），并重点详解了自动化配置前端 borgmatic 的 YAML 声明式配置、保留策略与数据库备份，提供了开箱即用的 Linux 定时自动备份工作流。
 tags: ["BorgBackup", "Borgmatic", "Backup-Tools", "Linux-Sysadmin", "Data-Security"]
 aliases: ["Borg备份指南", "borgmatic配置", "Linux自动备份"]
 status: completed

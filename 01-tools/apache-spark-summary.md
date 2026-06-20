@@ -1,7 +1,7 @@
 ---
 title: "Spark简介"
 filename: apache-spark-summary
-summary: Apache Spark 是一个用于大规模数据处理的统一分析引擎。它提供了 Java, Scala, Python 和 R 的高级 API，以及支持通用计算图的优化查询引擎。本文记录了该工具的基础定位，适用于大数据处理和分析场景。
+description: Apache Spark 是一个用于大规模数据处理的统一分析引擎。它提供了 Java, Scala, Python 和 R 的高级 API，以及支持通用计算图的优化查询引擎。本文记录了该工具的基础定位，适用于大数据处理和分析场景。
 tags: [big-data, analytics, spark]
 aliases: [Spark简介]
 status: pending

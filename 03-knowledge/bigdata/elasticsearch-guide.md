@@ -1,7 +1,7 @@
 ---
 title: "ES教程"
 filename: elasticsearch-guide
-summary: 介绍基于 Lucene 的分布式搜索引擎 Elasticsearch (ES)。详解倒排索引（词典与倒排文件）、主副分片恢复、节点发现机制及集群读写流程。提供了在 Linux 环境下的下载、Ik 分词插件安装、系统虚拟内存调优、elasticsearch.yml 详细参数设置及 systemd 服务管理配置。此外，还汇总了索引映射配置与文档的 RESTful API 基础及高级 DSL 操作。
+description: 介绍基于 Lucene 的分布式搜索引擎 Elasticsearch (ES)。详解倒排索引（词典与倒排文件）、主副分片恢复、节点发现机制及集群读写流程。提供了在 Linux 环境下的下载、Ik 分词插件安装、系统虚拟内存调优、elasticsearch.yml 详细参数设置及 systemd 服务管理配置。此外，还汇总了索引映射配置与文档的 RESTful API 基础及高级 DSL 操作。
 tags:
   - Elasticsearch
   - 倒排索引

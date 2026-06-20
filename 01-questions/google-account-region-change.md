@@ -1,7 +1,7 @@
 ---
 title: "Google 账号地区修改"
 filename: google-account-region-change
-summary: 本笔记提供了修改 Google 账号归属地（国家/地区关联）的申诉入口及方法。当用户因地理位置变动或系统错误导致账号归属地识别不准时，可以通过 Google 提供的官方申诉表单提交修改请求，以确保账号能够访问特定区域的服务及内容。
+description: 本笔记提供了修改 Google 账号归属地（国家/地区关联）的申诉入口及方法。当用户因地理位置变动或系统错误导致账号归属地识别不准时，可以通过 Google 提供的官方申诉表单提交修改请求，以确保账号能够访问特定区域的服务及内容。
 tags: [Google-Account, Country-Association, Account-Settings]
 aliases: [Google 账号地区修改, Google 关联国家申诉]
 status: completed

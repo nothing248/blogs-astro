@@ -1,7 +1,7 @@
 ---
 title: "Caddy服务器"
 filename: caddy-server-setup-config
-summary: Caddy 是一款现代化的 HTTP/2 服务器，原生支持自动 HTTPS。本笔记介绍了 Caddy 的安装方式（包管理器及 xcaddy 编译）、核心配置文件 Caddyfile 的编写规范。内容涵盖了静态文件服务、基于插件的前置代理（forward_proxy）、反向代理、WebSocket 支持以及自定义 TLS 证书配置，解决了 Web 服务快速部署与自动化证书管理的实际需求。
+description: Caddy 是一款现代化的 HTTP/2 服务器，原生支持自动 HTTPS。本笔记介绍了 Caddy 的安装方式（包管理器及 xcaddy 编译）、核心配置文件 Caddyfile 的编写规范。内容涵盖了静态文件服务、基于插件的前置代理（forward_proxy）、反向代理、WebSocket 支持以及自定义 TLS 证书配置，解决了 Web 服务快速部署与自动化证书管理的实际需求。
 tags: ["Caddy", "Web-Server", "HTTPS", "Reverse-Proxy", "xcaddy"]
 aliases: ["Caddy服务器", "自动HTTPS网关", "Caddyfile配置"]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "Fiddler抓包教程"
 filename: fiddler-http-debugging-proxy
-summary: Fiddler 是一款强大的 HTTP 抓包与调试代理工具。本笔记介绍了 Fiddler Classic 的核心用法，包括启用 SSL 解密、配置手机端远程调试及证书安装流程。针对常见问题，提供了报文乱码修复、过滤远程请求以及 Android 7.0+ 高版本 HTTPS 抓包的解决方案，并对比了 Classic 版与 Everywhere 版本的收费模式差异。
+description: Fiddler 是一款强大的 HTTP 抓包与调试代理工具。本笔记介绍了 Fiddler Classic 的核心用法，包括启用 SSL 解密、配置手机端远程调试及证书安装流程。针对常见问题，提供了报文乱码修复、过滤远程请求以及 Android 7.0+ 高版本 HTTPS 抓包的解决方案，并对比了 Classic 版与 Everywhere 版本的收费模式差异。
 tags: ["Fiddler", "HTTP-Proxy", "Packet-Capture", "Mobile-Debugging", "HTTPS"]
 aliases: ["Fiddler抓包教程", "手机抓包配置", "Fiddler证书安装"]
 status: completed

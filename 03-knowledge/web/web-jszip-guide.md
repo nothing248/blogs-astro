@@ -1,7 +1,7 @@
 ---
 title: "JSZip前端压缩库"
 filename: web-jszip-guide
-summary: Web 前端环境中基于 JSZip 库进行多文件打包与压缩的实践指南。内容涵盖库的安装，以及通过 JavaScript 创建文件、新建文件夹、构建嵌套目录结构并异步生成 Blob 压缩包的关键 API 示例。提供 DEFLATE 压缩算法及压缩等级的配置说明，帮助前端开发优化文件下载体验。
+description: Web 前端环境中基于 JSZip 库进行多文件打包与压缩的实践指南。内容涵盖库的安装，以及通过 JavaScript 创建文件、新建文件夹、构建嵌套目录结构并异步生成 Blob 压缩包的关键 API 示例。提供 DEFLATE 压缩算法及压缩等级的配置说明，帮助前端开发优化文件下载体验。
 tags:
   - web
   - jszip

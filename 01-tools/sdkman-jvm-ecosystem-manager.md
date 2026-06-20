@@ -1,7 +1,7 @@
 ---
 title: "Java多版本管理"
 filename: sdkman-jvm-ecosystem-manager
-summary: SDKMAN! 是一款用于管理 Unix 系统上多个软件开发工具包（SDK）的并行版本的工具。它提供了一个便捷的命令行界面来安装、切换、列出和移除各种 SDK，特别是在 JVM 生态（如 Java, Groovy, Scala, Maven, Gradle）中表现卓越。本文整理了 SDKMAN 的全局安装、版本管理指令以及通过 .sdkmanrc 实现项目级环境自动切换的实战方法。
+description: SDKMAN! 是一款用于管理 Unix 系统上多个软件开发工具包（SDK）的并行版本的工具。它提供了一个便捷的命令行界面来安装、切换、列出和移除各种 SDK，特别是在 JVM 生态（如 Java, Groovy, Scala, Maven, Gradle）中表现卓越。本文整理了 SDKMAN 的全局安装、版本管理指令以及通过 .sdkmanrc 实现项目级环境自动切换的实战方法。
 tags: [sdkman, java, jvm, version-manager, development-tools, linux-admin]
 aliases: [Java多版本管理, SDK管理工具]
 status: completed

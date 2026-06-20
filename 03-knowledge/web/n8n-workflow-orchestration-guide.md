@@ -1,7 +1,7 @@
 ---
 title: "n8n-guide"
 filename: n8n-workflow-orchestration-guide
-summary: n8n 是一款功能强大的开源自建任务流编排与工作流自动化工具。本笔记详细梳理了 n8n 的核心概念、基于自托管（Self-Hosted）下的 NPM 安装部署流程、包含 SMTP 及 SQLite 的环境变量配置，并提供了 Systemd 守护进程与服务管理命令。此外，针对生产环境设计，给出了包含 HTTP 错误容错、重试策略、多 Item 并发与循环控制、大吞吐 I/O 拆分、流状态动态维护及多层级变量作用域传递（如 customData 与 getWorkflowStaticData）的详细配置标准，提供了企业级自动化流运行的稳健性规范。
+description: n8n 是一款功能强大的开源自建任务流编排与工作流自动化工具。本笔记详细梳理了 n8n 的核心概念、基于自托管（Self-Hosted）下的 NPM 安装部署流程、包含 SMTP 及 SQLite 的环境变量配置，并提供了 Systemd 守护进程与服务管理命令。此外，针对生产环境设计，给出了包含 HTTP 错误容错、重试策略、多 Item 并发与循环控制、大吞吐 I/O 拆分、流状态动态维护及多层级变量作用域传递（如 customData 与 getWorkflowStaticData）的详细配置标准，提供了企业级自动化流运行的稳健性规范。
 tags: [n8n, workflow-automation, self-hosting, server-ops]
 aliases: [n8n-guide, workflow-orchestration, self-hosted-n8n]
 status: completed

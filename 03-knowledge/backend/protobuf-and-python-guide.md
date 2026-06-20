@@ -1,7 +1,7 @@
 ---
 title: "Protocol Buffers教程"
 filename: protobuf-and-python-guide
-summary: 介绍 Google 开源的数据序列化协议 Protocol Buffers（Protobuf）。通过详细的三步演练，展示了定义 .proto 消息结构（支持嵌套与 repeated 列表）、运行 protoc 编译器生成 Python 模块，以及使用 Python 脚本进行高效消息序列化（SerializeToString）与反序列化（ParseFromString）的完整实践过程。
+description: 介绍 Google 开源的数据序列化协议 Protocol Buffers（Protobuf）。通过详细的三步演练，展示了定义 .proto 消息结构（支持嵌套与 repeated 列表）、运行 protoc 编译器生成 Python 模块，以及使用 Python 脚本进行高效消息序列化（SerializeToString）与反序列化（ParseFromString）的完整实践过程。
 tags:
   - Protobuf
   - 数据序列化

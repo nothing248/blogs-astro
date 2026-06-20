@@ -1,7 +1,7 @@
 ---
 title: "gtag.js简介"
 filename: google-gtag-implementation
-summary: gtag.js(Google 代码) 是 Google 为 Google Analytics、Google Ads 等产品提供的全局网站代码框架。本文简要记录了其产品定位。
+description: gtag.js(Google 代码) 是 Google 为 Google Analytics、Google Ads 等产品提供的全局网站代码框架。本文简要记录了其产品定位。
 tags: [gtag, google-analytics, tracking, javascript]
 aliases: [gtag.js简介]
 status: pending

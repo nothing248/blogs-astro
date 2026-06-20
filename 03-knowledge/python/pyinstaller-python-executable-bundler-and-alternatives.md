@@ -2,7 +2,7 @@
 status: completed
 filename: pyinstaller-python-executable-bundler-and-alternatives
 title: "PyInstaller"
-summary: 本笔记解析了 Python 生态中最常用的打包工具 PyInstaller 的工作原理。指出了其通过“冻结（Freeze）”将字节码与 Python 解释器捆绑为单文件的机制，并分析了该机制在源码保护上的脆弱性（中等保护，易被反编译）。为了满足更高的商业代码安全及性能需求，横向对比了 Nuitka（全程序 C 级编译）与 Cython（核心模块扩展）的优劣势，为 Python 桌面端分发及后端代码闭源交付提供技术选型指南。
+description: 本笔记解析了 Python 生态中最常用的打包工具 PyInstaller 的工作原理。指出了其通过“冻结（Freeze）”将字节码与 Python 解释器捆绑为单文件的机制，并分析了该机制在源码保护上的脆弱性（中等保护，易被反编译）。为了满足更高的商业代码安全及性能需求，横向对比了 Nuitka（全程序 C 级编译）与 Cython（核心模块扩展）的优劣势，为 Python 桌面端分发及后端代码闭源交付提供技术选型指南。
 aliases: [PyInstaller, Python 打包, Nuitka 对比, Cython 编译]
 tags: [Python, 代码发布, 运维部署, 逆向工程, 代码安全, Nuitka]
 date created: 星期一, 十二月 1日 2025, 9:59:18 上午

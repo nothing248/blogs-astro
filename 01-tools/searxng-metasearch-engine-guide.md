@@ -1,7 +1,7 @@
 ---
 title: "SearXNG安装"
 filename: searxng-metasearch-engine-guide
-summary: SearXNG 是一款开源、免费且尊重隐私的元搜索引擎（Metasearch Engine），它能聚合来自 Google, Bing, DuckDuckGo 等数十个源的搜索结果，且不追踪用户信息。本文提供了基于 Docker Compose 的标准部署方案及核心卷映射配置，并针对“引擎初始化报错”的常见问题提出了关闭冗余源的解决思路，旨在帮助用户搭建私有且纯净的搜索门户。
+description: SearXNG 是一款开源、免费且尊重隐私的元搜索引擎（Metasearch Engine），它能聚合来自 Google, Bing, DuckDuckGo 等数十个源的搜索结果，且不追踪用户信息。本文提供了基于 Docker Compose 的标准部署方案及核心卷映射配置，并针对“引擎初始化报错”的常见问题提出了关闭冗余源的解决思路，旨在帮助用户搭建私有且纯净的搜索门户。
 tags: [searxng, search-engine, privacy, open-source, docker, self-hosted]
 aliases: [SearXNG安装, 隐私搜索引擎, 元搜索引擎部署]
 status: completed

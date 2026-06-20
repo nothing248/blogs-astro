@@ -2,7 +2,7 @@
 status: completed
 filename: eslint-javascript-linting-utility-guide
 title: "ESLint 配置"
-summary: 本笔记总结了前端静态代码分析基石 ESLint 的核心概念与初始化流程。阐述了其将代码解析为抽象语法树 (AST) 并通过 Rules 进行匹配校验的底层逻辑，以及 Plugins 和 Configuration 组成的可扩展架构。同时，特别指出了在执行 `npm init @eslint/config` 时，关于 ESLint v8 与最新 v9 扁平化配置系统版本过渡期的防坑安装命令。
+description: 本笔记总结了前端静态代码分析基石 ESLint 的核心概念与初始化流程。阐述了其将代码解析为抽象语法树 (AST) 并通过 Rules 进行匹配校验的底层逻辑，以及 Plugins 和 Configuration 组成的可扩展架构。同时，特别指出了在执行 `npm init @eslint/config` 时，关于 ESLint v8 与最新 v9 扁平化配置系统版本过渡期的防坑安装命令。
 aliases: [ESLint 配置, JS 代码检查, Linting 工具]
 tags: [前端工程化, JavaScript, ESLint, 代码规范, Lint, Node.js]
 date created: 星期一, 五月 19日 2025, 2:05:21 下午

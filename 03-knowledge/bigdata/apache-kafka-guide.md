@@ -1,7 +1,7 @@
 ---
 title: "Kafka集群部署"
 filename: apache-kafka-guide
-summary: 介绍分布式消息引擎 Apache Kafka 3.8.0 的安装与配置，包括单机与集群模式下的 listeners 绑定与 Zookeeper 端点设置。提供用于服务控制的 systemd 配置文件与 Topic 创建（kafka-topics）、生产者（kafka-console-producer）及消费者（kafka-console-consumer）的命令行交互操作，并深度总结了消息队列、流存储与实时流处理等核心应用场景。
+description: 介绍分布式消息引擎 Apache Kafka 3.8.0 的安装与配置，包括单机与集群模式下的 listeners 绑定与 Zookeeper 端点设置。提供用于服务控制的 systemd 配置文件与 Topic 创建（kafka-topics）、生产者（kafka-console-producer）及消费者（kafka-console-consumer）的命令行交互操作，并深度总结了消息队列、流存储与实时流处理等核心应用场景。
 tags:
   - Kafka
   - 消息引擎

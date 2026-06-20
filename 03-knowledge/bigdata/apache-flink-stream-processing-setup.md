@@ -2,7 +2,7 @@
 status: completed
 filename: apache-flink-stream-processing-setup
 title: "Flink 安装"
-summary: 本笔记记录了新一代大数据处理引擎 Apache Flink 的核心定位及基础部署流程。阐述了 Flink “批流一体”的核心设计理念（将批处理视为有界的流处理）。提供了在 Linux 系统下单机模式的二进制包下载、环境变量配置及启停指令，为进行实时无界数据流分析提供了初始实验环境。
+description: 本笔记记录了新一代大数据处理引擎 Apache Flink 的核心定位及基础部署流程。阐述了 Flink “批流一体”的核心设计理念（将批处理视为有界的流处理）。提供了在 Linux 系统下单机模式的二进制包下载、环境变量配置及启停指令，为进行实时无界数据流分析提供了初始实验环境。
 aliases: [Flink 安装, 流处理引擎, Flink 批流一体]
 tags: [大数据, Flink, 流处理, 实时计算, 分布式计算, 运维部署]
 date created: 星期三, 十二月 10日 2025, 6:20:42 晚上

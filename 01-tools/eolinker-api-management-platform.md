@@ -1,7 +1,7 @@
 ---
 title: "Eolink 接口管理"
 filename: eolinker-api-management-platform
-summary: Eolink (原 Eolinker) 是一款综合性的 API 管理工具，涵盖了接口文档管理、自动化测试、网关监控等功能。本笔记目前包含其基本简介及官方链接，旨在为团队协作提供高效的 API 生命周期管理方案。
+description: Eolink (原 Eolinker) 是一款综合性的 API 管理工具，涵盖了接口文档管理、自动化测试、网关监控等功能。本笔记目前包含其基本简介及官方链接，旨在为团队协作提供高效的 API 生命周期管理方案。
 tags: ["Eolinker", "API-Management", "API-Test", "Documentation"]
 aliases: ["Eolink 接口管理", "API 自动化测试工具"]
 status: pending

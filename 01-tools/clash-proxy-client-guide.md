@@ -1,7 +1,7 @@
 ---
 title: "Clash使用教程"
 filename: clash-proxy-client-guide
-summary: Clash 是一款流行的开源代理客户端，支持多平台（Windows, Linux, macOS, Android）。本笔记提供了 Clash 的安装说明、订阅节点配置方法以及 Global、Rule 和 Direct 三种模式的切换建议。通过合理配置 Rule 模式，用户可以实现基于规则的智能流量分流，有效优化网络访问速度与稳定性。
+description: Clash 是一款流行的开源代理客户端，支持多平台（Windows, Linux, macOS, Android）。本笔记提供了 Clash 的安装说明、订阅节点配置方法以及 Global、Rule 和 Direct 三种模式的切换建议。通过合理配置 Rule 模式，用户可以实现基于规则的智能流量分流，有效优化网络访问速度与稳定性。
 tags: ["Clash", "Proxy", "Networking", "Open-Source"]
 aliases: ["Clash使用教程", "代理客户端配置", "Clash规则管理"]
 status: completed

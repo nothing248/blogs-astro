@@ -1,7 +1,7 @@
 ---
 title: "Git基础操作"
 filename: git-version-control-practices
-summary: Git是行业标准的分布式版本控制系统。本文涵盖Git基础概念（工作区、暂存区、版本库）与命令行实用指南。包含全局和项目级用户配置管理、分支生命周期操作（创建、合并与删除）、日志格式化追踪、强推覆盖、撤销本地提交，以及凭证缓存清理等高频日常操作。
+description: Git是行业标准的分布式版本控制系统。本文涵盖Git基础概念（工作区、暂存区、版本库）与命令行实用指南。包含全局和项目级用户配置管理、分支生命周期操作（创建、合并与删除）、日志格式化追踪、强推覆盖、撤销本地提交，以及凭证缓存清理等高频日常操作。
 tags: [git, version-control, git-branching, command-line]
 aliases: [Git基础操作, Git配置, 版本控制]
 status: completed

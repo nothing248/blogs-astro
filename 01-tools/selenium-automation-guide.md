@@ -1,7 +1,7 @@
 ---
 title: "Selenium自动化"
 filename: selenium-automation-guide
-summary: Selenium 是一个强大的 Web 自动化测试框架，支持多种浏览器和编程语言。本文介绍了 Selenium 的 Python 环境安装及基础配置。它是自动化测试、网页抓取和交互式脚本开发的核心工具，通常与各浏览器的 WebDriver 配合使用，用于执行复杂的网页交互逻辑。
+description: Selenium 是一个强大的 Web 自动化测试框架，支持多种浏览器和编程语言。本文介绍了 Selenium 的 Python 环境安装及基础配置。它是自动化测试、网页抓取和交互式脚本开发的核心工具，通常与各浏览器的 WebDriver 配合使用，用于执行复杂的网页交互逻辑。
 tags: [automation, testing, selenium, python]
 aliases: [Selenium自动化]
 status: completed

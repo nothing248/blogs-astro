@@ -2,7 +2,7 @@
 status: completed
 filename: celery-distributed-asynchronous-task-queue-architecture
 title: "Celery"
-summary: 本笔记系统梳理了 Python 生态中最经典的分布式异步任务调度框架 Celery。解析了由 Broker（消息总线）、Beat（定时触发器）、Worker（任务消费者）及 Backend（结果存储）构成的四大核心概念组件。针对生产环境中极易遭遇的数据库超时断连（如 MySQL Wait Timeout）及 Redis Socket 超时异常，提供了基于连接释放钩子和重试参数的硬核规避策略。此外，提炼了基于 Acks Late 延迟确认应对 Worker 崩溃丢失任务的容错配置，是构建高可用异步架构的运维排障手册。
+description: 本笔记系统梳理了 Python 生态中最经典的分布式异步任务调度框架 Celery。解析了由 Broker（消息总线）、Beat（定时触发器）、Worker（任务消费者）及 Backend（结果存储）构成的四大核心概念组件。针对生产环境中极易遭遇的数据库超时断连（如 MySQL Wait Timeout）及 Redis Socket 超时异常，提供了基于连接释放钩子和重试参数的硬核规避策略。此外，提炼了基于 Acks Late 延迟确认应对 Worker 崩溃丢失任务的容错配置，是构建高可用异步架构的运维排障手册。
 aliases: [Celery, Python 异步队列, 任务调度, Worker 排障]
 tags: [Python, 分布式系统, 异步任务, Celery, 消息队列, 架构设计, 运维排障]
 date created: 星期一, 五月 19日 2025, 2:05:18 下午

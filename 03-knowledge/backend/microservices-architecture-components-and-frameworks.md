@@ -2,7 +2,7 @@
 status: completed
 filename: microservices-architecture-components-and-frameworks
 title: "微服务架构"
-summary: 本笔记系统梳理了微服务架构 (Microservices) 的核心生态组件与主流技术栈。涵盖了从服务注册与配置（如 Nacos）、API 流量网关（APISIX）到高可用保障（熔断降级）的完整链路。同时，总结了 ELK 栈日志采集及 Prometheus 监控预警的运维闭环，并列举了 Dubbo、Spring Cloud (Netflix/Alibaba) 等行业主流框架，为系统拆分与技术选型提供基础参考。
+description: 本笔记系统梳理了微服务架构 (Microservices) 的核心生态组件与主流技术栈。涵盖了从服务注册与配置（如 Nacos）、API 流量网关（APISIX）到高可用保障（熔断降级）的完整链路。同时，总结了 ELK 栈日志采集及 Prometheus 监控预警的运维闭环，并列举了 Dubbo、Spring Cloud (Netflix/Alibaba) 等行业主流框架，为系统拆分与技术选型提供基础参考。
 aliases: [微服务架构, 微服务组件, 分布式服务, 微服务技术栈]
 tags: [微服务, 后端架构, Nacos, APISIX, Spring Cloud, 监控告警, 服务治理, 分布式系统]
 date created: 星期一, 十二月 1日 2025, 9:59:17 上午

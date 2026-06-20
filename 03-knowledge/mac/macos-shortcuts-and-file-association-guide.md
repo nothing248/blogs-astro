@@ -2,7 +2,7 @@
 status: completed
 filename: macos-shortcuts-and-file-association-guide
 title: "Mac 快捷键"
-summary: 本笔记记录了两个在 macOS 日常使用中极为高频且实用的系统级操作技巧。一是通过 `Cmd + Shift + .` 全局快捷键在访达 (Finder) 中快速切换显示或隐藏以 `.` 开头的系统级文件（如 `.git` 或 `.env`）。二是如何通过“显示简介”彻底修改特定后缀文件的全局默认打开程序（例如将所有 `.md` 文件绑定至 Obsidian），为新晋 Mac 用户提供基础工作流提效指南。
+description: 本笔记记录了两个在 macOS 日常使用中极为高频且实用的系统级操作技巧。一是通过 `Cmd + Shift + .` 全局快捷键在访达 (Finder) 中快速切换显示或隐藏以 `.` 开头的系统级文件（如 `.git` 或 `.env`）。二是如何通过“显示简介”彻底修改特定后缀文件的全局默认打开程序（例如将所有 `.md` 文件绑定至 Obsidian），为新晋 Mac 用户提供基础工作流提效指南。
 aliases: [Mac 快捷键, 显示隐藏文件, Mac 默认打开方式]
 tags: [macOS, 快捷键, 文件管理, 效率工具, 系统配置]
 date created: 星期一, 十二月 22日 2025, 12:28:23 凌晨

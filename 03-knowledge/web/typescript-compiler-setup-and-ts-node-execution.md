@@ -2,7 +2,7 @@
 status: completed
 filename: typescript-compiler-setup-and-ts-node-execution
 title: "TypeScript 基础"
-summary: 本笔记是对微软开发的 JavaScript 超集语言 TypeScript (TS) 的快速入门总结。明确了 TS 引入静态类型系统以增强代码健壮性的核心定位。涵盖了全局安装流程，详细解析了编译器命令行 `tsc` 及其配置基石 `tsconfig.json` 的核心参数（如 --outFile, --noEmit, target 编译目标）。同时，推荐并演示了使用非官方生态工具 `ts-node` 直接在终端热运行 `.ts` 脚本而无需等待编译的实效方法，是前端工程化必备的基础查阅卡。
+description: 本笔记是对微软开发的 JavaScript 超集语言 TypeScript (TS) 的快速入门总结。明确了 TS 引入静态类型系统以增强代码健壮性的核心定位。涵盖了全局安装流程，详细解析了编译器命令行 `tsc` 及其配置基石 `tsconfig.json` 的核心参数（如 --outFile, --noEmit, target 编译目标）。同时，推荐并演示了使用非官方生态工具 `ts-node` 直接在终端热运行 `.ts` 脚本而无需等待编译的实效方法，是前端工程化必备的基础查阅卡。
 aliases: [TypeScript 基础, tsc 编译配置, ts-node 运行, tsconfig.json]
 tags: [前端开发, TypeScript, JavaScript, 编译原理, 前端工程化]
 date created: 星期一, 五月 19日 2025, 2:05:17 下午

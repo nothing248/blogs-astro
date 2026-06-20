@@ -1,7 +1,7 @@
 ---
 title: "ShellCrash脚本"
 filename: shellclash-installation-guide
-summary: ShellCrash 是一款专为 Linux 系统（如路由器、NAS 及服务器）设计的 Clash 管理脚本。它支持多种架构，提供简单直观的交互式命令行界面，能够快速安装和配置 Clash 内核，实现全网透明代理。本文记录了其一键安装流程及注意事项，是 Linux 用户实现自动化网络分流的高效方案。
+description: ShellCrash 是一款专为 Linux 系统（如路由器、NAS 及服务器）设计的 Clash 管理脚本。它支持多种架构，提供简单直观的交互式命令行界面，能够快速安装和配置 Clash 内核，实现全网透明代理。本文记录了其一键安装流程及注意事项，是 Linux 用户实现自动化网络分流的高效方案。
 tags: [linux, proxy, clash, shell]
 aliases: [ShellCrash脚本]
 status: completed

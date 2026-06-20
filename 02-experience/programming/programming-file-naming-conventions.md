@@ -1,7 +1,7 @@
 ---
 title: "编程文件命名规范"
 filename: programming-file-naming-conventions
-summary: 整理 Python、Java、JavaScript/TypeScript、C# 与 Go 等主流编程语言社区中文件和目录命名的最佳实践。分析各语言由于模块加载机制与操作系统平台差异所形成的命名规范（如 Python 与 Go 偏好的下划线/全小写、Java 与 C# 强制要求的大驼峰、JS 的连字符等），并总结跨平台大小写敏感性、模块命名唯一性等工程落地原则。
+description: 整理 Python、Java、JavaScript/TypeScript、C# 与 Go 等主流编程语言社区中文件和目录命名的最佳实践。分析各语言由于模块加载机制与操作系统平台差异所形成的命名规范（如 Python 与 Go 偏好的下划线/全小写、Java 与 C# 强制要求的大驼峰、JS 的连字符等），并总结跨平台大小写敏感性、模块命名唯一性等工程落地原则。
 tags: [coding-style, file-naming, best-practices, clean-code, programming]
 aliases: [编程文件命名规范, 文件命名规范, 目录命名规范, 命名约定]
 status: completed

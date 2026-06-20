@@ -1,7 +1,7 @@
 ---
 title: "Hprose简介"
 filename: hprose-rpc-framework-summary
-summary: Hprose (High Performance Remote Object Service Engine) 是一款高性能、跨语言、跨平台的序列化与 RPC 通讯框架。本文简要记录了其产品定位。
+description: Hprose (High Performance Remote Object Service Engine) 是一款高性能、跨语言、跨平台的序列化与 RPC 通讯框架。本文简要记录了其产品定位。
 tags: [rpc, serialization, cross-language, hprose]
 aliases: [Hprose简介]
 status: pending

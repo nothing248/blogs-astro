@@ -2,7 +2,7 @@
 status: completed
 filename: linux-awk-text-processing-tool-guide
 title: "Awk 命令"
-summary: 本笔记总结了 Linux 三大文本处理神器之一 Awk 的核心语法与实战技巧。详细解析了其“条件定址 + 动作执行”的执行模型，以及通过 `-F` 选项自定义字段分隔符的能力。列举了最常用的内建变量（如 `$0` 整行，`$num` 特定字段，`NR` 行号，`NF` 字段总数），并演示了结合正则表达式与 `if-else` 条件控制结构进行复杂文本清洗与分段提取的典型 Shell 操作。
+description: 本笔记总结了 Linux 三大文本处理神器之一 Awk 的核心语法与实战技巧。详细解析了其“条件定址 + 动作执行”的执行模型，以及通过 `-F` 选项自定义字段分隔符的能力。列举了最常用的内建变量（如 `$0` 整行，`$num` 特定字段，`NR` 行号，`NF` 字段总数），并演示了结合正则表达式与 `if-else` 条件控制结构进行复杂文本清洗与分段提取的典型 Shell 操作。
 aliases: [Awk 命令, Linux 文本处理, Awk 实战]
 tags: [Linux, 命令行, 运维, Awk, 文本处理, Shell]
 date created: 星期二, 二月 25日 2025, 3:24:15 下午

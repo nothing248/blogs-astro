@@ -1,7 +1,7 @@
 ---
 title: "JWS与JWE"
 filename: jose-and-jks-guide
-summary: 介绍 JOSE（JSON Web 签名和加密）安全传输协议族，涵盖 JWS、JWE、JWK、JWKS 和 JWA 等核心组件及密钥轮换工作流。对比了 Python 库 jwcrypto 与 josepy 的异同。同时，详解了 Java KeyStore (JKS) 的存储格式与 Java 读取密钥的实现，并汇总了使用 keytool 生成密钥、列出信息、导出证书及通过 OpenSSL 导出 PEM 私钥的常用运维指令。
+description: 介绍 JOSE（JSON Web 签名和加密）安全传输协议族，涵盖 JWS、JWE、JWK、JWKS 和 JWA 等核心组件及密钥轮换工作流。对比了 Python 库 jwcrypto 与 josepy 的异同。同时，详解了 Java KeyStore (JKS) 的存储格式与 Java 读取密钥的实现，并汇总了使用 keytool 生成密钥、列出信息、导出证书及通过 OpenSSL 导出 PEM 私钥的常用运维指令。
 tags:
   - JOSE协议
   - JKS

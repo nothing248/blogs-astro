@@ -1,7 +1,7 @@
 ---
 title: "Excel常用公式"
 filename: excel-data-processing-tips
-summary: 本笔记汇总了 Excel 数据处理中的常用技巧。涵盖了冻结窗格的视图操作、核心字符串处理函数（LEFT, MID, FIND 等）及其用法示例。此外，还特别提供了解决 Excel 打开 CSV 文件出现中文乱码的方案，包括 ANSI 编码转换及外部数据导入法，旨在提升日常办公中的数据清洗效率。
+description: 本笔记汇总了 Excel 数据处理中的常用技巧。涵盖了冻结窗格的视图操作、核心字符串处理函数（LEFT, MID, FIND 等）及其用法示例。此外，还特别提供了解决 Excel 打开 CSV 文件出现中文乱码的方案，包括 ANSI 编码转换及外部数据导入法，旨在提升日常办公中的数据清洗效率。
 tags: ["Excel", "Data-Processing", "Functions", "CSV", "Office-Tips"]
 aliases: ["Excel常用公式", "CSV乱码解决", "Excel技巧汇总"]
 status: completed

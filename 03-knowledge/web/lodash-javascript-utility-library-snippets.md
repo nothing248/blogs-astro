@@ -2,7 +2,7 @@
 status: completed
 filename: lodash-javascript-utility-library-snippets
 title: "Lodash 常用函数"
-summary: 本笔记是基于经典 JavaScript 工具库 Lodash 的实战代码速查表。提炼了前端业务开发中最常见的数据清洗场景：利用 `_.throttle` 进行函数节流防抖，针对对象数组使用 `_.uniqBy` / `_.uniqWith` 复杂去重、`_.sortBy` / `_.orderBy` 排序提取。还涵盖了利用 `_.pick` 和 `_.omit` 对象裁切，以及借助 `_.reduce` 计算表单修改差异等进阶技巧。同时提到了现代平替工具 Radash 的演进方向。
+description: 本笔记是基于经典 JavaScript 工具库 Lodash 的实战代码速查表。提炼了前端业务开发中最常见的数据清洗场景：利用 `_.throttle` 进行函数节流防抖，针对对象数组使用 `_.uniqBy` / `_.uniqWith` 复杂去重、`_.sortBy` / `_.orderBy` 排序提取。还涵盖了利用 `_.pick` 和 `_.omit` 对象裁切，以及借助 `_.reduce` 计算表单修改差异等进阶技巧。同时提到了现代平替工具 Radash 的演进方向。
 aliases: [Lodash 常用函数, JS 工具库, js 节流, js 数组去重]
 tags: [前端开发, JavaScript, Lodash, 效率工具, 函数式编程, 数据处理]
 date created: 星期二, 二月 25日 2025, 3:24:14 下午

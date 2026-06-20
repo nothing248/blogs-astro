@@ -1,7 +1,7 @@
 ---
 title: "Hive安装配置"
 filename: apache-hive-guide
-summary: 介绍建立在 Hadoop 之上的数据仓库工具 Apache Hive 3.1.3 的部署流程。包含与 MySQL 数据库的连接驱动配置及同步表结构操作，详解了 HiveServer2 远程服务及 Metastore 服务（嵌入式与独立式）的架构差别与参数调整。最后给出了 beeline 客户端连接示例、HiveQL 交互命令以及 systemd 脚本。
+description: 介绍建立在 Hadoop 之上的数据仓库工具 Apache Hive 3.1.3 的部署流程。包含与 MySQL 数据库的连接驱动配置及同步表结构操作，详解了 HiveServer2 远程服务及 Metastore 服务（嵌入式与独立式）的架构差别与参数调整。最后给出了 beeline 客户端连接示例、HiveQL 交互命令以及 systemd 脚本。
 tags:
   - Hive
   - 数据仓库

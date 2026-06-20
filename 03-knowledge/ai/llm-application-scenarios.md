@@ -1,7 +1,7 @@
 ---
 title: "LLM应用组件"
 filename: llm-application-scenarios
-summary: 梳理大语言模型（LLM）的典型任务类型（如翻译、提取、总结、规划等），详解基于 LangChain 架构的基础组件（Model I/O、Chains、Agents、Callbacks）与存储检索组件（Loaders、Splitters、Embeddings、Vector Stores、Retrievers）。同时，给出了检索增强生成（RAG）、复杂对话、数据分析操作和内容处理等典型业务场景的实现组件与最终目标。
+description: 梳理大语言模型（LLM）的典型任务类型（如翻译、提取、总结、规划等），详解基于 LangChain 架构的基础组件（Model I/O、Chains、Agents、Callbacks）与存储检索组件（Loaders、Splitters、Embeddings、Vector Stores、Retrievers）。同时，给出了检索增强生成（RAG）、复杂对话、数据分析操作和内容处理等典型业务场景的实现组件与最终目标。
 tags: [大语言模型, LangChain, RAG, 智能代理, 软件应用]
 aliases: [LLM应用组件, 智能应用开发, 大模型落地场景]
 status: completed

@@ -2,7 +2,7 @@
 status: completed
 filename: ad-hoc-query-analytics-concept-and-requirements
 title: "Ad-hoc 查询"
-summary: 本笔记解析了数据分析领域的关键概念 Ad-hoc（特设/即席）查询。将其定义为非预定义、临时性且由分析师主导的数据探索请求。通过对比标准周期性报表，突出了其不可预测、重度聚合及极高时效性的特征。同时，阐述了 Ad-hoc 查询对底层数据基础设施的严苛挑战，说明了为何必须依赖具备列式存储、向量化执行及 MPP 架构的现代云数仓或实时 OLAP 引擎（如 ClickHouse、BigQuery）才能支撑此类分析工作流。
+description: 本笔记解析了数据分析领域的关键概念 Ad-hoc（特设/即席）查询。将其定义为非预定义、临时性且由分析师主导的数据探索请求。通过对比标准周期性报表，突出了其不可预测、重度聚合及极高时效性的特征。同时，阐述了 Ad-hoc 查询对底层数据基础设施的严苛挑战，说明了为何必须依赖具备列式存储、向量化执行及 MPP 架构的现代云数仓或实时 OLAP 引擎（如 ClickHouse、BigQuery）才能支撑此类分析工作流。
 aliases: [Ad-hoc 查询, 即席查询, 数据探索分析]
 tags: [数据分析, 商业智能, OLAP, 即席查询, 数据仓库, BI, 底层架构]
 date created: 星期三, 十二月 10日 2025, 6:20:41 晚上

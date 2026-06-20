@@ -1,7 +1,7 @@
 ---
 title: "程序设计理念"
 filename: software-design-layers-and-boundaries
-summary: 本指南系统梳理软件架构中的分层模型、边界隔离机制与面向切面编程（AOP）理念。剖析表示层、业务层与持久层单向依赖关系，阐明边界层在技术隔离、异常/数据模型转换及接口一致性保障中的核心作用。同时补充 AOP 切面技术，为隔离横切关注点（日志、权限、事务）提供设计思路，以构建高内聚低耦合的健壮系统。
+description: 本指南系统梳理软件架构中的分层模型、边界隔离机制与面向切面编程（AOP）理念。剖析表示层、业务层与持久层单向依赖关系，阐明边界层在技术隔离、异常/数据模型转换及接口一致性保障中的核心作用。同时补充 AOP 切面技术，为隔离横切关注点（日志、权限、事务）提供设计思路，以构建高内聚低耦合的健壮系统。
 tags: [software-architecture, architecture-boundaries, dependency-inversion, aop, system-design]
 aliases: [程序设计理念, 边界层设计, 架构隔离, 面向切面编程, AOP]
 status: completed

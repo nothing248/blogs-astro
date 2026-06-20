@@ -1,7 +1,7 @@
 ---
 title: "WSL2安装"
 filename: wsl2-linux-subsystem-setup
-summary: WSL2是Windows Subsystem for Linux的升级版，允许在Win下以原生性能运行Linux内核。本文列出WSL2的配置流程，包括分区分离安装、默认发行版指定、使用wsl.conf进行虚拟网卡及网络端口映射优化，以及通过编写自定义配置文件实现跨平台环境与容器无缝集成。
+description: WSL2是Windows Subsystem for Linux的升级版，允许在Win下以原生性能运行Linux内核。本文列出WSL2的配置流程，包括分区分离安装、默认发行版指定、使用wsl.conf进行虚拟网卡及网络端口映射优化，以及通过编写自定义配置文件实现跨平台环境与容器无缝集成。
 tags: [wsl2, windows-subsystem-for-linux, virtualization, system-integration]
 aliases: [WSL2安装, WSL命令行, Linux子系统配置]
 status: completed

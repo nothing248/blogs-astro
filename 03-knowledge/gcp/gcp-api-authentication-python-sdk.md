@@ -2,7 +2,7 @@
 status: completed
 filename: gcp-api-authentication-python-sdk
 title: "GCP 鉴权"
-summary: 本笔记记录了在 Python 环境下调用 Google Cloud Platform (GCP) 各种数据 API 的基础授权流程。详细区分了基于浏览器弹窗的 OAuth 2.0 用户端授权（支持 Token 缓存与自动刷新）与基于服务账号密钥文件 (Service Account Key) 的服务端鉴权。并列举了使用 Google API Python Client (Discovery) 及现代 Cloud Client Libraries 连接 Search Console、GA4、BigQuery 等核心数据服务的初始化代码片段，是开发 GCP 数据通道的认证脚手架字典。
+description: 本笔记记录了在 Python 环境下调用 Google Cloud Platform (GCP) 各种数据 API 的基础授权流程。详细区分了基于浏览器弹窗的 OAuth 2.0 用户端授权（支持 Token 缓存与自动刷新）与基于服务账号密钥文件 (Service Account Key) 的服务端鉴权。并列举了使用 Google API Python Client (Discovery) 及现代 Cloud Client Libraries 连接 Search Console、GA4、BigQuery 等核心数据服务的初始化代码片段，是开发 GCP 数据通道的认证脚手架字典。
 aliases: [GCP 鉴权, Google API Python 客户端, 服务账号认证]
 tags: [GCP, 鉴权, OAuth2, Service Account, Python, BigQuery, GA4, 后端开发]
 date created: 星期一, 五月 19日 2025, 2:05:18 下午

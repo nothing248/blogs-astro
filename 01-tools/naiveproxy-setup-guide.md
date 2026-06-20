@@ -1,7 +1,7 @@
 ---
 title: "NaiveProxy配置"
 filename: naiveproxy-setup-guide
-summary: NaiveProxy 是一款基于 Caddy 的高性能代理工具，通过利用 Chrome 网络栈提供极强的抗探测能力。本文介绍了其服务端的安装与配置方法，包括使用 xcaddy 编译带插件的 Caddy、TLS 证书设置以及前置代理配置。同时提供了简单的客户端 JSON 配置示例，适用于需要高隐蔽性网络代理的场景。
+description: NaiveProxy 是一款基于 Caddy 的高性能代理工具，通过利用 Chrome 网络栈提供极强的抗探测能力。本文介绍了其服务端的安装与配置方法，包括使用 xcaddy 编译带插件的 Caddy、TLS 证书设置以及前置代理配置。同时提供了简单的客户端 JSON 配置示例，适用于需要高隐蔽性网络代理的场景。
 tags: [naiveproxy, caddy, proxy, network-security]
 aliases: [NaiveProxy配置, Caddy代理]
 status: completed

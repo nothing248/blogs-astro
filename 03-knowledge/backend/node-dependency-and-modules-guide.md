@@ -1,7 +1,7 @@
 ---
 title: "Node包管理与规范"
 filename: node-dependency-and-modules-guide
-summary: 详解 Node.js 的包管理器（Npm、Yarn、Pnpm、Npx）配置与对比，涵盖全局路径重定向及硬链接复用机制。深入剖析 CommonJS 与 ES6 模块化规范的导入导出语法及编译识别规则，并提供了两种规范的混用解决方案。此外还记录了内存不足导致 Npm 被 Kill 的 Swap 应对措施与常用 Node 工具包推荐。
+description: 详解 Node.js 的包管理器（Npm、Yarn、Pnpm、Npx）配置与对比，涵盖全局路径重定向及硬链接复用机制。深入剖析 CommonJS 与 ES6 模块化规范的导入导出语法及编译识别规则，并提供了两种规范的混用解决方案。此外还记录了内存不足导致 Npm 被 Kill 的 Swap 应对措施与常用 Node 工具包推荐。
 tags:
   - Node.js
   - 包管理器

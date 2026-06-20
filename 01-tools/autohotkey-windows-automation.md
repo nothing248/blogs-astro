@@ -1,7 +1,7 @@
 ---
 title: "AHK简介"
 filename: autohotkey-windows-automation
-summary: AutoHotkey (AHK) 是一款适用于 Windows 的开源脚本语言，旨在简化桌面自动化与快捷键自定义。本笔记目前处于初始占位阶段，详细的语法说明、安装步骤及常用脚本实例有待补充。
+description: AutoHotkey (AHK) 是一款适用于 Windows 的开源脚本语言，旨在简化桌面自动化与快捷键自定义。本笔记目前处于初始占位阶段，详细的语法说明、安装步骤及常用脚本实例有待补充。
 tags: ["AutoHotkey", "Windows", "自动化", "脚本语言", "快捷键"]
 aliases: ["AHK简介", "Windows自动化脚本"]
 status: pending

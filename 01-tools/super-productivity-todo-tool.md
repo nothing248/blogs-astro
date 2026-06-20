@@ -1,7 +1,7 @@
 ---
 title: "SuperProductivity配置"
 filename: super-productivity-todo-tool
-summary: Super Productivity 是一款开源、跨平台的待办事项与任务管理应用。本文介绍了其多端覆盖情况，并重点分析了在 Android 端通过 WebDAV（如 AList 挂载的云存储）同步时遇到的 NoRevAPIError 错误。通过切换到本地存储挂载的 WebDAV 成功规避了该问题，是解决同步故障的重要参考。
+description: Super Productivity 是一款开源、跨平台的待办事项与任务管理应用。本文介绍了其多端覆盖情况，并重点分析了在 Android 端通过 WebDAV（如 AList 挂载的云存储）同步时遇到的 NoRevAPIError 错误。通过切换到本地存储挂载的 WebDAV 成功规避了该问题，是解决同步故障的重要参考。
 tags: [todo, productivity, open-source, webdav]
 aliases: [SuperProductivity配置]
 status: completed

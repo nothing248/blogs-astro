@@ -1,7 +1,7 @@
 ---
 title: "企业微信API对接"
 filename: wecom-api-integration-guide
-summary: 企业微信 (WeCom) 接口集成与加解密开发指南。内容整理了使用 Node.js 库 @wecom/crypto 进行签名生成、数据加解密的代码示例。梳理了基于 corpid 与 corpsecret 换取全局凭证 access_token 的授权机制，介绍了回调模式服务器验证逻辑以及微信客服接口消息同步注意事项。
+description: 企业微信 (WeCom) 接口集成与加解密开发指南。内容整理了使用 Node.js 库 @wecom/crypto 进行签名生成、数据加解密的代码示例。梳理了基于 corpid 与 corpsecret 换取全局凭证 access_token 的授权机制，介绍了回调模式服务器验证逻辑以及微信客服接口消息同步注意事项。
 tags:
   - tengxun
   - wecom

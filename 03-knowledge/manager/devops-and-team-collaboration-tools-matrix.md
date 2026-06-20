@@ -2,7 +2,7 @@
 status: completed
 filename: devops-and-team-collaboration-tools-matrix
 title: "DevOps 工具选型"
-summary: 本笔记系统梳理了现代软件开发团队在 DevOps 全生命周期中的工具选型矩阵。涵盖了从私有化代码托管 (GitLab/Gogs)、CI/CD 流水线 (Jenkins/Drone)，到项目协同管理 (禅道/Redmine)、容器化编排 (Docker/K8s) 以及底层服务器运维与网络穿透工具 (Ansible, 1Panel, frp) 等核心基础设施。为初创研发团队或技术管理人员进行内网基建选型提供了清晰的分类指引。
+description: 本笔记系统梳理了现代软件开发团队在 DevOps 全生命周期中的工具选型矩阵。涵盖了从私有化代码托管 (GitLab/Gogs)、CI/CD 流水线 (Jenkins/Drone)，到项目协同管理 (禅道/Redmine)、容器化编排 (Docker/K8s) 以及底层服务器运维与网络穿透工具 (Ansible, 1Panel, frp) 等核心基础设施。为初创研发团队或技术管理人员进行内网基建选型提供了清晰的分类指引。
 aliases: [DevOps 工具选型, 研发团队管理工具, CI/CD 工具, 项目管理工具]
 tags: [软件工程, DevOps, 项目管理, 基础设施, 运维部署, CI/CD, 团队协作]
 date created: 星期一, 五月 19日 2025, 2:05:18 下午

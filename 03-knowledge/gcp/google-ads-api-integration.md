@@ -1,7 +1,7 @@
 ---
 title: "GoogleAdsAPI使用指南"
 filename: google-ads-api-integration
-summary: Google Ads API 解决方案指南。详述了客户端库安装，并针对 OAuth2.0 凭证和 Service Account（基于 Google Workspace 网域授权）两种授权机制提供了配置步骤与 Python 初始化代码。重点展示了利用 GoogleAdsService 执行广告活动检索的具体实例，并总结了经理/客户账户分类、Developer Token 绑定限制与调试经验。
+description: Google Ads API 解决方案指南。详述了客户端库安装，并针对 OAuth2.0 凭证和 Service Account（基于 Google Workspace 网域授权）两种授权机制提供了配置步骤与 Python 初始化代码。重点展示了利用 GoogleAdsService 执行广告活动检索的具体实例，并总结了经理/客户账户分类、Developer Token 绑定限制与调试经验。
 tags:
   - google-ads-api
   - oauth2

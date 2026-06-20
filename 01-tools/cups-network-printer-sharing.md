@@ -1,7 +1,7 @@
 ---
 title: "CUPS 打印服务器"
 filename: cups-network-printer-sharing
-summary: CUPS (Common Unix Printing System) 是一款开源的打印机服务程序，支持跨平台的网络打印共享。本笔记详细记录了在 Ubuntu 系统下部署 CUPS 的全过程，包括 `cupsd.conf` 的权限配置、Canon E560 等打印机驱动的手动安装流程，以及在 Windows 和 macOS 客户端连接 IPP 共享打印机的具体步骤，实现了无需本地安装驱动的便捷云打印方案。
+description: CUPS (Common Unix Printing System) 是一款开源的打印机服务程序，支持跨平台的网络打印共享。本笔记详细记录了在 Ubuntu 系统下部署 CUPS 的全过程，包括 `cupsd.conf` 的权限配置、Canon E560 等打印机驱动的手动安装流程，以及在 Windows 和 macOS 客户端连接 IPP 共享打印机的具体步骤，实现了无需本地安装驱动的便捷云打印方案。
 tags: ["CUPS", "Printer-Server", "Linux", "IPP", "Network-Sharing"]
 aliases: ["CUPS 打印服务器", "Linux 共享打印机", "网络打印配置"]
 status: completed

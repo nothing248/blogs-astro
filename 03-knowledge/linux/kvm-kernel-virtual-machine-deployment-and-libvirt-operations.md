@@ -2,7 +2,7 @@
 status: completed
 filename: kvm-kernel-virtual-machine-deployment-and-libvirt-operations
 title: "KVM 虚拟化"
-summary: 本笔记系统整理了基于 Linux 内核的虚拟化技术 KVM (Kernel-Based Virtual Machine) 的底层部署与实操指南。涵盖了宿主机 CPU 硬件虚拟化扩展（VT-x/AMD-V）的指令校验（kvm-ok），以及依赖包 `qemu-kvm` 与 `libvirtd` 守护进程的安装与 systemctl 托管。重点提供了为虚拟机配置底层互通的 Netplan 网桥 (`br0`) YAML 代码，并详细演示了如何通过 `virt-install` CLI 工具自动化拉取并启动 OpenWrt 等虚机镜像，是构建底层私有云计算节点的基础技术文档。
+description: 本笔记系统整理了基于 Linux 内核的虚拟化技术 KVM (Kernel-Based Virtual Machine) 的底层部署与实操指南。涵盖了宿主机 CPU 硬件虚拟化扩展（VT-x/AMD-V）的指令校验（kvm-ok），以及依赖包 `qemu-kvm` 与 `libvirtd` 守护进程的安装与 systemctl 托管。重点提供了为虚拟机配置底层互通的 Netplan 网桥 (`br0`) YAML 代码，并详细演示了如何通过 `virt-install` CLI 工具自动化拉取并启动 OpenWrt 等虚机镜像，是构建底层私有云计算节点的基础技术文档。
 aliases: [KVM 虚拟化, libvirt 管理, QEMU-KVM, virt-install, Linux 网桥]
 tags: [Linux, 虚拟化, 云计算, KVM, QEMU, 运维部署, 网络架构]
 date created: 星期一, 一月 12日 2026, 10:03:49 上午

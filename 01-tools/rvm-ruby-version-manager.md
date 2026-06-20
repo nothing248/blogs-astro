@@ -1,7 +1,7 @@
 ---
 title: "Ruby版本管理"
 filename: rvm-ruby-version-manager
-summary: RVM是广泛使用的Ruby版本管理器，能够实现单机多版本Ruby环境的共存与自由切换。本文详解在macOS与Linux上通过GPG密钥校验和脚本部署RVM的流程，列举了常用版本查询、切换及gemset虚拟环境隔离的指令，解决了由于Ruby版本冲突导致的开发环境故障。
+description: RVM是广泛使用的Ruby版本管理器，能够实现单机多版本Ruby环境的共存与自由切换。本文详解在macOS与Linux上通过GPG密钥校验和脚本部署RVM的流程，列举了常用版本查询、切换及gemset虚拟环境隔离的指令，解决了由于Ruby版本冲突导致的开发环境故障。
 tags: [ruby, rvm, version-manager]
 aliases: [Ruby版本管理, RVM安装, Gemset配置]
 status: completed

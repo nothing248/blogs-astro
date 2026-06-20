@@ -1,7 +1,7 @@
 ---
 title: "树莓派Netplan网络配置"
 filename: raspberry-netplan-network-setup
-summary: 基于 Netplan 的树莓派网络配置与服务优化指南。内容包含编写 YAML 文件为有线 (eth0) 与无线 (wlan0) 网卡配置静态 IP、默认路由及 DNS。同时针对旁路由分流场景，提供了禁用系统 IPv6（防止规则绕过）以及关闭 systemd-resolved 本地缓存（解决 FakeDNS 引起的 SSL 证书错误）的调优方案。
+description: 基于 Netplan 的树莓派网络配置与服务优化指南。内容包含编写 YAML 文件为有线 (eth0) 与无线 (wlan0) 网卡配置静态 IP、默认路由及 DNS。同时针对旁路由分流场景，提供了禁用系统 IPv6（防止规则绕过）以及关闭 systemd-resolved 本地缓存（解决 FakeDNS 引起的 SSL 证书错误）的调优方案。
 tags:
   - raspberry-pi
   - netplan

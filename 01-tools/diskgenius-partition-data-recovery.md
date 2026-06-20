@@ -1,7 +1,7 @@
 ---
 title: "DiskGenius教程"
 filename: diskgenius-partition-data-recovery
-summary: DiskGenius 是一款集分区管理、数据恢复及备份还原于一体的全能型磁盘工具。本笔记汇总了其核心功能，包括误删除/格式化后的深度数据恢复、无损调整分区大小、4K 对齐检测以及系统迁移至 SSD 等高级操作。通过对比免费版、标准版与专业版的功能差异，为用户在处理硬盘坏道检测、文件粉碎及磁盘克隆等场景时提供了专业的工具选择建议。
+description: DiskGenius 是一款集分区管理、数据恢复及备份还原于一体的全能型磁盘工具。本笔记汇总了其核心功能，包括误删除/格式化后的深度数据恢复、无损调整分区大小、4K 对齐检测以及系统迁移至 SSD 等高级操作。通过对比免费版、标准版与专业版的功能差异，为用户在处理硬盘坏道检测、文件粉碎及磁盘克隆等场景时提供了专业的工具选择建议。
 tags: ["DiskGenius", "Data-Recovery", "Partition-Management", "Windows-Tools", "Hardware"]
 aliases: ["DiskGenius教程", "数据恢复工具", "磁盘分区助手"]
 status: completed

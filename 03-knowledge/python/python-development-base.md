@@ -1,7 +1,7 @@
 ---
 title: "Python基础开发指南"
 filename: python-development-base
-summary: Python 开发环境部署与包管理指南。详述了 Python 源码编译、Venv、Pip, Conda 的配置，给出了解决 Conda 环境下 Pip 路径失配的 site.py 修改步骤。对比了 Poetry 依赖解析与 Pipx 独立工具管理，总结了 Classmethod、Property、Dataclass 常用装饰器、邮件与文件处理模块，以及 PyInstaller 与 Nuitka 分发分包方案。
+description: Python 开发环境部署与包管理指南。详述了 Python 源码编译、Venv、Pip, Conda 的配置，给出了解决 Conda 环境下 Pip 路径失配的 site.py 修改步骤。对比了 Poetry 依赖解析与 Pipx 独立工具管理，总结了 Classmethod、Property、Dataclass 常用装饰器、邮件与文件处理模块，以及 PyInstaller 与 Nuitka 分发分包方案。
 tags:
   - python
   - package-management

@@ -1,7 +1,7 @@
 ---
 title: "RST语法"
 filename: restructuredtext-syntax-industrial-mold
-summary: reStructuredText（RST）是Python社区的官方轻量级标记语言标准。本文介绍了RST“语义化与高度严谨”的设计哲学，通过直观对比指出其相对于Markdown在大型技术文档编写中的优势，并详细演示了目录大纲树（toctree）、警告框指令及行内样式等核心语法的使用方式。
+description: reStructuredText（RST）是Python社区的官方轻量级标记语言标准。本文介绍了RST“语义化与高度严谨”的设计哲学，通过直观对比指出其相对于Markdown在大型技术文档编写中的优势，并详细演示了目录大纲树（toctree）、警告框指令及行内样式等核心语法的使用方式。
 tags: [restructuredtext, rst, documentation-standards, technical-writing]
 aliases: [RST语法, reStructuredText配置, 语义标记语言]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "FRP配置"
 filename: frp-reverse-proxy-setup
-summary: FRP (Fast Reverse Proxy) 是一款高性能的反向代理工具，核心用于将内网服务暴露至公网（内网穿透）。本文介绍了 v0.67.0 版本的安装步骤，详细说明了服务端 (frps) 与客户端 (frpc) 的 TOML 配置文件编写，包括 SSH 与 Web 服务的代理配置。同时提供了通过 Systemd 管理 FRP 服务的实战指南。
+description: FRP (Fast Reverse Proxy) 是一款高性能的反向代理工具，核心用于将内网服务暴露至公网（内网穿透）。本文介绍了 v0.67.0 版本的安装步骤，详细说明了服务端 (frps) 与客户端 (frpc) 的 TOML 配置文件编写，包括 SSH 与 Web 服务的代理配置。同时提供了通过 Systemd 管理 FRP 服务的实战指南。
 tags: [frp, reverse-proxy, intranet-penetration, network]
 aliases: [FRP配置]
 status: completed

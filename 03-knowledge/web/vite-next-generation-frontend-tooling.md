@@ -2,7 +2,7 @@
 status: completed
 filename: vite-next-generation-frontend-tooling
 title: "Vite 教程"
-summary: 本笔记记录了新一代前端构建工具 Vite 的核心定位与基础用法。阐述了其诞生初衷：利用现代浏览器原生支持 ES Modules (ESM) 的特性，取代传统 Webpack 必须先将整个应用彻底抓取并打包后才能提供服务的笨重机制，从而实现极速的冷启动与毫秒级的热更新 (HMR)。并提供了基于 npm 的官方脚手架初始化命令，是现代 Vue 3 和 React 项目的首选构建底座。
+description: 本笔记记录了新一代前端构建工具 Vite 的核心定位与基础用法。阐述了其诞生初衷：利用现代浏览器原生支持 ES Modules (ESM) 的特性，取代传统 Webpack 必须先将整个应用彻底抓取并打包后才能提供服务的笨重机制，从而实现极速的冷启动与毫秒级的热更新 (HMR)。并提供了基于 npm 的官方脚手架初始化命令，是现代 Vue 3 和 React 项目的首选构建底座。
 aliases: [Vite 教程, 前端构建工具, Vite 原理]
 tags: [前端工程化, Vite, 构建工具, ESM, Vue.js, React]
 date created: 星期一, 十二月 1日 2025, 9:59:27 上午

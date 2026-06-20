@@ -1,7 +1,7 @@
 ---
 title: "Spark安装与配置指南"
 filename: spark-setup-and-usage
-summary: Apache Spark 是一款通用分布式数据处理框架。本指南详述了其多环境（Windows、单机、伪分布式、分布式集群）安装、PySpark 库集成与 Systemd 守护配置。重点提供了 PySpark 核心算子在 Map/List/Set 聚合、窗口函数及时间间隔计算等业务场景下的代码，并针对 OOM 内存溢出和 BigQuery 写入报错给出了优化与避坑建议。
+description: Apache Spark 是一款通用分布式数据处理框架。本指南详述了其多环境（Windows、单机、伪分布式、分布式集群）安装、PySpark 库集成与 Systemd 守护配置。重点提供了 PySpark 核心算子在 Map/List/Set 聚合、窗口函数及时间间隔计算等业务场景下的代码，并针对 OOM 内存溢出和 BigQuery 写入报错给出了优化与避坑建议。
 tags:
   - spark
   - pyspark

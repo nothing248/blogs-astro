@@ -1,7 +1,7 @@
 ---
 title: "Pregel图计算"
 filename: pregel-google-graph-computing
-summary: Pregel是Google提出的一种用于处理大规模图数据的分布式并行计算框架。本文阐述了其基于整体同步并行计算模型的运作机制。详细解释了“以顶点为中心”的核心思想、超步间同步和消息传递流程、以及Active/Inactive状态机转换与图拓扑修改逻辑。
+description: Pregel是Google提出的一种用于处理大规模图数据的分布式并行计算框架。本文阐述了其基于整体同步并行计算模型的运作机制。详细解释了“以顶点为中心”的核心思想、超步间同步和消息传递流程、以及Active/Inactive状态机转换与图拓扑修改逻辑。
 tags:
   - pregel
   - distributed-graph-computing

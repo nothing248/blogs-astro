@@ -1,7 +1,7 @@
 ---
 title: "Rime配置"
 filename: rime-input-method-ecosystem
-summary: Rime（中州韵输入法引擎）是强大的高度可自定义输入法框架。本文解析了Rime输入法引擎的架构生态体系，细致对比了Weasel（小狼毫）、Squirrel（鼠须管）及同文输入法在不同操作系统上的客户端载体配置，为搭建个性化极客输入方案提供了核心配置思路。
+description: Rime（中州韵输入法引擎）是强大的高度可自定义输入法框架。本文解析了Rime输入法引擎的架构生态体系，细致对比了Weasel（小狼毫）、Squirrel（鼠须管）及同文输入法在不同操作系统上的客户端载体配置，为搭建个性化极客输入方案提供了核心配置思路。
 tags: [rime, input-method, cross-platform, config-customization]
 aliases: [Rime配置, 中州韵输入法, 小狼毫Squirrel]
 status: completed

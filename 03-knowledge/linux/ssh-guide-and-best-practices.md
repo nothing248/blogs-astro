@@ -1,7 +1,7 @@
 ---
 title: "ssh-guide"
 filename: ssh-guide-and-best-practices
-summary: 本文系统梳理了 OpenSSH 安全远程登录协议的工作原理与实战指南。涵盖服务端安装配置、端口修改、客户端本地与远程端口转发（-L/-R）的实现语法；重点讲解了 ~/.ssh/config 进阶配置与多级跳板机透明代理工具 assh，对比了现代 Ed25519 与传统 RSA 密钥的安全性与生成命令，并提供 sshpass 及 ssh-agent 的密钥自动托管机制。
+description: 本文系统梳理了 OpenSSH 安全远程登录协议的工作原理与实战指南。涵盖服务端安装配置、端口修改、客户端本地与远程端口转发（-L/-R）的实现语法；重点讲解了 ~/.ssh/config 进阶配置与多级跳板机透明代理工具 assh，对比了现代 Ed25519 与传统 RSA 密钥的安全性与生成命令，并提供 sshpass 及 ssh-agent 的密钥自动托管机制。
 tags:
   - ssh
   - openssh

@@ -1,7 +1,7 @@
 ---
 title: "GitLab安装"
 filename: gitlab-ce-self-hosted-installation
-summary: GitLab CE是企业级私有代码仓库与协作平台。本文介绍在Debian/Ubuntu环境基于官方APT源和手动包下载部署GitLab的流程。详细罗列了默认目录、SMTP邮件通知配置、反向代理与SSL证书启用、以及配置变更后使用reconfigure和restart指令使设置生效的流程。
+description: GitLab CE是企业级私有代码仓库与协作平台。本文介绍在Debian/Ubuntu环境基于官方APT源和手动包下载部署GitLab的流程。详细罗列了默认目录、SMTP邮件通知配置、反向代理与SSL证书启用、以及配置变更后使用reconfigure和restart指令使设置生效的流程。
 tags: [gitlab, self-hosting, gitlab-ce, smtp-config]
 aliases: [GitLab安装, GitLab配置, 私有代码仓库]
 status: completed

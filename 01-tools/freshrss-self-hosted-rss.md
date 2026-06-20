@@ -1,7 +1,7 @@
 ---
 title: "FreshRSS搭建"
 filename: freshrss-self-hosted-rss
-summary: FreshRSS是优秀的开源自托管RSS聚合器。本文提供了基于Docker Compose的快速搭建方法，包含了MySQL与SQLite数据库选型、安全反向代理环境参数、基于WebSub协议的实时信息拉取配置，以及在多设备端同步订阅源的最佳实践，属于高效信息聚合的核心行动项。
+description: FreshRSS是优秀的开源自托管RSS聚合器。本文提供了基于Docker Compose的快速搭建方法，包含了MySQL与SQLite数据库选型、安全反向代理环境参数、基于WebSub协议的实时信息拉取配置，以及在多设备端同步订阅源的最佳实践，属于高效信息聚合的核心行动项。
 tags: [freshrss, rss-aggregator, docker-compose, self-hosting]
 aliases: [FreshRSS搭建, RSS聚合器, 自建阅读器]
 status: completed

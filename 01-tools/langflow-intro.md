@@ -1,7 +1,7 @@
 ---
 title: "Langflow"
 filename: langflow-intro
-summary: Langflow 是一个用于 LangChain 的可视化 UI 界面，允许用户通过拖拽组件的方式快速构建 LLM 工作流。目前本笔记仅包含官方参考链接。
+description: Langflow 是一个用于 LangChain 的可视化 UI 界面，允许用户通过拖拽组件的方式快速构建 LLM 工作流。目前本笔记仅包含官方参考链接。
 tags: [Langflow, Low-Code, AI-Tools]
 aliases: [Langflow]
 status: pending

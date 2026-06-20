@@ -1,7 +1,7 @@
 ---
 title: "Ollama教程"
 filename: ollama-local-llm-deployment
-summary: Ollama是极简的本地大模型管理和运行框架。本文介绍通过单条命令在本地运行Llama、Qwen等模型的步骤。涵盖守护进程的默认端口监听机制、通过Modelfile定制模型系统提示词与温度参数的方法、以及与WebUI和本地其他开发环境对接的命令行参数。
+description: Ollama是极简的本地大模型管理和运行框架。本文介绍通过单条命令在本地运行Llama、Qwen等模型的步骤。涵盖守护进程的默认端口监听机制、通过Modelfile定制模型系统提示词与温度参数的方法、以及与WebUI和本地其他开发环境对接的命令行参数。
 tags: [ollama, local-llm, ai-infrastructure, modelfile]
 aliases: [Ollama教程, 本地大模型, Modelfile配置]
 status: completed

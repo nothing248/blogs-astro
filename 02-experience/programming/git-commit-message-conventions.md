@@ -1,7 +1,7 @@
 ---
 title: "git commit 规范"
 filename: git-commit-message-conventions
-summary: 本指南介绍 Git 提交的核心原则与约定式提交（Conventional Commits）规范。提倡原子化提交，并规范提交信息的格式。详细介绍包含 feat、fix、docs、refactor 等常用提交类型，阐述编写提交信息的 50/72 规则与祈使句使用技巧。同时，列出提交前检查清单，并提供 git commit --amend 及交互式 git add -p 等实用进阶命令以优化代码提交历史。
+description: 本指南介绍 Git 提交的核心原则与约定式提交（Conventional Commits）规范。提倡原子化提交，并规范提交信息的格式。详细介绍包含 feat、fix、docs、refactor 等常用提交类型，阐述编写提交信息的 50/72 规则与祈使句使用技巧。同时，列出提交前检查清单，并提供 git commit --amend 及交互式 git add -p 等实用进阶命令以优化代码提交历史。
 tags: [git, commit-conventions, developer-workflow, best-practices, collaboration]
 aliases: [git commit 规范, 约定式提交, git 提交规范, Git最佳实践]
 status: completed

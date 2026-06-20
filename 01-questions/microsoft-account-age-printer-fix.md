@@ -1,7 +1,7 @@
 ---
 title: "微软账户年龄修改"
 filename: microsoft-account-age-printer-fix
-summary: 本笔记涵盖了两个常见的 Windows 及其生态问题：一是 Microsoft 账户因年龄设置导致的权限受限及家庭组管理方案，详细说明了如何通过成年人账户修改未成年人年龄来解除软件访问限制；二是打印机删除任务卡死的排查步骤，提供了停止 Print Spooler 服务、清理缓存文件并重新启动服务的标准修复流程。
+description: 本笔记涵盖了两个常见的 Windows 及其生态问题：一是 Microsoft 账户因年龄设置导致的权限受限及家庭组管理方案，详细说明了如何通过成年人账户修改未成年人年龄来解除软件访问限制；二是打印机删除任务卡死的排查步骤，提供了停止 Print Spooler 服务、清理缓存文件并重新启动服务的标准修复流程。
 tags: ["Microsoft-Account", "Family-Safety", "Printer-Spooler", "Windows-Fix"]
 aliases: ["微软账户年龄修改", "打印机任务清理", "Print Spooler 修复"]
 status: completed

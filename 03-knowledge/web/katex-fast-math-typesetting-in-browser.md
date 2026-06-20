@@ -2,7 +2,7 @@
 status: completed
 filename: katex-fast-math-typesetting-in-browser
 title: "KaTeX 渲染"
-summary: 本笔记记录了专为浏览器设计的极速 LaTeX 数学公式渲染引擎 KaTeX 的基础使用方法。提供了通过 CDN 快速引入底层 CSS 与 JS 依赖的挂载标签，并展示了如何通过原生 `katex.render` API 将 LaTeX 公式字符串动态解析渲染至指定的 DOM 容器中。此外，横向提及了另一经典引擎 MathJax，为开发博客系统或学术文档平台的数学排版功能提供组件选型参考。
+description: 本笔记记录了专为浏览器设计的极速 LaTeX 数学公式渲染引擎 KaTeX 的基础使用方法。提供了通过 CDN 快速引入底层 CSS 与 JS 依赖的挂载标签，并展示了如何通过原生 `katex.render` API 将 LaTeX 公式字符串动态解析渲染至指定的 DOM 容器中。此外，横向提及了另一经典引擎 MathJax，为开发博客系统或学术文档平台的数学排版功能提供组件选型参考。
 aliases: [KaTeX 渲染, Web 公式排版, LaTeX 前端渲染]
 tags: [前端开发, LaTeX, KaTeX, Web 排版, 数据可视化, 数学公式]
 date created: 星期二, 二月 25日 2025, 3:24:17 下午

@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare配置指南"
 filename: cloudflare-workers-deployment-guide
-summary: Cloudflare 是全球领先 of 云服务商，提供免费 CDN、DDoS 缓解与安全 DNS 等功能。本笔记主要记录了 Cloudflare Workers 边缘无服务器计算平台的开发与部署流程。内容涵盖使用 CLI 工具 Wrangler 进行安装、初始化、OAuth2.0 与 API Token 授权方式，详解了 wrangler.jsonrc 配置文件的常见属性与多 Worker 绑定，以及利用 Zero Trust Tunnel 暴露本地内网服务和边缘证书三级域名的限制。
+description: Cloudflare 是全球领先 of 云服务商，提供免费 CDN、DDoS 缓解与安全 DNS 等功能。本笔记主要记录了 Cloudflare Workers 边缘无服务器计算平台的开发与部署流程。内容涵盖使用 CLI 工具 Wrangler 进行安装、初始化、OAuth2.0 与 API Token 授权方式，详解了 wrangler.jsonrc 配置文件的常见属性与多 Worker 绑定，以及利用 Zero Trust Tunnel 暴露本地内网服务和边缘证书三级域名的限制。
 tags: ["Cloudflare", "Wrangler", "Serverless-Workers", "CDN", "Zero-Trust"]
 aliases: ["Cloudflare配置指南", "Wrangler使用", "Cloudflare内网穿透"]
 status: completed

@@ -2,7 +2,7 @@
 status: completed
 filename: openssl-cryptography-and-ssl-certificate-management
 title: "OpenSSL 命令"
-summary: 本笔记记录了强大的开源安全加密库 OpenSSL 的常用运维指令。详细覆盖了从文本/文件级 MD5 数据摘要生成（含加盐处理），到基于 RSA 算法非对称密钥对（公私钥）的创建。重点梳理了构建自签名证书体系的全链路操作：生成根 CA、签发包含 SAN（多域名备用名称）扩展的 CSR 请求，以及最终签署 `.crt` 服务端证书的流程，是搭建内网 HTTPS 测试环境或进行数据防篡改校验的基础字典。
+description: 本笔记记录了强大的开源安全加密库 OpenSSL 的常用运维指令。详细覆盖了从文本/文件级 MD5 数据摘要生成（含加盐处理），到基于 RSA 算法非对称密钥对（公私钥）的创建。重点梳理了构建自签名证书体系的全链路操作：生成根 CA、签发包含 SAN（多域名备用名称）扩展的 CSR 请求，以及最终签署 `.crt` 服务端证书的流程，是搭建内网 HTTPS 测试环境或进行数据防篡改校验的基础字典。
 aliases: [OpenSSL 命令, 生成 SSL 证书, 自签名证书, 生成 RSA 密钥]
 tags: [Linux, 网络安全, SSL, 密码学, OpenSSL, 证书管理, HTTPS]
 date created: 星期二, 二月 25日 2025, 3:24:01 下午

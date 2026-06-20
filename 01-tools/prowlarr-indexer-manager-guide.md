@@ -1,7 +1,7 @@
 ---
 title: "Prowlarr图床配置"
 filename: prowlarr-indexer-manager-guide
-summary: Prowlarr 是一款专为影音爱好者设计的开源索引管理工具（Indexer Manager），属于著名的“Arr”家族系列。它能够无缝聚合各种公共（Public）和私有（PT）资源站，并同步至 Sonarr, Radarr, Lidarr 等下游应用。本文提供了 Docker Compose 部署方案及核心环境变量配置，是搭建全自动化家庭影音中心的关键环节。
+description: Prowlarr 是一款专为影音爱好者设计的开源索引管理工具（Indexer Manager），属于著名的“Arr”家族系列。它能够无缝聚合各种公共（Public）和私有（PT）资源站，并同步至 Sonarr, Radarr, Lidarr 等下游应用。本文提供了 Docker Compose 部署方案及核心环境变量配置，是搭建全自动化家庭影音中心的关键环节。
 tags: [prowlarr, media-server, self-hosted, docker, pvr, automation]
 aliases: [Prowlarr图床配置, PT索引管理, Arr家族工具]
 status: completed

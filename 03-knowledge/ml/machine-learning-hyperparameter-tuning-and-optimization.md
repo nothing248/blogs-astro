@@ -2,7 +2,7 @@
 status: completed
 filename: machine-learning-hyperparameter-tuning-and-optimization
 title: "模型调参"
-summary: 本笔记系统梳理了深度学习与机器学习模型训练中的核心超参数调优策略。详细列举了常见的激活函数，并深入剖析了应对梯度消失的权重初始化方案（如针对线性函数的 Xavier 初始化与针对 ReLU 的 He 初始化）。此外，探讨了利用 Batch Normalization 加速收敛的机制，以及通过权值衰减和 Dropout 抑制过拟合的正则化手段。最后总结了贝叶斯搜索等调参算法与 K 折交叉验证的实战思路，是构建鲁棒神经网络的底层理论参考。
+description: 本笔记系统梳理了深度学习与机器学习模型训练中的核心超参数调优策略。详细列举了常见的激活函数，并深入剖析了应对梯度消失的权重初始化方案（如针对线性函数的 Xavier 初始化与针对 ReLU 的 He 初始化）。此外，探讨了利用 Batch Normalization 加速收敛的机制，以及通过权值衰减和 Dropout 抑制过拟合的正则化手段。最后总结了贝叶斯搜索等调参算法与 K 折交叉验证的实战思路，是构建鲁棒神经网络的底层理论参考。
 aliases: [模型调参, 超参数优化, 权重初始化, Dropout, Batch Normalization]
 tags: [人工智能, 机器学习, 深度学习, 模型调优, 神经网络, 正则化]
 date created: 星期二, 二月 25日 2025, 3:23:56 下午

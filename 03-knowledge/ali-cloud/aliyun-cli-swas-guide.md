@@ -1,7 +1,7 @@
 ---
 title: "Aliyun CLI"
 filename: aliyun-cli-swas-guide
-summary: 介绍阿里云命令行工具（Aliyun CLI）在 MacOS 下的安装与配置流程，重点阐述了通过安装 `swas-open` 插件来管理阿里云轻量应用服务器（SWAS）实例的命令行操作。包括查询可用地域、创建实例、获取实例列表等实用命令，并附带了全球主要地域的 Endpoint 信息及官方 API 参考指南。
+description: 介绍阿里云命令行工具（Aliyun CLI）在 MacOS 下的安装与配置流程，重点阐述了通过安装 `swas-open` 插件来管理阿里云轻量应用服务器（SWAS）实例的命令行操作。包括查询可用地域、创建实例、获取实例列表等实用命令，并附带了全球主要地域的 Endpoint 信息及官方 API 参考指南。
 tags:
   - 阿里云
   - 命令行工具

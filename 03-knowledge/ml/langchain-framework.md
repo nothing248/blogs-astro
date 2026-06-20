@@ -1,7 +1,7 @@
 ---
 title: "LangChain框架介绍"
 filename: langchain-framework
-summary: LangChain 是一个以大语言模型为核心的开源开发框架，支持 Python 和 TypeScript。本笔记梳理了其六大核心组件（Models、Prompts、Indexes、Memory、Chains、Agents），更新了生态组件 LangSmith 调试监控平台的最新定位，并保留了官方调试指南与社区分析文章链接。
+description: LangChain 是一个以大语言模型为核心的开源开发框架，支持 Python 和 TypeScript。本笔记梳理了其六大核心组件（Models、Prompts、Indexes、Memory、Chains、Agents），更新了生态组件 LangSmith 调试监控平台的最新定位，并保留了官方调试指南与社区分析文章链接。
 tags:
   - langchain
   - LLM

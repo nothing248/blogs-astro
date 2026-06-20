@@ -2,7 +2,7 @@
 status: completed
 filename: uv-rust-based-ultra-fast-python-package-manager
 title: "uv 工具"
-summary: 本笔记深研了由 Astral 开发、基于 Rust 编写的新一代极速 Python 包与环境管理器 `uv`。系统记录了其基础安装、虚拟环境与多 Python 版本的纳管指令。重点解析了其在项目依赖锁定上的演进逻辑：从传统的 `pip-tools` (pip-compile/pip-sync) 升级至更高效的 `uv lock` / `uv sync`，以解决“版本漂移”与幽灵依赖痛点。同时横向对比了 `uv run` 与 `uvx` (uv tool run) 在项目内执行与全局隔离工具执行上的场景差异，为替换传统的 pip 与 Poetry 提供现代选型依据。
+description: 本笔记深研了由 Astral 开发、基于 Rust 编写的新一代极速 Python 包与环境管理器 `uv`。系统记录了其基础安装、虚拟环境与多 Python 版本的纳管指令。重点解析了其在项目依赖锁定上的演进逻辑：从传统的 `pip-tools` (pip-compile/pip-sync) 升级至更高效的 `uv lock` / `uv sync`，以解决“版本漂移”与幽灵依赖痛点。同时横向对比了 `uv run` 与 `uvx` (uv tool run) 在项目内执行与全局隔离工具执行上的场景差异，为替换传统的 pip 与 Poetry 提供现代选型依据。
 aliases: [uv 工具, 极速 Python 包管理, uvx, Astral uv]
 tags: [Python, 包管理, 工程化, Rust, 虚拟环境, 依赖锁定, uv]
 date created: 星期二, 三月 24日 2026, 3:38:03 下午

@@ -1,7 +1,7 @@
 ---
 title: "网络诊断"
 filename: network-diagnosis-and-optimization
-summary: 网络诊断与优化指南，涵盖网速测速工具、ping 与 traceroute 命令行检测延迟及跃点的解析方法。介绍 Windows 接口跃点数调整以优化网络优先级，以及小米路由器 SSH 登录配置。包含 Linux 系统中清除 DNS 缓存与 NetworkManager 重启命令，助力高效排查局域网及互联网连通性故障。
+description: 网络诊断与优化指南，涵盖网速测速工具、ping 与 traceroute 命令行检测延迟及跃点的解析方法。介绍 Windows 接口跃点数调整以优化网络优先级，以及小米路由器 SSH 登录配置。包含 Linux 系统中清除 DNS 缓存与 NetworkManager 重启命令，助力高效排查局域网及互联网连通性故障。
 tags:
   - network
   - diagnosis

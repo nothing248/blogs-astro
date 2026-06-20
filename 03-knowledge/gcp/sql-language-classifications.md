@@ -1,7 +1,7 @@
 ---
 title: "SQL五大分类"
 filename: sql-language-classifications
-summary: SQL 数据库语言的完整分类指南。系统梳理了五大核心子集：数据定义 DDL（CREATE、ALTER）、数据操作 DML（INSERT、UPDATE）、数据查询 DQL（SELECT）、数据控制 DCL（GRANT）和事务控制 TCL（COMMIT、ROLLBACK），并补充了用于调优的维护命令 DAL（EXPLAIN）。通过对比表与直观比喻，明确阐述了各子集的命令边界与应用场景。
+description: SQL 数据库语言的完整分类指南。系统梳理了五大核心子集：数据定义 DDL（CREATE、ALTER）、数据操作 DML（INSERT、UPDATE）、数据查询 DQL（SELECT）、数据控制 DCL（GRANT）和事务控制 TCL（COMMIT、ROLLBACK），并补充了用于调优的维护命令 DAL（EXPLAIN）。通过对比表与直观比喻，明确阐述了各子集的命令边界与应用场景。
 tags:
   - sql
   - database

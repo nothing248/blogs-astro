@@ -1,7 +1,7 @@
 ---
 title: "机器学习工作站配置"
 filename: ml-workstation-setup
-summary: 本笔记记录了在戴尔 Precision 3660（RTX 3090）上搭建 ML 工作站的实操方案。由于 ACPI 电源及 Nvidia 驱动 IRQ 冲突等兼容性问题放弃了 CentOS 7.9，转而采用 Ubuntu 部署。详细列出了 Ubuntu 下配置 VNC、frp 内网穿透以及搭建 Miniconda、JupyterHub、Docker 和 Spark 等开发环境的软件技术栈。
+description: 本笔记记录了在戴尔 Precision 3660（RTX 3090）上搭建 ML 工作站的实操方案。由于 ACPI 电源及 Nvidia 驱动 IRQ 冲突等兼容性问题放弃了 CentOS 7.9，转而采用 Ubuntu 部署。详细列出了 Ubuntu 下配置 VNC、frp 内网穿透以及搭建 Miniconda、JupyterHub、Docker 和 Spark 等开发环境的软件技术栈。
 tags:
   - machine-learning
   - workstation

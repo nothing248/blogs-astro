@@ -2,7 +2,7 @@
 status: completed
 filename: homebrew-macos-package-manager-and-mirrors
 title: "Homebrew 换源"
-summary: 本笔记总结了 macOS 平台下最核心的包管理工具 Homebrew (brew) 的架构模块与高频实操指令。详细梳理了 brew 核心源码、homebrew-core 软件库及 pre-compiled 二进制包 (bottles) 三大底层组件的职责。为了解决国内网络环境下的拉取瓶颈，提供了完整利用 Git remote 与环境变量替换阿里云镜像源的 Shell 配置代码，并附带了使用 aria2 增强下载并发能力的极致加速技巧。
+description: 本笔记总结了 macOS 平台下最核心的包管理工具 Homebrew (brew) 的架构模块与高频实操指令。详细梳理了 brew 核心源码、homebrew-core 软件库及 pre-compiled 二进制包 (bottles) 三大底层组件的职责。为了解决国内网络环境下的拉取瓶颈，提供了完整利用 Git remote 与环境变量替换阿里云镜像源的 Shell 配置代码，并附带了使用 aria2 增强下载并发能力的极致加速技巧。
 aliases: [Homebrew 换源, Mac 包管理器, brew 命令, Mac 软件安装]
 tags: [macOS, Homebrew, 运维部署, 环境配置, 包管理器, Git]
 date created: 星期一, 十二月 22日 2025, 12:28:24 凌晨

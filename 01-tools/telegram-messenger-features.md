@@ -1,7 +1,7 @@
 ---
 title: "Telegram简介"
 filename: telegram-messenger-features
-summary: Telegram 是一款追求极致速度和隐私安全的即时通讯工具，拥有庞大的群组、频道和机器人生态。本文记录了其基础定位，并指出了在国内环境下使用时，APP 内部验证码（非短信验证码）可能出现的接收异常问题。它是信息获取和私密社群交流的核心工具。
+description: Telegram 是一款追求极致速度和隐私安全的即时通讯工具，拥有庞大的群组、频道和机器人生态。本文记录了其基础定位，并指出了在国内环境下使用时，APP 内部验证码（非短信验证码）可能出现的接收异常问题。它是信息获取和私密社群交流的核心工具。
 tags: [messenger, security, telegram]
 aliases: [Telegram简介]
 status: completed

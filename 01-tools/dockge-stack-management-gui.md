@@ -1,7 +1,7 @@
 ---
 title: "Dockge安装教程"
 filename: dockge-stack-management-gui
-summary: Dockge 是一款基于 Web 界面的 Docker Compose 栈管理工具，以极简和易用著称。本笔记介绍了 Dockge 的安装部署流程（支持 Podman 环境），重点强调了宿主机与容器内 Stacks 路径一致性的核心配置要求。此外，还对比了 `dockerd` 守护进程与 `podman.socket` 在资源占用与激活机制上的差异，为用户提供了高效、直观的多容器应用管理方案。
+description: Dockge 是一款基于 Web 界面的 Docker Compose 栈管理工具，以极简和易用著称。本笔记介绍了 Dockge 的安装部署流程（支持 Podman 环境），重点强调了宿主机与容器内 Stacks 路径一致性的核心配置要求。此外，还对比了 `dockerd` 守护进程与 `podman.socket` 在资源占用与激活机制上的差异，为用户提供了高效、直观的多容器应用管理方案。
 tags: ["Dockge", "Docker-Compose", "GUI", "Podman", "Self-Hosted"]
 aliases: ["Dockge安装教程", "Docker面板", "Compose栈管理"]
 status: completed

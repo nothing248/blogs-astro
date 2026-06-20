@@ -1,7 +1,7 @@
 ---
 title: "WireGuard安装"
 filename: wireguard-vpn-peer-setup
-summary: WireGuard是现代化、极速轻量的VPN组网安全通道协议。本文介绍了在Ubuntu与Windows下生成公私钥并初始化虚拟网卡的步骤。提供一份典型的网络配置文件样例，涵盖了路由地址分配、端口监听声明、节点保持激活的PersistentKeepalive参数，帮助实现跨地域设备组网。
+description: WireGuard是现代化、极速轻量的VPN组网安全通道协议。本文介绍了在Ubuntu与Windows下生成公私钥并初始化虚拟网卡的步骤。提供一份典型的网络配置文件样例，涵盖了路由地址分配、端口监听声明、节点保持激活的PersistentKeepalive参数，帮助实现跨地域设备组网。
 tags: [wireguard, vpn-networking, network-security, peer-to-peer]
 aliases: [WireGuard安装, 局域网组网, wg0配置]
 status: completed

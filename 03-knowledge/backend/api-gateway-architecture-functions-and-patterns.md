@@ -2,7 +2,7 @@
 status: completed
 filename: api-gateway-architecture-functions-and-patterns
 title: "API Gateway"
-summary: 本笔记系统梳理了 API 网关在微服务体系中的核心职责与设计模式。涵盖了身份验证与安全策略（Auth）、动态负载均衡、断路器熔断机制、协议转换（如 HTTP/JSON 到 gRPC/Protobuf）及服务发现。同时，探讨了网关在全链路监控、计费审计、流量限流及分布式缓存方面的关键作用，旨在构建高性能、高可用的系统统一入口。
+description: 本笔记系统梳理了 API 网关在微服务体系中的核心职责与设计模式。涵盖了身份验证与安全策略（Auth）、动态负载均衡、断路器熔断机制、协议转换（如 HTTP/JSON 到 gRPC/Protobuf）及服务发现。同时，探讨了网关在全链路监控、计费审计、流量限流及分布式缓存方面的关键作用，旨在构建高性能、高可用的系统统一入口。
 aliases: [API Gateway, 系统入口设计, 流量网关职责]
 tags: [后端开发, API 网关, 微服务架构, 服务发现, 负载均衡, 系统安全, 后端工程, 架构设计]
 date created: 星期二, 二月 25日 2025, 3:23:34 下午

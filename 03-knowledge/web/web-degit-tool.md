@@ -1,7 +1,7 @@
 ---
 title: "degit项目模板拉取"
 filename: web-degit-tool
-summary: 项目脚手架快速生成工具 degit 的实践指南。内容涵盖该工具的底层原理（通过下载 Tarball 避免拉取整个 Git 提交历史），并通过全局安装与 npx 免安装两种形式，展示了克隆指定分支、指定 tag、私有仓库和自定义输出目录的常用命令行指令及 degit.json 后置行为配置。
+description: 项目脚手架快速生成工具 degit 的实践指南。内容涵盖该工具的底层原理（通过下载 Tarball 避免拉取整个 Git 提交历史），并通过全局安装与 npx 免安装两种形式，展示了克隆指定分支、指定 tag、私有仓库和自定义输出目录的常用命令行指令及 degit.json 后置行为配置。
 tags:
   - web
   - dev-tools

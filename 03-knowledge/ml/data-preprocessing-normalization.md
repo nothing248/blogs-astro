@@ -1,7 +1,7 @@
 ---
 title: "数据标准化与归一化"
 filename: data-preprocessing-normalization
-summary: 数据预处理中，特征缩放是消除不同特征间量纲影响的关键步骤。本笔记重点整理了 Z-score 标准化（Standardization）的核心原理与计算公式，并将其与 Min-Max 归一化（Normalization）进行了对比，分析了它们在消除量纲差异、处理异常值方面的优缺点及具体应用场景。
+description: 数据预处理中，特征缩放是消除不同特征间量纲影响的关键步骤。本笔记重点整理了 Z-score 标准化（Standardization）的核心原理与计算公式，并将其与 Min-Max 归一化（Normalization）进行了对比，分析了它们在消除量纲差异、处理异常值方面的优缺点及具体应用场景。
 tags:
   - machine-learning
   - data-preprocessing

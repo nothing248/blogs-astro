@@ -1,7 +1,7 @@
 ---
 title: "Nacos"
 filename: nacos-config-center
-summary: Nacos (Dynamic Naming and Configuration Service) 是阿里巴巴开源的一个易于构建云原生应用的动态服务发现、配置管理和服务管理平台。目前本笔记仅作为占位模板。
+description: Nacos (Dynamic Naming and Configuration Service) 是阿里巴巴开源的一个易于构建云原生应用的动态服务发现、配置管理和服务管理平台。目前本笔记仅作为占位模板。
 tags: [Nacos, Microservices, Service-Discovery, Configuration]
 aliases: [Nacos]
 status: pending

@@ -1,7 +1,7 @@
 ---
 title: "dbt教程"
 filename: dbt-data-transformation-guide
-summary: dbt（Data Build Tool）是现代数据栈（MDS）中专注于 ELT 模式下数据转换（Transform）的开源工具。本笔记系统梳理了 dbt 使用软件工程思想管理数据的高效范式，详细解析了其四大核心支柱（模型、ref 依赖管理、数据质量测试及缓慢变化维快照），归纳了从数据源定义到 Staging-Intermediate-Mart 分层模型的设计与编译运行流程。此外，还探讨了 Jinja 模板与 Macro 宏等动态 SQL 编程能力及开发最佳实践。
+description: dbt（Data Build Tool）是现代数据栈（MDS）中专注于 ELT 模式下数据转换（Transform）的开源工具。本笔记系统梳理了 dbt 使用软件工程思想管理数据的高效范式，详细解析了其四大核心支柱（模型、ref 依赖管理、数据质量测试及缓慢变化维快照），归纳了从数据源定义到 Staging-Intermediate-Mart 分层模型的设计与编译运行流程。此外，还探讨了 Jinja 模板与 Macro 宏等动态 SQL 编程能力及开发最佳实践。
 tags: ["dbt", "ELT", "Data-Transformation", "Data-Warehouse", "Modern-Data-Stack"]
 aliases: ["dbt教程", "数据转换工具", "Jinja-SQL"]
 status: completed

@@ -1,7 +1,7 @@
 ---
 title: "Kindle 使用指南"
 filename: kindle-usage-guide
-summary: 本指南介绍了 Amazon Kindle 阅读器及软件的使用技巧。涵盖了美区账户登录失败的解决方案（需修改地区并使用代理），以及五种向 Kindle 发送电子书的“优雅”方式，重点推荐单文件支持 200MB 的网页版上传。
+description: 本指南介绍了 Amazon Kindle 阅读器及软件的使用技巧。涵盖了美区账户登录失败的解决方案（需修改地区并使用代理），以及五种向 Kindle 发送电子书的“优雅”方式，重点推荐单文件支持 200MB 的网页版上传。
 tags: [Kindle, E-reader, Amazon, Efficiency]
 aliases: [Kindle 使用指南]
 status: completed

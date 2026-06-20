@@ -1,7 +1,7 @@
 ---
 title: "JumpServer简介"
 filename: jumpserver-bastion-machine-summary
-summary: JumpServer 是一款开源的堡垒机及运维安全审计平台。本文简要记录了其作为运维入口的核心定位。
+description: JumpServer 是一款开源的堡垒机及运维安全审计平台。本文简要记录了其作为运维入口的核心定位。
 tags: [bastion-machine, security, dev-ops, jumpserver]
 aliases: [JumpServer简介]
 status: pending

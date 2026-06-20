@@ -1,7 +1,7 @@
 ---
 title: "apipost接口调试"
 filename: apipost-api-management-tool
-summary: ApiPost 是一款国产一体化 API 协作平台，集接口调试、API 设计、Mock 服务与自动化测试于一体。本笔记简述了该工具的核心定位，并针对 macOS 客户端运行中可能出现的冷启动白屏、渲染渲染异常问题，给出了清理 AppData 缓存目录及调整 Electron GPU 硬件加速的排错指南与解决方案。
+description: ApiPost 是一款国产一体化 API 协作平台，集接口调试、API 设计、Mock 服务与自动化测试于一体。本笔记简述了该工具的核心定位，并针对 macOS 客户端运行中可能出现的冷启动白屏、渲染渲染异常问题，给出了清理 AppData 缓存目录及调整 Electron GPU 硬件加速的排错指南与解决方案。
 tags: [apipost, api-management, api-debugging, macos-issue]
 aliases: [apipost接口调试, apipost白屏故障, api管理平台]
 status: completed

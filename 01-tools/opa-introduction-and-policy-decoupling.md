@@ -1,7 +1,7 @@
 ---
 title: "OPA策略引擎"
 filename: opa-introduction-and-policy-decoupling
-summary: Open Policy Agent (OPA) 是一款开源、通用的轻量级策略引擎，旨在解耦应用程序业务逻辑与授权策略。本文探讨了 OPA 的核心价值，特别是如何通过将硬编码的授权逻辑转变为灵活的 Rego 策略脚本，实现云原生环境下的统一策略管理。同时结合 API 网关（如 Apache APISIX）展示了 OPA 在微服务架构中的实际应用路径。
+description: Open Policy Agent (OPA) 是一款开源、通用的轻量级策略引擎，旨在解耦应用程序业务逻辑与授权策略。本文探讨了 OPA 的核心价值，特别是如何通过将硬编码的授权逻辑转变为灵活的 Rego 策略脚本，实现云原生环境下的统一策略管理。同时结合 API 网关（如 Apache APISIX）展示了 OPA 在微服务架构中的实际应用路径。
 tags: [opa, open-policy-agent, cloud-native, authorization, security, microservices]
 aliases: [OPA策略引擎, 授权逻辑解耦, Rego语言]
 status: completed

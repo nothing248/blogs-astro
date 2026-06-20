@@ -1,7 +1,7 @@
 ---
 title: "Agent范式"
 filename: agent-architecture-paradigms
-summary: 探讨人工智能 Agent 的三种主流架构范式：ReAct（推理与行动交替循环）、Plan-and-Execute（规划与执行分离）和 Graph-Based/Tree-of-Thought（非线性思维与图树搜索）。分析它们在规划策略、执行效率、计算资源消耗和长时任务应对等维度的优缺点，并总结出各范式的核心应用场景与选型建议。
+description: 探讨人工智能 Agent 的三种主流架构范式：ReAct（推理与行动交替循环）、Plan-and-Execute（规划与执行分离）和 Graph-Based/Tree-of-Thought（非线性思维与图树搜索）。分析它们在规划策略、执行效率、计算资源消耗和长时任务应对等维度的优缺点，并总结出各范式的核心应用场景与选型建议。
 tags: [AI-Agent, 架构范式, ReAct, 规划与执行, 深度推理]
 aliases: [Agent范式, Agent架构设计, AI-Agent模式]
 status: completed

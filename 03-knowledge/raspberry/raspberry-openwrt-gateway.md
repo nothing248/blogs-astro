@@ -1,7 +1,7 @@
 ---
 title: "树莓派5旁路由部署"
 filename: raspberry-openwrt-gateway
-summary: 树莓派 5 上基于 Docker/Podman 部署 OpenWrt 旁路由的实操指南。内容涵盖通过 macvlan 驱动配置容器网络、导入官方 rootfs 镜像并以特权模式启动、静态 IP 初始化与 DNS/DHCP 服务调整。同时提供 LuCI、iStore 及 PassWall2 插件安装方案，并重点针对宿主机与容器互通及局域网断网等常见网络问题给出防火墙伪装与 rc.local 路由调优的避坑解决方案。
+description: 树莓派 5 上基于 Docker/Podman 部署 OpenWrt 旁路由的实操指南。内容涵盖通过 macvlan 驱动配置容器网络、导入官方 rootfs 镜像并以特权模式启动、静态 IP 初始化与 DNS/DHCP 服务调整。同时提供 LuCI、iStore 及 PassWall2 插件安装方案，并重点针对宿主机与容器互通及局域网断网等常见网络问题给出防火墙伪装与 rc.local 路由调优的避坑解决方案。
 tags:
   - raspberry-pi
   - openwrt

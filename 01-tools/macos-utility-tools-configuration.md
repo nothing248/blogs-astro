@@ -1,7 +1,7 @@
 ---
 title: "Mac效率工具"
 filename: macos-utility-tools-configuration
-summary: macOS实用工具配置与故障诊断指南。本文整理了在Mac系统下常用的效率套件，例如Maccy剪贴板历史工具的命令行安装，以及基于Homebrew配置以优化开发体验的工具列表。适合需要进行Mac环境初始化、多显示器缩放优化和磁盘空间清理的开发者参考。
+description: macOS实用工具配置与故障诊断指南。本文整理了在Mac系统下常用的效率套件，例如Maccy剪贴板历史工具的命令行安装，以及基于Homebrew配置以优化开发体验的工具列表。适合需要进行Mac环境初始化、多显示器缩放优化和磁盘空间清理的开发者参考。
 tags: [macos, productivity, maccy, brew]
 aliases: [Mac效率工具, Maccy安装, Mac环境配置]
 status: completed

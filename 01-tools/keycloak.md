@@ -1,7 +1,7 @@
 ---
 title: "Keycloak"
 filename: keycloak
-summary: Keycloak 是一款开源的身份和访问管理 (IAM) 系统。它提供了现代应用程序和服务所需的身份验证和授权功能，支持 Docker 部署。核心特性包括单点登录 (SSO)、身份代理和社交登录、用户联合等。
+description: Keycloak 是一款开源的身份和访问管理 (IAM) 系统。它提供了现代应用程序和服务所需的身份验证和授权功能，支持 Docker 部署。核心特性包括单点登录 (SSO)、身份代理和社交登录、用户联合等。
 tags: [IAM, Security, SSO, Auth]
 aliases: [Keycloak]
 status: completed

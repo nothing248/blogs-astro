@@ -1,7 +1,7 @@
 ---
 title: "etcd集群"
 filename: etcd-distributed-key-value-store
-summary: etcd是用Go语言编写的分布式一致性键值存储系统，广泛用作Kubernetes等分布式系统的元数据注册中心。本文覆盖etcd在Linux上的解压部署、Systemd服务脚本编写、数据持久化与自动压缩参数配置，以及利用etcdctl客户端进行集群成员管理和数据读写的命令行实操。
+description: etcd是用Go语言编写的分布式一致性键值存储系统，广泛用作Kubernetes等分布式系统的元数据注册中心。本文覆盖etcd在Linux上的解压部署、Systemd服务脚本编写、数据持久化与自动压缩参数配置，以及利用etcdctl客户端进行集群成员管理和数据读写的命令行实操。
 tags: [etcd, distributed-systems, key-value-store, raft]
 aliases: [etcd集群, etcd安装, etcdctl使用]
 status: completed

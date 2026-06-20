@@ -1,7 +1,7 @@
 ---
 title: "短信转发器"
 filename: sms-forwarder-android-optimization
-summary: SmsForwarder 是一款功能强大的 Android 短信与通知转发工具。它能够将接收到的短信、通话记录及应用通知实时转发至 Webhook、邮箱、Telegram 等平台。本文主要介绍了该工具在 Android 平台上的使用限制，以及针对小米等机型的极致省电与常驻后台优化配置方案，以确保服务的稳定运行。
+description: SmsForwarder 是一款功能强大的 Android 短信与通知转发工具。它能够将接收到的短信、通话记录及应用通知实时转发至 Webhook、邮箱、Telegram 等平台。本文主要介绍了该工具在 Android 平台上的使用限制，以及针对小米等机型的极致省电与常驻后台优化配置方案，以确保服务的稳定运行。
 tags: [android, automation, sms, tool]
 aliases: [短信转发器]
 status: completed

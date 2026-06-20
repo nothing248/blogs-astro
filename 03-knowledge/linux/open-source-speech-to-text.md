@@ -1,7 +1,7 @@
 ---
 title: "stt-services"
 filename: open-source-speech-to-text
-summary: 本文梳理了主流开源语音转文字（STT/ASR）服务框架。主要包括已停止维护但具里程碑意义的 Mozilla DeepSpeech（需 Python 3.6）、OpenAI 推出的强大通用语音识别模型 Whisper、百度飞桨平台的 PaddleSpeech 以及阿里开源的 FunASR 框架。为开发者进行自动语音识别选型提供参考。
+description: 本文梳理了主流开源语音转文字（STT/ASR）服务框架。主要包括已停止维护但具里程碑意义的 Mozilla DeepSpeech（需 Python 3.6）、OpenAI 推出的强大通用语音识别模型 Whisper、百度飞桨平台的 PaddleSpeech 以及阿里开源的 FunASR 框架。为开发者进行自动语音识别选型提供参考。
 tags:
   - speech-to-text
   - asr
