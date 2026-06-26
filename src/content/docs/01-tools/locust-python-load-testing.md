@@ -6,7 +6,7 @@ tags: [locust, load-testing, performance, python]
 aliases: [Locust压测, 性能测试, Python压测]
 status: completed
 date created: 星期一, 五月 19日 2025, 2:05:27 下午
-date modified: 星期五, 六月 19日 2026, 12:06:16 中午
+date modified: 星期一, 六月 22日 2026, 5:12:48 下午
 ---
 
 <!-- toc -->
