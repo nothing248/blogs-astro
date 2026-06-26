@@ -55,6 +55,11 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: '03-knowledge', collapsed: true } }],
 				},
 				{
+					label: '方案',
+					collapsed: true,
+					items: [{ autogenerate: { directory: '04-solution', collapsed: true } }],
+				},
+				{
 					label: '问题',
 					collapsed: true,
 					items: [{ autogenerate: { directory: '01-questions' } }],
